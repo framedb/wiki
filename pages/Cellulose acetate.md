@@ -1,0 +1,41 @@
+- > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
+- > Note: We'll use "acetate" to refer to this material
+- A synthesized organic plastic
+- Used heavily in vintage [[Frame]]s, especially post-war
+- This is because of its interesting properties and relatively low cost:
+	- It's supposed to be hypoallergenic
+	- It sits very soft on the skin
+	- It can be shaped when heated
+- ## Frame construction (the old days)
+	- > Videos:
+		- {{video https://www.youtube.com/watch?v=TOf9rd31sQ8}}
+		- {{video https://www.youtube.com/watch?v=LVV9p2Y7QvY}}
+	- Acetate is first produced as *straight* acetate sheets
+		- The process starts with the raw material: semi-transparent cellulose (i.e. from cotton), which is the chemical base for our final frame material
+		- The cellulose base is first kneaded like a dough
+		- Then the cellulose is mixed with the acetone and organic colors
+		- After the mixing, the colorful dough is then rolled flat like with croissant dough
+		- This soft, colored cellulose acetate flat sheet is then broken up into small pellets, like other plastics.
+			- This is so that we can control where which color goes more accurately with small pellets
+		- The soft sheet is then pressed to harden it a little before it is layered and cut uniformly, like with croissants
+		- The layered sheets are then hardened, and ready for artisans to make something out of it
+	- The straight sheet is then cut into different parts, like the frames and temples
+		- These parts are then worked by hands to shape them into the desired shapes
+		- This includes heating the straight WIP until it's soft and malleable
+		- Then an artisan/worker will use some shaping tools, presses and his hands to shape the parts with curvatures
+	- After acetate frames are carved and curved, other parts are then assembled into the frames
+		- The nose pad is attached with glue that also melts the adhesion point
+		- The hinges are first riveted into the temples, then the frame
+	- The roughly finished parts are then given final finishing touch
+- ## Degradation
+	- Acetate degrades naturally, **especially in hot and humid** environments
+	- When it degrades, it'll first "sweat", that is, it loses moisture and later its shine
+	- When it sweats, it'll usually give off a vinegar scent. This is called the vinegar effect
+	- Degraded acetate has *dull looks*, *smells like vinegar*, and may even *shrink due to moisture loss* (much like dry-aged beef)
+		- The shrinkage is why we recommend that you always equip your frames with lenses - to help the frames hold their shapes
+- ## Maintenance
+	- Because the material degrades relatively fast compared to metals, it's important to keep acetate well protected from the elements
+	- And because most vintage frames are old (from the 1950-70s), most acetate frames from that period
+	- Keep in cool, dry places, with decent air circulation
+	- Do not store vintage acetate frames in closed space like the glass cases
+	- A small amount of olive or coconut oil might be able to prevent further degradation, if applied and then washed off properly and if after the application the frames are kept properly

@@ -1,0 +1,24 @@
+- Frames are the main structure of a modern glasses
+  title:: Frame
+- It provides mount points for other parts, like the lenses, hinges, and other things
+- ## Materials
+	- Pre-WW2 frames have historically been built using metal or organic materials, like silver, steel, gold-plated steel, tortoise shell, and animal horns
+	- During WW2, the American War efforts propped up many plastics factories to help build plastic parts to replace the use of metals in non-critical components and parts. Eyewear frames are also one of those use cases.
+		- > The plastics in use at the times were both organic and inorganic
+		- This made the Western population more familiar with plastics
+	- > Note that some frames might contain different materials in one frame, like acetate on steel
+	- [[Steel]]
+		- Steel is strong and relatively cheap, so it is usually used in parts of eyewear like [[Hinge]] and [[Reinforcement]]
+	- [[Silver]]
+		- Because glasses and spectacles were considered very luxury for most populations, the eyewear back then was made by jewelers, who favored silver.
+		- Antique and vintage European frames tend to be made from silver
+	- [[Horn]]
+		- Horn is lighter than metal, so most large and thick frames back in the day tends to be made out of horn
+		- Because horn is organic and relatively unprocessed, each piece will look different
+	- [[Cellulose acetate]] (or [[Acetate]])
+		- First synthesized in 1865, Cellulose acetate is a synthetic organic plastic made from plant materials, which has found uses in:
+			- Photographic films
+			- Cigarette filters
+			- Eyewear frames
+		- The French supposedly started making frames out of acetate first, likely due to post-war rations on metals, the Americans then followed suite
+- ## Parts and construction
