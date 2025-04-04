@@ -1,6 +1,7 @@
-# logsex
+# OldFrames Wiki
 
-logsex is a template repository for deploying Logseq graph to GitHub Pages.
+OldFrames Wiki is a Logseq graph containing information and references
+to vintage eyewear collectors.
 
 See also: [soyart.github.io/logsex](https://soyart.github.io/logsex)
 
