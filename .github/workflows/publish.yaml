@@ -1,12 +1,16 @@
 name: publish
-permissions:
-  contents: write
 
 on:
     workflow_dispatch:
     push:
       branches:
         - master
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -28,9 +32,18 @@ jobs:
         # with:
         #   theme_mode: dark
 
-      - name: publish
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to branch publish
+        uses: peaceiris/actions-gh-pages@364c31d33bb99327c77b3a5438a83a357a6729ad # v3.4.0
         with:
-          branch: publish
-          folder: www
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: publish
+          publish_dir: www
+          force_orphan: true
+
+  deploy:
+    name: Deploy from branch
+    needs: build
+    uses: ./.github/workflows/deploy_branch.yaml
+    with:
+      branch_name: publish
+      path: ./
