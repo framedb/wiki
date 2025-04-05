@@ -1,11 +1,11 @@
 alias:: FDR
 
 - FDR-style frames are popular American frame family from [[1950s]] and [[1960s]]
-	- It seems to be very popular among powerful men due to its bold looks
-	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters
-	- Modern companies like Julius Tart still manufactures and sells this frame
+- It seems to be very popular among powerful men due to its bold looks
+	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters who are depicted as those further up the food chain
+- Modern companies like Julius Tart still manufactures and sells this frame
 - # Unmarked frames
-	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to compete
+	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to capture the market share
 	- This led to many "prototypes" or unrefined versions among the examples
 	- These examples usually lack manufacturer names, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (in all frames)
@@ -16,7 +16,8 @@ alias:: FDR
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples:
 		  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/JTO.FDR_.ClrCrystal.Clr_.Front_-scaled.jpg)
 - # Photographs
-	- Unmarked vintage amber FDR-style, with [SRO-made FDR-style]([[SRO FDR-style frame]])
+	- [SRO-made FDR-style]([[SRO FDR-style frame]]) and an unmarked frame
+		- The unmarked frames are stamped `USA 6`, with 6 probably referring to the temple length in inches
 		- ![IMG_1595.jpg](../assets/IMG_1595_1743872708498_0.jpg)
 	- [Courtesy of a Thai Facebook group: ชุมชนแว่นวินเทจ](https://www.facebook.com/groups/1761255333918207)
 		- Julius Tart reproduction in honey yellow, and unmarked vintage unreinforced FDR-style frames.
