@@ -1,8 +1,9 @@
 alias:: [[AO]]
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/American_Optical_Company)
-- American Optical (AO) is an American manufacturer with a very long history and even longer list of models.
+- American Optical (AO) is an American manufacturer with a very long history and even longer list of product portfolio.
 - # History
+	- > See also: [Very detailed AO history by former worker]([[AO event logs]])
 	- The American Optical Company (AO) was founded way back in 1833, producing lenses
 	- AO supplied glasses, goggles, and gunsights for troops during WW1 and WW2, and continued to supply the American military post-war
 	- Starting in 1980s, AO owners began divesting, making company rot slowly with factories closed
@@ -12,7 +13,6 @@ alias:: [[AO]]
 		- Consolidated had factories in Toronto, which was demolished
 			- {{video https://www.youtube.com/watch?v=fOgYUYAAPHc}}
 		- AO later bought Consolidated, and change the company name to American Optical Company of Canada (AOCOC)
-	- ## [Detailed AO history]([[AO event logs]])
 - # Frames (prescription)
 	- [[AO Times]]
 	- [[AO Rawhide]]
