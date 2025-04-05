@@ -1,7 +1,7 @@
 # [OldFrames Wiki](https://oldframes.github.io/wiki)
 
 OldFrames Wiki is a Logseq graph containing information and references
-to vintage eyewear collectors.
+about vintage eyewear, for collectors.
 
 See also: [soyart.github.io/logsex](https://soyart.github.io/logsex)
 
