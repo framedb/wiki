@@ -1,1 +1,1 @@
-- Arnel-style frames are modeled after [[TOE Arnel]]
+- Arnel-style frames are modeled after [[Tart Optical Arnel]]
