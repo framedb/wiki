@@ -1,6 +1,6 @@
 alias:: TOE
 
-- > Note: not to be confused with the Japanese-made [[Julius Tart Optical]] and the modern American company (also called Tart Optical)
+- > Note: not to be confused with the Japanese-made [[Julius Tart Optical]] and the modern American company (also called Tart Optical) - [see also: TOE reproductions](((67f185ba-d12e-4c28-9f54-54dbc51d9669)))
 - # History
 	- Tart Optical Enterprises Inc was founded in 1948 by Julius Tart, in New York
 	- After WW2, raw material supply for eyewear manufacturing was stressed
@@ -10,7 +10,8 @@ alias:: TOE
 		- He then also improve Tart finishing techniques
 	- This made TOE very reputable among New Yorkers and "sophisticated people" and actors, more like Saab of the eyewear world
 	- In [[1970s]], TOE began to begin an economy line, branded *Regency Eyewear*, which is more casual compared to original TOE offerings
-- # Reproduction brands
+- # Tart Reproductions
+  id:: 67f185ba-d12e-4c28-9f54-54dbc51d9669
 	- ## [[Julius Tart Optical]]
 		- Tart Optical Enterprises was first revived by his Newphew Richard Tart
 		- Julius Tart Optical has probably no connection to the old Tart, except for the family bond between Richard and Julius

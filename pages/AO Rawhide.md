@@ -4,7 +4,20 @@
 - We believe the Rawhide was being sold during [[1960s]], due to its reinforced nature
 - # Features
 	- 7-barreled hinges
+		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
+	- [[AO Red Dot Screw]]
+		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
 	- "Braced front"
-	- Steel reinforced acetate temple
+		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)
+	- Screened/printed make and size
+		- ![rawhide-09.jpg](../assets/rawhide-09_1743882290420_0.jpg)
+		- ![rawhide-10.jpg](../assets/rawhide-10_1743882407148_0.jpg)
 - # Photographs
--
+	- Example 1: Black 42-22
+		- ![rawhide-12.jpg](../assets/rawhide-12_1743882449644_0.jpg)
+		- ![rawhide-11.jpg](../assets/rawhide-11_1743882459855_0.jpg)
+		- ![rawhide-01.jpg](../assets/rawhide-01_1743882352068_0.jpg)
+		- ![rawhide-02.jpg](../assets/rawhide-02_1743882357973_0.jpg)
+		- ![rawhide-05.jpg](../assets/rawhide-05_1743882363699_0.jpg)
+		- ![rawhide-07.jpg](../assets/rawhide-07_1743882372868_0.jpg)
+		-
