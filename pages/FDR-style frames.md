@@ -11,4 +11,17 @@
 	- Finished (smoothed) rivets
 	- Spatula temples
 		- In older frames (i.e. from [[1950s]]), the spatula temples might be unreinforced
-		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples
+		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples:
+		  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/JTO.FDR_.ClrCrystal.Clr_.Front_-scaled.jpg)
+- # Photographs
+	- Unmarked vintage amber FDR-style, with [SRO-made FDR-style]([[SRO FDR-style frame]])
+		- ![IMG_1595.jpg](../assets/IMG_1595_1743872708498_0.jpg)
+	- [Courtesy of a Thai Facebook group: ชุมชนแว่นวินเทจ](https://www.facebook.com/groups/1761255333918207)
+		- Julius Tart reproduction in honey yellow, and unmarked vintage unreinforced FDR-style frames.
+			- ![IMG_1603.jpg](../assets/IMG_1603_1743872462476_0.jpg)
+			- ![IMG_1602.jpg](../assets/IMG_1602_1743872452601_0.jpg)
+		- Black and clear frames, both worn by Gary Oldman (unknown make/model)
+			- ![IMG_1120.jpg](../assets/IMG_1120_1743872326550_0.jpg)
+			- ![IMG_1121.jpg](../assets/IMG_1121_1743872337875_0.jpg)
+			- ![IMG_1119.jpg](../assets/IMG_1119_1743872320387_0.jpg)
+			- ![IMG_1118.jpg](../assets/IMG_1118_1743872307629_0.jpg)

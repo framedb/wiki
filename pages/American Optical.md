@@ -10,10 +10,10 @@
 			- {{video https://www.youtube.com/watch?v=fOgYUYAAPHc}}
 		- AO later bought Consolidated, and change the company name to American Optical Company of Canada (AOCOC)
 - # Frames (prescription)
-	- [[AO Manhattan]]
 	- [[AO Times]]
 	- [[AO Stadium]]
 	- [[AO Saratoga]]
+	- [[AO Manhattan]]
 	- [[AO Rawhide]]
 - # Frames (safety)
 	- [[AO Z87]]
