@@ -1,7 +1,7 @@
 # American
 	- [[American Optical]] (AO)
 	- [[Styl-Rite Optical]] (SRO)
-	- [[Tart Optical]] (TO)
+	- [[Tart Optical]] (TOE)
 	- [[Imperial Optical]]
 	- [[Libery Optical]]
 	- [[VAM]]

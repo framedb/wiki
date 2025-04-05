@@ -1,3 +1,5 @@
+alias:: [[Acetate]]
+
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
 - > Note: We'll use "acetate" to refer to this material
 - A synthesized organic plastic
@@ -6,6 +8,7 @@
 	- It's supposed to be hypoallergenic
 	- It sits very soft on the skin
 	- It can be shaped when heated
+- The French and other European manufacturers probably started doing it first, which prompted [[TOE]] to pioneer its use in USA
 - ## Frame construction (the old days)
 	- > Videos:
 		- {{video https://www.youtube.com/watch?v=TOf9rd31sQ8}}
