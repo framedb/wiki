@@ -1,0 +1,25 @@
+- > See also: [Wikipedia](https://en.wikipedia.org/wiki/American_Optical_Company)
+- # History
+	- The American Optical Company (AO) was founded way back in 1833, producing lenses
+	- AO supplied glasses, goggles, and gunsights for troops during WW1 and WW2, and continued to supply the American military post-war
+	- Starting in 1980s, AO owners began divesting, making company rot slowly with factories closed
+	- ## AO in Canada (AOCOC)
+		- > Reference: https://omeka.uottawa.ca/instrument-precision/items/show/29
+		- Consolidated Optical Company was a Canadian company founded in 1907 and largely based in and around Toronto
+		- Consolidated had factories in Toronto, which was demolished
+			- {{video https://www.youtube.com/watch?v=fOgYUYAAPHc}}
+		- AO later bought Consolidated, and change the company name to American Optical Company of Canada (AOCOC)
+- # Frames (prescription)
+	- [[AO Manhattan]]
+	- [[AO Times]]
+	- [[AO Stadium]]
+	- [[AO Saratoga]]
+	- [[AO Rawhide]]
+- # Frames (safety)
+	- [[AO Z87]]
+- # Brochures
+	- [[AO Jr. Modern Times]]
+		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
+		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
+	- [[AO Rawhide]]
+		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
