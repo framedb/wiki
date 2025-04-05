@@ -1,5 +1,8 @@
-- #[[American Optical]] #1950s #1960s
-- Although eyewear parts in the US is heavily standardized compared to in Europe, manufacturers could still slide a little innovation in there for a marketing and differentiation trick, like what Levi's did with the Arch and the Red Tab
+alias:: AO Red Dot Screw
+#[[American Optical]] #1950s #1960s
+
+- AO Red Dot Screws are special red-colored hinge screws most prevalently used by [[AO]] during [[1960s]]
+- > Although eyewear parts in the US is heavily standardized compared to in Europe, manufacturers could still slide a little innovation in there for a marketing and differentiation trick, like what Levi's did with the Arch and the Red Tab
 - # Variations
 	- The most conspicuous place to determine variant of the Red Dot is most likely to be at the screw exposed head. A screw head will have some form of "driver", i.e. the place for the screwdriver to drive the screw in and out
 	- ## Round drive

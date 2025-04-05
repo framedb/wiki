@@ -14,30 +14,30 @@ alias:: [[AO]]
 			- {{video https://www.youtube.com/watch?v=fOgYUYAAPHc}}
 		- AO later bought Consolidated, and change the company name to American Optical Company of Canada (AOCOC)
 - # Frames (prescription)
-	- [[AO Times]]
-	- [[AO Rawhide]]
-	- [[AO Manhattan]]
-	- [[AO Saratoga]]
-	- [[AO Stadium]]
-	- [[AO Tournament]]
+	- [[American Optical Times]]
+	- [[American Optical Rawhide]]
+	- [[American Optical Manhattan]]
+	- [[American Optical Saratoga]]
+	- [[American Optical Stadium]]
+	- [[American Optical Tournament]]
 - # Frames (safety)
 	- [[AO Z87]]
 - # 1963 Brochures
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
-	- [[AO Rawhide]]
+	- [[American Optical Rawhide]]
 		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
-		- ![image.png](../assets/image_1743885899891_0.png)
-	- [[AO Manhattan]]
+		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
+	- [[American Optical Manhattan]]
 		- ![image.png](../assets/image_1743886030541_0.png)
 		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/Screenshot_2025-04-06_at_03.34.44_1743885297763_0.png)
-	- [[AO Modern Times]]
+	- [[American Optical Modern Times]]
 		- ![image.png](../assets/image_1743885234469_0.png)
-	- [[AO Jr. Modern Times]]
+	- [[American Optical Jr. Modern Times]]
 		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
 		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
-	- [[AO Cataract Men's]]
+	- [[American Optical Cataract Men's]]
 		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/Screenshot_2025-04-06_at_03.35.40_1743885387084_0.png)
-	- [[AO Jaguar]]
+	- [[American Optical Jaguar]]
 		- ![image.png](../assets/image_1743885985583_0.png)
 - # External resources
 	- > These resources are not compiled into the Wiki, and may be stale

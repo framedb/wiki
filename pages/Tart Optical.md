@@ -16,7 +16,7 @@ alias:: TOE
 		- Tart Optical Enterprises was first revived by his Newphew Richard Tart
 		- Julius Tart Optical has probably no connection to the old Tart, except for the family bond between Richard and Julius
 		- Richard chose to have his new frames produced in Japan, which is the best place to make eyewear since 1980s
-		- Julius Tart Optical is still operational today, selling popular models like Ar ([[TOE Arnel]] reproduction), FDR ([[FDR-style frames]] reproduction), and other models
+		- Julius Tart Optical is still operational today, selling popular models like Ar ([[Tart Optical Arnel]] reproduction), FDR ([[FDR-style frames]] reproduction), and other models
 		- Because Julius Tart basically *reverse engineered* the blueprints for the frames, they never claim that they still use the same old block used by the old Tart in the old days
 		- For example, with Arnel, we can clearly see the differences between the vintage example and the reproduction
 			- The nose pads are much larger in Julius Tart, to sell to Japanese and other Asian peoples
@@ -25,6 +25,6 @@ alias:: TOE
 		- Around the turn of the century (probably 1997-98), Julius announced his intention to sell the company along with its factory
 		- Some unknown buyer bought the company, and continue to make more frames claiming to use the old molds, tools, QC process, and all that
 - # Frames
-	- [[TOE Arnel]]
-	- [[TOE Brian]]
-	- [[Regency Brian]]
+	- [[Tart Optical Arnel]]
+	- [[Tart Optical Brian]]
+	- [[Regency Eyewear Brian]]

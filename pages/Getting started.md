@@ -1,12 +1,14 @@
 # Basics
-	- [[Frame]]
+	- [[Frames]]
 	- [[Manufacturers]]
 - # Popular
 	- [[American Optical]]
 	- [[Tart Optical]]
+	- [[Styl-Rite Optical]]
 	- [[Acetate]]
-	- [[TOE Arnel]]
-	- [[AO Times]]
+	- [[Tart Optical Arnel]]
+	- [[Styl-Rite Optical 820]]
+	- [[American Optical Times]]
 	- [[FDR]]
 - # Read more
 	- https://www.opticalheritagemuseum.com/

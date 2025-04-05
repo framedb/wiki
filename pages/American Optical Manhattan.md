@@ -1,7 +1,10 @@
+alias:: AO Manhattan
+#[[American Optical]]
+
 - AO Manhattan is a men's premium rugged rectangular frame
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
-	- [[AO Red Dot Screw]], slotted
+	- [[AO Red Dot Screw]] , slotted
 	- [Reinforced body and temple]([[Reinforcement]])
 - # Caveats
 	- Lens changes

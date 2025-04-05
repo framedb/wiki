@@ -1,7 +1,9 @@
-- Frames are the main structure of a modern glasses
+alias:: Frame
+
+- Frames are the main structure of a modern eyewear
 - It provides mount points for other parts, like the lenses, hinges, and other things
 - ## Materials
-	- Pre-WW2 frames have historically been built using metal or organic materials, like silver, steel, gold-plated steel, tortoise shell, and animal horns
+	- Pre-WW2 frames had historically been built using metal or organic materials. Silver, steel, gold-plated steel, tortoise shell, and animal horns were common
 	- During WW2, the American War efforts propped up many plastics factories to help build plastic parts to replace the use of metals in non-critical components and parts. Eyewear frames are also one of those use cases.
 		- > The plastics in use at the times were both organic and inorganic
 		- This made the Western population more familiar with plastics

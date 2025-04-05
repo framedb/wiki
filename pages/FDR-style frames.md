@@ -16,7 +16,7 @@ alias:: FDR
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples:
 		  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/JTO.FDR_.ClrCrystal.Clr_.Front_-scaled.jpg)
 - # Photographs
-	- [SRO-made FDR-style]([[SRO FDR-style frame]]) and an unmarked frame
+	- [SRO-made FDR-style]([[Styl-Rite Optical FDR-style frame]]) and an unmarked frame
 		- The unmarked frames are stamped `USA 6`, with 6 probably referring to the temple length in inches
 		- ![IMG_1595.jpg](../assets/IMG_1595_1743872708498_0.jpg)
 	- [Courtesy of a Thai Facebook group: ชุมชนแว่นวินเทจ](https://www.facebook.com/groups/1761255333918207)
