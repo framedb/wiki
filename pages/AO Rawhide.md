@@ -1,0 +1,4 @@
+- #[[American Optical]]
+- AO Rawhide is a children's ophthalmic frames, with lens size ranging to from 36-42
+- What made the Rawhide so cool is the fact that it has metal [[Reinforcement]] on the bridge of the frame
+- # Photos
