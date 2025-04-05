@@ -1,0 +1,14 @@
+- FDR-style frames are popular American frame family from [[1950s]] and [[1960s]]
+	- It seems to be very popular among powerful men due to its bold looks
+	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters
+	- Modern companies like Julius Tart still manufactures and sells this frame
+- # Unmarked frames
+	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to compete
+	- This led to many "prototypes" or unrefined versions among the examples
+	- These examples usually lack manufacturer names, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
+- # Features (in all frames)
+	- 3-dot front rivets, with 3-dot temple rivets
+	- Finished (smoothed) rivets
+	- Spatula temples
+		- In older frames (i.e. from [[1950s]]), the spatula temples might be unreinforced
+		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples
