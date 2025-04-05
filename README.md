@@ -1,4 +1,4 @@
-# [OldFrames Wiki](https://oldframes.github.io/wiki)
+# [OldFrames Wiki](https://oldframes.github.io)
 
 OldFrames Wiki is a Logseq graph containing information and references
 about vintage eyewear, for collectors.
