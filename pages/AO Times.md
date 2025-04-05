@@ -8,3 +8,12 @@
 - AO Times is believed to have been related to [[AO Modern Times]] and [[AO Jr. Modern Times]]
 - # Features
 	- 7-barreled hinges
+		- ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
+	- [[AO Red Dot Screw]]
+		- ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
+	- Diamond front rivet
+		- ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
+- # Photographs
+	- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg)
+	- ![DSC00048.jpg](../assets/DSC00048_1743875398276_0.jpg)
+	- This particular example just happens to have golden print ![DSC00046.jpg](../assets/DSC00046_1743875409890_0.jpg)

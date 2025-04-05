@@ -1,5 +1,4 @@
 - Frames are the main structure of a modern glasses
-  title:: Frame
 - It provides mount points for other parts, like the lenses, hinges, and other things
 - ## Materials
 	- Pre-WW2 frames have historically been built using metal or organic materials, like silver, steel, gold-plated steel, tortoise shell, and animal horns
