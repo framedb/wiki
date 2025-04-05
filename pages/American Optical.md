@@ -1,4 +1,7 @@
+alias:: [[AO]]
+
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/American_Optical_Company)
+- American Optical (AO) is an American manufacturer with a very long history and even longer list of models.
 - # History
 	- The American Optical Company (AO) was founded way back in 1833, producing lenses
 	- AO supplied glasses, goggles, and gunsights for troops during WW1 and WW2, and continued to supply the American military post-war

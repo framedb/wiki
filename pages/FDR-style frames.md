@@ -1,3 +1,5 @@
+alias:: FDR
+
 - FDR-style frames are popular American frame family from [[1950s]] and [[1960s]]
 	- It seems to be very popular among powerful men due to its bold looks
 	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters
