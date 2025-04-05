@@ -7,7 +7,7 @@
 - AO Times is believed to have had been AO's direct competition to [[TOE Arnel]]
 - AO Times is believed to have been related to [[AO Modern Times]] and [[AO Jr. Modern Times]]
 - # Features
-	- 7-barreled hinges
+	- 7-barreled [hinges]([[Hinge]])
 		- ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
 	- [[AO Red Dot Screw]], round drive
 		- ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
@@ -15,7 +15,8 @@
 		- ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
 - # Photographs
 	- ## Example 1
-		- [[1950s]] two-tone black/clear Times, 44-22, with golden inlaid temples. **Note that the yellow hue is probably due to to the acetate aging**
-		- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg)
+		- [[1950s]] two-tone black/clear Times, 44-22, with golden inlaid temples
+		  > Note that the yellow hue is probably due to to the acetate aging
+		- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg){:height 487, :width 718}
 		- ![DSC00048.jpg](../assets/DSC00048_1743875398276_0.jpg)
 		- This particular example just happens to have golden print ![DSC00046.jpg](../assets/DSC00046_1743875409890_0.jpg)
