@@ -2,6 +2,7 @@
 	- [[American Optical]] (AO)
 	- [[Styl-Rite Optical]] (SRO)
 	- [[Tart Optical]] (TO)
+	- [[Imperial Optical]]
 	- [[Libery Optical]]
 	- [[VAM]]
 - # German and Austrian
