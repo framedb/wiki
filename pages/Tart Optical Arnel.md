@@ -6,7 +6,7 @@ alias:: TOE Arnel
 - Most variants can be distinguished by the references, stamping, and details on the temples
 - [[Arnel-style]] frames refer to copycats of the original Tart Arnel, mostly from modern companies like Moscot and other "vintage-inspired" brands
 - # Features
-	- 7-barreled hinges
+	- 7-barreled [hinges]([[Hinge]])
 	- In older examples, the temples are stamped with make and size, while newer examples feature printed text
 	- In newer examples, e.g. from [[1970s]] or [[1980s]], Arnels might feature ornately finished reinforcement steel bar in the temples
 - # Photographs

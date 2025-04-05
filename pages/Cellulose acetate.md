@@ -1,7 +1,7 @@
 alias:: [[Acetate]]
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
-- > Note: We'll use "acetate" to refer to this material
+  > Note: We'll use *acetate* to refer to this material throughout the wiki
 - A synthesized organic plastic
 - Used heavily in vintage [[Frames]]s, especially post-war
 - This is because of its interesting properties and relatively low cost:

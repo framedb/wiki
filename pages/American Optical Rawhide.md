@@ -5,7 +5,7 @@ alias:: AO Rawhide
 - What made the Rawhide so cool is the fact that it has metal [[Reinforcement]] (braced front) on the bridge of the frame
 - We believe the Rawhide was being sold during [[1960s]], due to its reinforced nature
 - # Features
-	- 7-barreled hinges
+	- 7-barreled [hinges]([[Hinge]])
 		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
 	- [[AO Red Dot Screw]] , slotted
 		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
