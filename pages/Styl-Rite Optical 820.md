@@ -5,7 +5,7 @@ alias:: SRO 820
 - We have plenty of photographs on the 820, because it's been Woody Allen's signature eyewear since the [[1960s]]
 - We've only seen it in black, so far
 - # Features
-	- 7-barreled hinges
+	- 7-barreled [hinges]([[Hinge]])
 	- Keyhole style
 	- Grain rivets
 - # Photographs

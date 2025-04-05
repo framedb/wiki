@@ -9,6 +9,7 @@ alias:: FDR
 	- This led to many "prototypes" or unrefined versions among the examples
 	- These examples usually lack manufacturer names, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (in all frames)
+	- 7-barreled [hinges]([[Hinge]])
 	- 3-dot front rivets, with 3-dot temple rivets
 	- Finished (smoothed) rivets
 	- Spatula temples
