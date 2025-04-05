@@ -9,12 +9,13 @@
 - # Features
 	- 7-barreled hinges
 		- ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
-	- [[AO Red Dot Screw]]
+	- [[AO Red Dot Screw]], round drive
 		- ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
 	- Diamond front rivet
 		- ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
 - # Photographs
-	- > Note that the yellow hue is probably due to to the acetate aging
-	- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg)
-	- ![DSC00048.jpg](../assets/DSC00048_1743875398276_0.jpg)
-	- This particular example just happens to have golden print ![DSC00046.jpg](../assets/DSC00046_1743875409890_0.jpg)
+	- ## Example 1
+		- [[1950s]] two-tone black/clear Times, 44-22, with golden inlaid temples. **Note that the yellow hue is probably due to to the acetate aging**
+		- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg)
+		- ![DSC00048.jpg](../assets/DSC00048_1743875398276_0.jpg)
+		- This particular example just happens to have golden print ![DSC00046.jpg](../assets/DSC00046_1743875409890_0.jpg)
