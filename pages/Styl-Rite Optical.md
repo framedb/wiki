@@ -1,7 +1,7 @@
 alias:: SRO
 
 - Styl-rite Optical is an American manufacturer of eyewear, with quite obscure history
-- From what we know, SRO was in business in the [[1950s]], and is still operational as of [[1970s]]
+- From what we know, SRO was in business in the [[1950s]], and it was still operational as of [[1970s]]
 - # Frames
 	- [[SRO 820]]
 	- [[SRO FDR-style frame]]
