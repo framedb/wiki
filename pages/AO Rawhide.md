@@ -5,7 +5,7 @@
 - # Features
 	- 7-barreled hinges
 		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
-	- [[AO Red Dot Screw]]
+	- [[AO Red Dot Screw]], slotted
 		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
 	- "Braced front"
 		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)

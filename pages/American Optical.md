@@ -12,17 +12,34 @@ alias:: [[AO]]
 		- Consolidated had factories in Toronto, which was demolished
 			- {{video https://www.youtube.com/watch?v=fOgYUYAAPHc}}
 		- AO later bought Consolidated, and change the company name to American Optical Company of Canada (AOCOC)
+	- ## Detailed event logs as recounted by Dick Whitney
+		- Reference PDF: https://www.dickwhitney.net/AOEVENTS.pdf
 - # Frames (prescription)
 	- [[AO Times]]
-	- [[AO Stadium]]
-	- [[AO Saratoga]]
-	- [[AO Manhattan]]
 	- [[AO Rawhide]]
+	- [[AO Manhattan]]
+	- [[AO Saratoga]]
+	- [[AO Stadium]]
+	- [[AO Tournament]]
 - # Frames (safety)
 	- [[AO Z87]]
-- # Brochures
+- # 1963 Brochures
+	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
+	- [[AO Rawhide]]
+		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
+		- ![image.png](../assets/image_1743885899891_0.png)
+	- [[AO Manhattan]]
+		- ![image.png](../assets/image_1743886030541_0.png)
+		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/Screenshot_2025-04-06_at_03.34.44_1743885297763_0.png)
+	- [[AO Modern Times]]
+		- ![image.png](../assets/image_1743885234469_0.png)
 	- [[AO Jr. Modern Times]]
 		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
 		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
-	- [[AO Rawhide]]
-		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
+	- [[AO Cataract Men's]]
+		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/Screenshot_2025-04-06_at_03.35.40_1743885387084_0.png)
+	- [[AO Jaguar]]
+		- ![image.png](../assets/image_1743885985583_0.png)
+- # External resources
+	- > These resources are not compiled into the Wiki, and may be stale
+	- [[AO workers and factories]]
