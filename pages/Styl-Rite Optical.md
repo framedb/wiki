@@ -4,7 +4,7 @@ alias:: SRO
 - From what we know, SRO was in business in the [[1950s]], and it was still operational as of [[1970s]]
 - # Frames
 	- [[Styl-Rite Optical 820]]
-	- [[Styl-Rite Optical FDR-style frame]]
+	- [[Styl-Rite Optical FDR]]
 	- [[Styl-Rite Optical unknown children's]]
 - # [SRO acetate]([[Acetate]]) quality
 	- We've come across maybe 3 SRO frames from [[1950s]] and [[1960s]], and they are not in the greatest shape
