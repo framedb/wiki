@@ -1,0 +1,2 @@
+- All references to photographs
+- > Most is of the collection is ours, some is taken from the Internet. Credits will be given

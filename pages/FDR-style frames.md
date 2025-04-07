@@ -4,19 +4,9 @@ alias:: FDR
 - It seems to be very popular among older men due to its bold, power-projecting looks
 	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters who are depicted as those further up the food chain
 - Modern companies like Julius Tart still manufactures and sells this frame
-- # Unmarked FDR frames
-	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to capture the market share
-	- This led to many "prototypes" or unrefined versions among the examples
-	- Some of these lack any meaningful identification, except for the country of origin (usually USA)
-	- We call these frames *unmarked*, because the markings are too ambiguous for us to determine their manufacturers
-		- **Example**: this is unmarked because the marking only says USA
-		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
-		- **Anti-example**: this is *not unmarked*! It's marked with [SRO logo]([[SRO]])
-		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
-	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (all frames)
 	- 7-barreled [hinges]([[Hinge]])
-		- From SRO
+		- [[SRO FDR]] 
 		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
 		- Unmarked example:
 		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046568966_0.jpg)
@@ -34,6 +24,16 @@ alias:: FDR
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples
 			- Julius Tart FDR
 			  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/fdr_gc_cr_s-scaled.jpg)
+- # Unmarked FDR frames
+	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to capture the market share
+	- This led to many "prototypes" or unrefined versions among the examples
+	- Some of these lack any meaningful identification, except for the country of origin (usually USA)
+	- We call these frames *unmarked*, because the markings are too ambiguous for us to determine their manufacturers
+		- **Example**: this is unmarked because the marking only says USA
+		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
+		- **Anti-example**: this is *not unmarked*! It's marked with [SRO logo]([[SRO]])
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
+	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # #Photographs
 	- ## Example 1
 	  id:: 67f40714-2a17-4fd0-a09b-c9f2a08612b2
