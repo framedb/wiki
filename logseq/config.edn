@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["OldFrames" "photographs" "styl-rite optical" "american optical" "american optical red dot screw" "american optical times" "fdr-style frames" "cellulose acetate"]
+ :favorites ["oldframes" "photographs" "cellulose acetate" "american optical" "styl-rite optical" "tart optical" "fdr-style frames" "american optical red dot screw" "american optical times" "styl-rite optical 820" "styl-rite optical fdr" "tart optical arnel"]
 
  ;; Set flashcards interval.
  ;; Expected value:
