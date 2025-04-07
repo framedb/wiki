@@ -12,6 +12,11 @@ alias:: SRO FDR
 	- Triple temple rivets on [unreinforced]([[Reinforcement]]) spatula temple
 		- ![2E508BBE-DAB9-4ABF-874F-A8D939BEF720.jpg](../assets/2E508BBE-DAB9-4ABF-874F-A8D939BEF720_1744045212770_0.jpg)
 		- ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045239047_0.jpg)
+	- Identification markings
+		- [Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
+		- [Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))):
+		  ![gl-a9170-6.jpg](../assets/gl-a9170-6_1744051532392_0.jpg){:height 726, :width 718}
 - # #Photographs
 	- ## Example 1
 	  id:: 67f40166-14f6-41ca-a0d8-a0c32c11caad
@@ -25,3 +30,13 @@ alias:: SRO FDR
 		- ![4FB625FE-29A6-4177-BE71-B49AB6F6CDC5.jpg](../assets/4FB625FE-29A6-4177-BE71-B49AB6F6CDC5_1744044742417_0.jpg)
 		- ![2E508BBE-DAB9-4ABF-874F-A8D939BEF720.jpg](../assets/2E508BBE-DAB9-4ABF-874F-A8D939BEF720_1744050804678_0.jpg)
 		- ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045017610_0.jpg)
+	- ## [Example 2 (courtesy of gig-lamps)](https://www.gig-lamps.com/home/1950s-styl-rite-optics-fdr-amber-made-in-usa-size-44-22-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%A3%BD-sro-%E8%8A%AF%E3%81%AA%E3%81%97%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB-fdr/)
+	  id:: 67f41c8a-6a02-479c-a7fc-bb8c6e884539
+		- Amber SRO FDR, 44-22, [[1950s]]
+		- https://www.gig-lamps.com/home/images/gl-a9170-1.jpg
+		- SRO marking
+		  https://www.gig-lamps.com/home/images/gl-a9170-6.jpg
+		- https://www.gig-lamps.com/home/images/gl-a9170-2.jpg
+		- https://www.gig-lamps.com/home/images/gl-a9170-3.jpg
+		- https://www.gig-lamps.com/home/images/gl-a9170-4.jpg
+		- https://www.gig-lamps.com/home/images/gl-a9170-5.jpg

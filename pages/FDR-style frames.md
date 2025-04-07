@@ -6,20 +6,20 @@ alias:: FDR
 - Modern companies like Julius Tart still manufactures and sells this frame
 - # Features (all frames)
 	- 7-barreled [hinges]([[Hinge]])
-		- [[SRO FDR]] 
+		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
-		- Unmarked example:
+		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046568966_0.jpg)
 	- 3-dot front rivets
-		- [[SRO FDR]]
+		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045471049_0.jpg)
-		- From unmarked
+		- [Unmarked example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![2927EA51-7D21-49E0-9933-8924D77A5BA3.jpg](../assets/2927EA51-7D21-49E0-9933-8924D77A5BA3_1744046598081_0.jpg)
 	- Spatula temples with 3-dot rivets
 		- Earlier models lack [steel bars inside the temples]([[Reinforcement]])
-			- [[SRO FDR]]
+			- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045412852_0.jpg)
-			- Unmarked, amber
+			- [Unmarked example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 			  ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/7A3E8F20-966D-489A-89D1-04F686A7A63A_1744046692344_0.jpg)
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples
 			- Julius Tart FDR
@@ -31,14 +31,17 @@ alias:: FDR
 	- We call these frames *unmarked*, because the markings are too ambiguous for us to determine their manufacturers
 		- **Example**: this is unmarked because the marking only says USA
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
-		- **Anti-example**: this is *not unmarked*! It's marked with [SRO logo]([[SRO]])
+		- **Anti-examples**: these examples are *not unmarked*! They are both marked with [[SRO]]:
+		  [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad))): with cursive logo
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
+		  [SRO Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))): [This one's typeface just looks just like the unmarked one above
+		  ![gl-a9170-6.jpg](../assets/gl-a9170-6_1744051532392_0.jpg)
 	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # #Photographs
 	- ## Example 1
 	  id:: 67f40714-2a17-4fd0-a09b-c9f2a08612b2
-		- Amber `USA 6`, possibly from [[1950s]] because its temples are not [reinforced]([[Reinforcement]])
-		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/680FA62C-CDD0-498A-9BF9-7675342F7589_1744046352658_0.jpg)
+		- Amber FDR with `USA 6` stamped on the temple, possibly from [[1950s]] because its temples are not [reinforced]([[Reinforcement]])
+		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/680FA62C-CDD0-498A-9BF9-7675342F7589_1744046352658_0.jpg){:height 487, :width 718}
 		- ![756AA21C-90D3-4A80-9B68-80361B8139F2.jpg](../assets/756AA21C-90D3-4A80-9B68-80361B8139F2_1744046373745_0.jpg)
 		- We can use the typeface or recognize some patterns to trace manufacturer, but that's all we got and we've not been able to discern where this example came from
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046477370_0.jpg)
