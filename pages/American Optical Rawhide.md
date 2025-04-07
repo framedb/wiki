@@ -1,6 +1,7 @@
 alias:: AO Rawhide
+#[[American Optical]]
 
-- #[[American Optical]]
+- ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg)
 - AO Rawhide is a children's rugged ophthalmic [[Acetate]] frames, with lens size ranging to from 36-42
 - What made the Rawhide so cool is the fact that it has metal [[Reinforcement]] (braced front) on the bridge of the frame
 - We believe the Rawhide was being sold during [[1960s]], due to its reinforced nature

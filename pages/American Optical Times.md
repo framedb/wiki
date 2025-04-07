@@ -1,10 +1,11 @@
 alias:: AO Times
 #[[American Optical]]
 
+- ![DSC00068.jpg](../assets/DSC00068_1744055729380_0.jpg)
+- AO Times is a very popular [[Acetate]] prescription frames
 - > Times only refer to the centerpiece of the frames.
   >
-  > Original buyers could choose different temples from the store they're buying in, leading to many variations of the temples
-- AO Times is a very popular [[Acetate]] prescription frames
+  > At that time original buyers could choose different temples from the store they're buying AO Times in, leading to many variations of the temple combination
 - AO Times is believed to be produced during late [[1950s]] to [[1960s]]
 - AO Times is believed to have had been AO's direct competition to [[Tart Optical Arnel]]
 - AO Times is believed to have been related to [[American Optical Modern Times]] and [[American Optical Jr. Modern Times]]
