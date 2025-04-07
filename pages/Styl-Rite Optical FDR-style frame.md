@@ -3,14 +3,14 @@ alias:: SRO FDR
 
 - A [[FDR-style frames]] made by SRO
 - SRO, like other American manufacturers of the time, also produced FDR-style frames
-- We only have 1 example from SRO, and [its temples are not reinforced]([[Reinforcement]]), suggesting it's from [[1950s]]
+- We only have come across a total of 1 example of FDR frames from SRO. [Its temples are not reinforced]([[Reinforcement]]), suggesting it's from [[1950s]]
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
 		- ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045185516_0.jpg)
 		- ![69276BD5-9D9D-4C9F-9189-35C81098019E.jpg](../assets/69276BD5-9D9D-4C9F-9189-35C81098019E_1744045113941_0.jpg)
 	- Triple front rivets
 		- ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045154352_0.jpg)
-	- Triple temple rivets on spatula temple
+	- Triple temple rivets on [unreinforced]([[Reinforcement]]) spatula temple
 		- ![2E508BBE-DAB9-4ABF-874F-A8D939BEF720.jpg](../assets/2E508BBE-DAB9-4ABF-874F-A8D939BEF720_1744045212770_0.jpg)
 		- ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045239047_0.jpg)
 - # #Photographs
