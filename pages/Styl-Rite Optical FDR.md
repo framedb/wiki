@@ -16,6 +16,7 @@ alias:: SRO FDR
 		- [Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
 		- [Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))):
+		  id:: 67f41d3e-d5be-4fcb-8a6e-18c45d91ddd4
 		  ![gl-a9170-6.jpg](../assets/gl-a9170-6_1744051532392_0.jpg){:height 726, :width 718}
 - # #Photographs
 	- ## Example 1
@@ -35,6 +36,7 @@ alias:: SRO FDR
 		- Amber SRO FDR, 44-22, [[1950s]]
 		- https://www.gig-lamps.com/home/images/gl-a9170-1.jpg
 		- SRO marking
+		  id:: 67f41d09-50fe-48c4-a916-aa8b57386dcf
 		  https://www.gig-lamps.com/home/images/gl-a9170-6.jpg
 		- https://www.gig-lamps.com/home/images/gl-a9170-2.jpg
 		- https://www.gig-lamps.com/home/images/gl-a9170-3.jpg
