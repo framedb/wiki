@@ -11,7 +11,7 @@ alias:: FDR
 	- We call these frames *unmarked*, because the markings are too ambiguous for us to determine their manufacturers
 		- **Example**: this is unmarked because the marking only says USA
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
-		- **Anti-example**: this is *not unmarked*! It's marked with [[SRO logo]]([[SRO]]), so we can discern the manufacturer
+		- **Anti-example**: this is *not unmarked*! It's marked with [SRO logo]([[SRO]])
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
 	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (all frames)
