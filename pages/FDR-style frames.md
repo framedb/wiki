@@ -32,9 +32,9 @@ alias:: FDR
 		- **Example**: this is unmarked because the marking only says USA
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
 		- **Anti-examples**: these examples are *not unmarked*! They are both marked with [[SRO]]:
-		  [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad))): with cursive logo
+		  [SRO FDR Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad))): with cursive logo
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
-		  [SRO Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))): [This one's typeface just looks just like the unmarked one above
+		  [SRO FDR Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))): [This one's typeface just looks just like the unmarked one above
 		  ![gl-a9170-6.jpg](../assets/gl-a9170-6_1744051532392_0.jpg)
 	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # #Photographs
@@ -50,7 +50,7 @@ alias:: FDR
 		- ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/7A3E8F20-966D-489A-89D1-04F686A7A63A_1744046502930_0.jpg)
 		- ![46280662-6EA4-4401-A699-98B2188F2C32.jpg](../assets/46280662-6EA4-4401-A699-98B2188F2C32_1744046520295_0.jpg)
 	- ## Comparison 1
-		- An [unmarked example 1 (amber)](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))) sitting side by side to [a [SRO FDR]] [Example 1 (clear)](((67f40166-14f6-41ca-a0d8-a0c32c11caad))) and
+		- An [unmarked example 1 (amber)](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))) sitting side by side to [SRO FDR Example 1 (clear)](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		- The unmarked frames are stamped `USA 6`, with 6 probably referring to the temple length in inches
 		- ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
 		- ![20D1545C-A256-49C2-810C-028FDD9A5E91.jpg](../assets/20D1545C-A256-49C2-810C-028FDD9A5E91_1744047192324_0.jpg)
