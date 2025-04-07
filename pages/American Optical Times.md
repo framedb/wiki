@@ -15,7 +15,7 @@ alias:: AO Times
 		- ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
 	- Diamond front rivet
 		- ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
-- # Photographs
+- # #Photographs
 	- ## Example 1
 		- [[1950s]] two-tone black/clear Times, 44-22, with golden inlaid temples
 		  > Note that the yellow hue is probably due to to the acetate aging
