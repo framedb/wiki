@@ -10,14 +10,21 @@ alias:: FDR
 	- These examples usually lack manufacturer names, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (in all frames)
 	- 7-barreled [hinges]([[Hinge]])
-	- 3-dot front rivets, with 3-dot temple rivets
-	- Finished (smoothed) rivets
+		- From SRO
+		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
+	- 3-dot front rivets
+		- From SRO
+		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045471049_0.jpg)
+	- 3-dot temple rivets
+		- From SRO
+		  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045412852_0.jpg)
 	- Spatula temples
 		- In older frames (i.e. from [[1950s]]), the spatula temples might be unreinforced
-		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with reinforced temples:
-		  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/JTO.FDR_.ClrCrystal.Clr_.Front_-scaled.jpg)
-- # Photographs
-	- [SRO-made FDR-style]([[Styl-Rite Optical FDR-style frame]]) and an unmarked frame
+		  ![2E508BBE-DAB9-4ABF-874F-A8D939BEF720.jpg](../assets/2E508BBE-DAB9-4ABF-874F-A8D939BEF720_1744045537677_0.jpg)
+		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples:
+		  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/fdr_gc_cr_s-scaled.jpg)
+- # #Photographs
+	- [[SRO FDR]] [Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad))) and an unmarked frame sitting side by side
 		- The unmarked frames are stamped `USA 6`, with 6 probably referring to the temple length in inches
 		- ![IMG_1595.jpg](../assets/IMG_1595_1743872708498_0.jpg)
 	- [Courtesy of a Thai Facebook group: ชุมชนแว่นวินเทจ](https://www.facebook.com/groups/1761255333918207)

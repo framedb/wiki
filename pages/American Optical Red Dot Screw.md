@@ -14,11 +14,8 @@ alias:: AO Red Dot Screw
 		- We then assume that this is the later variant
 - We started seeing red dots popping up in later part of [[1950s]], and then it became a staple during [[1960s]] for pricier AO models.
 - We haven't found the the red dot in any [[AO Safety frames]].
-- # References
-	- ## Brochures ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
-	  ![image.png](../assets/image_1743885587160_0.png)
-	- ## Statement or announcement
-	  > *American Optical Company announces that it’s new red dot program will be available nationwide very soon. This innovation, according to AO, has been acclaimed in the aereas where it has already been introduced.
+- # Reference text
+	- > *American Optical Company announces that it’s new red dot program will be available nationwide very soon. This innovation, according to AO, has been acclaimed in the aereas where it has already been introduced.
 	  >
 	  > Red Dot, so called because of the identifying mark on each piece, provides a new means for fastening temples to fronts. It eliminates the problem of lost screws and loose temples, says the company, adding that proper tension at the hinge is assured for the normal life of the frame.
 	  >

@@ -14,8 +14,9 @@ alias:: AO Rawhide
 	- Screened/printed make and size
 		- ![rawhide-09.jpg](../assets/rawhide-09_1743882290420_0.jpg)
 		- ![rawhide-10.jpg](../assets/rawhide-10_1743882407148_0.jpg)
-- # Photographs
-	- Example 1: Black 42-22
+- # #Photographs
+	- ## Example 1
+		- A black Rawhide, with size 42-22-135
 		- ![rawhide-12.jpg](../assets/rawhide-12_1743882449644_0.jpg)
 		- ![rawhide-11.jpg](../assets/rawhide-11_1743882459855_0.jpg)
 		- ![rawhide-01.jpg](../assets/rawhide-01_1743882352068_0.jpg)
