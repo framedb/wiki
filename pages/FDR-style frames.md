@@ -1,7 +1,7 @@
 alias:: FDR
 
 - FDR-style frames are popular American frame family from [[1950s]] and [[1960s]]
-- It seems to be very popular among powerful men due to its bold looks
+- It seems to be very popular among older men due to its bold, power-projecting looks
 	- It's very popular back then, and even brought back in period films like A Complete Unknown, where it was worn by multiple characters who are depicted as those further up the food chain
 - Modern companies like Julius Tart still manufactures and sells this frame
 - # Unmarked FDR frames
@@ -13,7 +13,7 @@ alias:: FDR
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
 		- **Anti-example**: this is *not unmarked*! It's marked with [[SRO logo]]([[SRO]]), so we can discern the manufacturer
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
-	- These examples usually lack manufacturer names, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
+	- These *unmarked* frames usually lack manufacturer names or any other useful identification, and most likely will only say `USA`, `Made in USA`, or `Handmade in USA`
 - # Features (all frames)
 	- 7-barreled [hinges]([[Hinge]])
 		- From SRO
@@ -52,6 +52,8 @@ alias:: FDR
 		- ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
 		- ![20D1545C-A256-49C2-810C-028FDD9A5E91.jpg](../assets/20D1545C-A256-49C2-810C-028FDD9A5E91_1744047192324_0.jpg)
 		- ![1398358A-9FAD-4A88-907D-6B36ED056808.jpg](../assets/1398358A-9FAD-4A88-907D-6B36ED056808_1744047670127_0.jpg)
+		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
 		- ![CAFD2DCC-79DE-429C-905B-45635165C6B6.jpg](../assets/CAFD2DCC-79DE-429C-905B-45635165C6B6_1744047457870_0.jpg)
 		- ![29E48DE3-74AA-4A68-9584-B1BA98702081.jpg](../assets/29E48DE3-74AA-4A68-9584-B1BA98702081_1744047205062_0.jpg)
 		- ![C4639083-2520-4E88-8BEB-92E291B994B2.jpg](../assets/C4639083-2520-4E88-8BEB-92E291B994B2_1744047622342_0.jpg)
