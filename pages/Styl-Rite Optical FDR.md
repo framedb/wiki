@@ -1,12 +1,16 @@
 alias:: SRO FDR
 #[[Styl-Rite Optical]]
 
+- ![18B77F01-81DC-40AA-AAC6-297CBB55CFE2.jpg](../assets/18B77F01-81DC-40AA-AAC6-297CBB55CFE2_1744104095852_0.jpg)
 - SRO, like other American manufacturers of the time, also produced [[FDR]] frames
 - > Note: We only have come across a total of 1 example of FDR frames from SRO. [Its temples are not reinforced]([[Reinforcement]]), suggesting it's from [[1950s]]
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
-		- ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045185516_0.jpg)
-		- ![69276BD5-9D9D-4C9F-9189-35C81098019E.jpg](../assets/69276BD5-9D9D-4C9F-9189-35C81098019E_1744045113941_0.jpg)
+		- [Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
+		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045185516_0.jpg)
+		  ![69276BD5-9D9D-4C9F-9189-35C81098019E.jpg](../assets/69276BD5-9D9D-4C9F-9189-35C81098019E_1744045113941_0.jpg)
+		- From [Gig-lamps](https://www.gig-lamps.com/home/1950s-styl-rite-optics-fdr-amber-made-in-usa-size-44-22-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%A3%BD-sro-%E8%8A%AF%E3%81%AA%E3%81%97%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB-fdr/)
+		  ![gl-a9170-5.jpg](../assets/gl-a9170-5_1744103934284_0.jpg)
 	- Triple front rivets
 		- ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045154352_0.jpg)
 	- Triple temple rivets on [unreinforced]([[Reinforcement]]) spatula temple
