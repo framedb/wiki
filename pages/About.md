@@ -1,11 +1,5 @@
 - #OldFrames is an open-source wiki based on Logseq for vintage eyewear information
 - The main point is to consolidate all information in a knowledge base where everything can be indexed and retrieved easily, enabling cross references
-- We focus mostly on vintage [American and German/Austrian glasses](logseq://graph/wiki?page=Manufacturers), mostly from 1950s onwards
+- We focus mostly on vintage [American and German/Austrian glasses](logseq://graph/wiki?page=Manufacturers), mostly from #1950s onwards
 - We do not claim to be anywhere near authoritative, and please feel free to correct any mistakes
-- # Contribution
-	- [Get Logseq](https://logseq.com)
-	- Go to [OldFrames GitHub](https://github.com/OldFrames/wiki), and fork or clone the repository, which will be your local repository
-	- Open Logseq, and have it load graph from your local repository
-	- Contribute
-	- Once done, open PR to OldFrames on GitHub
-- > OldFrames can be considered public domain, and any use of copyrighted materials is fair use here because there's no commercial activity
+- Wanna help? Feel free to [contribute to OldFrames](logseq://graph/wiki?page=Contribution)
