@@ -1,7 +1,8 @@
-# American
+# [American]([[American manufacturer]])
 	- [[American Optical]] (AO)
 	- [[Styl-Rite Optical]] (SRO)
 	- [[Tart Optical]] (TOE)
+	- [[Bausch and Lomb]] (B&L)
 	- [[Imperial Optical]]
 	- [[Libery Optical]]
 	- [[VAM]]
