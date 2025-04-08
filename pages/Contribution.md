@@ -1,4 +1,6 @@
-- > OldFrames can be considered public domain, and any use of copyrighted materials is fair use here because there's no commercial activity
+- > OldFrames can be considered public domain, and any use of copyrighted materials is fair use here because there's no commercial activity.
+  >
+  >See also: [[Content Policy]]
 - # Contributing to #OldFrames
 	- Contribution is helping #OldFrames by adding, updating, verifying, correcting our wiki
 	- Since OldFrames is open-source, anyone can contribute
