@@ -1,6 +1,6 @@
-# [OldFrames Wiki](https://oldframes.github.io/wiki)
+# [FrameDB Wiki](https://framedb.github.io/wiki)
 
-OldFrames Wiki is a Logseq graph containing information and references
+FrameDB Wiki is a Logseq graph containing information and references
 about vintage eyewear, for collectors.
 
 See also: [soyart.github.io/logsex](https://soyart.github.io/logsex)
