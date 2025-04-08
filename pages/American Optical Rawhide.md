@@ -1,22 +1,26 @@
 alias:: AO Rawhide
-#[[American Optical]] #Frame
+#[[American Optical]] #Frame #1960s
 
 - ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg)
 - AO Rawhide is a children's rugged ophthalmic [[Acetate]] frames, with lens size ranging to from 36-42
-- What made the Rawhide so cool is the fact that it has metal [[Reinforcement]] (braced front) on the bridge of the frame
-- We believe the Rawhide was being sold during [[1960s]], due to its reinforced nature
+- What made the Rawhide so cool is the fact that it has [braced front](((67f42cb0-e6f4-4b30-a169-5584a8ea2f06))) on the bridge of the frame
+- > We believe the Rawhide was produced and sold during from #1960s onward due to its reinforced and rugged construction.
+  >
+  > [It also appears on 1963 brochures with no black color option](((67f42cb0-5985-41ed-91dc-930804819192))), suggesting that [the black example](((67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e))) here is produced later than 1963
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
 		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
 	- [[AO Red Dot Screw]] , slotted
 		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
-	- "Braced front"
+	- ["Braced front"]([[Reinforcement]])
+	  id:: 67f42cb0-e6f4-4b30-a169-5584a8ea2f06
 		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)
 	- Screened/printed make and size
 		- ![rawhide-09.jpg](../assets/rawhide-09_1743882290420_0.jpg)
 		- ![rawhide-10.jpg](../assets/rawhide-10_1743882407148_0.jpg)
 - # #Photographs
 	- ## Example 1
+	  id:: 67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e
 		- A black Rawhide, with size 42-22-135
 		- ![rawhide-12.jpg](../assets/rawhide-12_1743882449644_0.jpg)
 		- ![rawhide-11.jpg](../assets/rawhide-11_1743882459855_0.jpg)

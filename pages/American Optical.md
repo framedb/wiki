@@ -28,6 +28,7 @@ alias:: [[AO]]
 		- ## Brochures ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
 		  ![image.png](../assets/image_1743885587160_0.png)
 	- [[American Optical Rawhide]]
+	  id:: 67f42cb0-5985-41ed-91dc-930804819192
 		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
 		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
