@@ -1,10 +1,10 @@
 alias:: TOE Arnel
 #[[Tart Optical]] #Frame
 
-- Tart Arnel is a [[Acetate]] prescription frame best known for being staple of any vintage eyewear collections
+- Tart Arnel is an [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame best known for being staple of any vintage eyewear collections
 - Arnels sold for a very long time, allegedly from early #1950s up until #1980s, so there're many variations
 - Most variants can be distinguished by the references, stamping, and details on the temples
-- [[Arnel-style]] frames refer to copycats of the original Tart Arnel, mostly from modern companies like Moscot and other "vintage-inspired" brands
+- [[Arnel-style]] frames refer to copycats of the original TOE Arnel, mostly from modern companies like Moscot and other "vintage-inspired" brands
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
 	- In older examples, the temples are stamped with make and size, while newer examples feature printed text
