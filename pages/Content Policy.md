@@ -1,7 +1,7 @@
 - Most of the media here, especially reference photographs, is ours
-- But there're still some 3rd-party images in use in #OldFrames
+- But there're still some 3rd-party images in use in #FrameDB
 - We firmly believe these usage falls under fair use
-- OldFrames is not monetized, most of the subject entities (i.e. the manufacturers) are also defunct, and we have very little to no interest in the reproduction eyewear world
+- FrameDB is not monetized, most of the subject entities (i.e. the manufacturers) are also defunct, and we have very little to no interest in the reproduction eyewear world
 - ## 3rd-party images
 	- We try our best to use our own photos, but sometimes we'll have to borrow some photos from the Internet
 	- Our default policy for borrowed Internet content is to reference them as links

@@ -1,2 +1,2 @@
-- All references to photographs in OldFrames
+- All references to photographs in FrameDB
 - See also: [[Content Policy]]
