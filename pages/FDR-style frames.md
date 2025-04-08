@@ -45,7 +45,7 @@ alias:: FDR
 - # #Photographs
 	- ## Example 1
 	  id:: 67f40714-2a17-4fd0-a09b-c9f2a08612b2
-		- Amber FDR with `USA 6` stamped on the temple, possibly from #1950s because its temples are not [reinforced]([[Reinforcement]])
+		- [Unmarked](((67f42cb0-6598-46a7-93e0-88f69fa5605e))) amber FDR with `USA 6` stamped on the temple, possibly from #1950s because its temples are not [reinforced]([[Reinforcement]])
 		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/680FA62C-CDD0-498A-9BF9-7675342F7589_1744046352658_0.jpg){:height 487, :width 718}
 		- ![756AA21C-90D3-4A80-9B68-80361B8139F2.jpg](../assets/756AA21C-90D3-4A80-9B68-80361B8139F2_1744046373745_0.jpg)
 		- We can use the typeface or recognize some patterns to trace manufacturer, but that's all we got and we've not been able to discern where this example came from
@@ -59,9 +59,13 @@ alias:: FDR
 		- The unmarked frames are stamped `USA 6`, with 6 probably referring to the temple length in inches
 		- ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
 		- ![20D1545C-A256-49C2-810C-028FDD9A5E91.jpg](../assets/20D1545C-A256-49C2-810C-028FDD9A5E91_1744047192324_0.jpg)
-		- ![1398358A-9FAD-4A88-907D-6B36ED056808.jpg](../assets/1398358A-9FAD-4A88-907D-6B36ED056808_1744047670127_0.jpg)
+		- Temple differences
+		  ![1398358A-9FAD-4A88-907D-6B36ED056808.jpg](../assets/1398358A-9FAD-4A88-907D-6B36ED056808_1744047670127_0.jpg)
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
+		- [[Hinge]] screws
+			- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/C1FC92C6-442C-451F-BA87-DA7325DD8569_1744141945169_0.jpg)
+			  ![083C775A-B615-433F-9F27-85A2EBBD359A.jpg](../assets/083C775A-B615-433F-9F27-85A2EBBD359A_1744046432038_0.jpg)
 		- ![CAFD2DCC-79DE-429C-905B-45635165C6B6.jpg](../assets/CAFD2DCC-79DE-429C-905B-45635165C6B6_1744047457870_0.jpg)
 		- ![29E48DE3-74AA-4A68-9584-B1BA98702081.jpg](../assets/29E48DE3-74AA-4A68-9584-B1BA98702081_1744047205062_0.jpg)
 		- ![C4639083-2520-4E88-8BEB-92E291B994B2.jpg](../assets/C4639083-2520-4E88-8BEB-92E291B994B2_1744047622342_0.jpg)
