@@ -1,5 +1,5 @@
 alias:: AO Times
-#[[American Optical]]
+#[[American Optical]] #Frame
 
 - ![DSC00068.jpg](../assets/DSC00068_1744055729380_0.jpg)
 - AO Times is a very popular [[Acetate]] prescription frames
