@@ -1,7 +1,8 @@
 alias:: FDR
 
 - ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
-- **FDR** is a common name for a popular American frame family from [[1950s]] and [[1960s]]
+  A clear grey [SRP FDR](logseq://graph/wiki?page=Styl-Rite%20Optical%20FDR) with an amber [unmarked FDR](((67f42cb0-6598-46a7-93e0-88f69fa5605e))) frames
+- **FDR** is a common name for a popular American [eyewear frame]([[Frame]]) family from [[1950s]] and [[1960s]]
 - It's well known for being the classic American bold and large eyewear, with prominent 3 dot rivets
 	- It's very popular back then, and even brought back in films like [A Complete Unknown](https://en.wikipedia.org/wiki/A_Complete_Unknown), where it was worn by multiple characters who are depicted as those further up the food chain in [1960s America]([[1960s]])
 - Modern companies like Julius Tart still manufactures and sells this frame
@@ -26,6 +27,7 @@ alias:: FDR
 			- Julius Tart FDR
 			  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/fdr_gc_cr_s-scaled.jpg)
 - # Unmarked FDR frames
+  id:: 67f42cb0-6598-46a7-93e0-88f69fa5605e
 	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to capture the market share
 	- This led to many "prototypes" or unrefined versions among the examples
 	- Some of these lack any meaningful identification, except for the country of origin (usually USA)

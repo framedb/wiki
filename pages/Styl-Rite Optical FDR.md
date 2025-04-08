@@ -1,5 +1,5 @@
 alias:: SRO FDR
-#[[Styl-Rite Optical]]
+#[[Styl-Rite Optical]] #Frame
 
 - ![18B77F01-81DC-40AA-AAC6-297CBB55CFE2.jpg](../assets/18B77F01-81DC-40AA-AAC6-297CBB55CFE2_1744104095852_0.jpg)
 - SRO, like other American manufacturers of the time, also produced [[FDR]] frames

@@ -1,5 +1,5 @@
 alias:: TOE Arnel
-#[[Tart Optical]]
+#[[Tart Optical]] #Frame
 
 - Tart Arnel is a [[Acetate]] prescription frame best known for being staple of any vintage eyewear collections
 - Arnels sold for a very long time, allegedly from early [[1950s]] up until [[1980s]], so there're many variations
