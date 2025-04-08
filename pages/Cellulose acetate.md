@@ -9,7 +9,15 @@ alias:: [[Acetate]]
 	- It sits very soft on the skin
 	- It can be shaped when heated
 - The French and other European manufacturers probably started doing it first, which prompted [[TOE]] to pioneer its use in USA
-- ## Frame construction (the old days)
+- # History
+	- > These new materials cost much less than metal and tortoise shells at the time, so more people bought the plastic frames
+	- *Plastic* was first used for frames as tortoise shell replacement, beginning in 1879 with Spencer Optical’s Celluloid frame patent
+	- At the end of the 1800’s, Dupont introduced [[Zylonite]], made from nitrocellulose
+		- Harold Lloyd wore Zylonite frames in his films, and so it became popular
+		- But Zylonite was too flammable, and so was banned for eyewear frames in #1950s
+	- Cellulose butyrate replaced Zylonite
+	- By the end of [[WW2]], over 50% of sales are plastic frames
+- # Frame construction (the old days)
 	- > Videos:
 		- {{video https://www.youtube.com/watch?v=TOf9rd31sQ8}}
 		- {{video https://www.youtube.com/watch?v=LVV9p2Y7QvY}}
@@ -30,13 +38,13 @@ alias:: [[Acetate]]
 		- The nose pad is attached with glue that also melts the adhesion point
 		- The hinges are first riveted into the temples, then the frame
 	- The roughly finished parts are then given final finishing touch
-- ## Degradation
+- # Degradation
 	- Acetate degrades naturally, **especially in hot and humid** environments
 	- When it degrades, it'll first "sweat", that is, it loses moisture and later its shine
 	- When it sweats, it'll usually give off a vinegar scent. This is called the vinegar effect
 	- Degraded acetate has *dull looks*, *smells like vinegar*, and may even *shrink due to moisture loss* (much like dry-aged beef)
 		- The shrinkage is why we recommend that you always equip your frames with lenses - to help the frames hold their shapes
-- ## Maintenance
+- # Maintenance
 	- Because the material degrades relatively fast compared to metals, it's important to keep acetate well protected from the elements
 	- And because most vintage frames are old (from the 1950-70s), most acetate frames from that period
 	- Keep in cool, dry places, with decent air circulation

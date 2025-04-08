@@ -1,7 +1,7 @@
 alias:: [[AO]]
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/American_Optical_Company)
-- American Optical (AO) is an American manufacturer with a very long history and even longer list of product portfolio.
+- American Optical (AO) is an [[American]] frame manufacturer with a very long history and even longer list of product portfolio, covering everything from simple eyeglasses, sunglasses, to other safety wear and precision instruments
 - # Frames
 	- [[American Optical Times]]
 	- [[American Optical Rawhide]]
@@ -96,7 +96,7 @@ alias:: [[AO]]
 		  >
 		  > This meant that astigmatism customers were not well served at the time
 		  >
-		  > Also, the Wells are very close to the Lomb, and they both went to DC together to lobby for the continuation of tariffs on imported glass
+		  > Also, the Wells are very close to [the Lombs]([[Bausch and Lomb]]), and they both went to DC together to lobby for the continuation of tariffs on imported glass
 		- (1884) AO hired lens expert Charlie Wilson #lens
 			- After a year of trial and error, AO finally successfully made spherical lenses from imported lens blanks
 			- This helps expanded the business very aggressively since it cut lead time for finished European lenses, which was usually a year long
@@ -142,6 +142,54 @@ alias:: [[AO]]
 		- (1910) AO continued to expand, and built a new lens factory *Lensdale* behind the main plant
 			- Lensdale was the largest US concrete building at the time
 			- ![ao_plant_1912.jpg](../assets/ao_plant_1912_1744127190133_0.jpg)
+		- [[WW1]] contribution
+			- 1/3 of staff was called up to serve
+			- 100-350 staff was sick because of the Spanish Flu (1918)
+			- 1/3 of lens production, along with goggles and other equipment was shipped to Britain
+			- These shipments are meant to be used by troopers, pilots, mobile bases, field hospitals
+		- (1916) AO hired **Edgar Tillyer** from the Bureau of Standards as R&D head
+			- Edgar Tillyer
+			  ![edgar_tillyer.jpg](../assets/edgar_tillyer_1744129464672_0.jpg)
+			- This was around the time [[B&L]] started selling *corrected curve lens* **Punktal**, which was very popular
+			- AO might possibly just want to compete with B&L Punktal lens
+			- In 1925, AO successfully introduced Tillyer's corrected curve lens
+			- AO later hired Anna Estelle Glancy (math god) to Tillyer with his calculations
+			  ![anna_glancy.jpg](../assets/anna_glancy_1744129781600_0.jpg)
+			- Tillyer would go on to claim 165 US patents and 32 Canadian patents, while Glancy was credited with a patent for the first progressive lens design in 1924
+			- Tillyer worked during [[WW1]] designing scopes and gunsights for US military, working on optical components of many war machines like the submarine telescopes, tank telescopes, and bomber's bomb site telescopes
+			- Tillyer later contributed his glass formulations to the Manhattan project in [[WW2]]
+		- (1917) Tillyer patented a new type of Calobar
+			- This new Calobar lens **blocks both infrared and UV light**, becoming de facto standard [sunglass]([[Sunglasses]]) for the armed forces prior to [[WW2]]
+		- (1917) AO patented the [Windsor]([[American Optical Windsor]]) frame
+			- An influential round frame, frequently infringed upon
+			- ![ao_windsor_1930s.webp](../assets/ao_windsor_1930s_1744131387436_0.webp)
+		- (1920s) Post-war developments
+			- (1920) AO patented the [Lensometer](https://www.opticalheritagemuseum.com/explore/feature/lensometer), a mechanical optical device used to determine the lens's spherical and cylindrical power
+				- 1921 AO Lensometer
+				  ![ao_lensometer_1921.jpg](../assets/ao_lensometer_1921_1744130976404_0.jpg)
+			- AO introduced *Nokrome* and *Cruxite* glass, Polaroid lenses combined with Calobar glass as a superior sunglass lens
+			- (1925) The influential **Tillyer's Lens** is introduced
+				- The lens enlarged the area of the prescription optical power of a lens
+			- 1920s acquisitions
+				- AO bought 14 optical companies with branches in 119 cities to help with the distribution efficiency
+					- **Julius King Company**, including their Industrial Eye Protection Division
+						- Relocated to Southbridge
+						- This later became a very important division
+					- **Globe Optical Company** (Boston retailer)
+						- Bought 12 branches from the
+					- **DeZeng Instrument Company** in New Jersey
+						- Acquiring DeZeng in 1925 allowed AO into scientific precision instrument market
+					- **Spencer Lens Company** in New York
+						- The microscope maker later became AO's Scientific Instrument Division
+						- AO microscope
+						  ![ao_microscope.jpg](../assets/ao_microscope_1744132742462_0.jpg)
+				- AO also recruited execs of the acquired companies to join the company
+				- After the acquisitions, AO now has operations in both wholesale and retail, as well as expanded manufacturing capabilities, even expanding into new market like telescopes
+			- (1926) AO began offering [[Zylonite]] frame in [[AO Windsor]] model in black, wine and demi amber
+				- ![ao_zylonite_1926.jpg](../assets/ao_zylonite_1926_1744132904957_0.jpg)
+		- (1930) AO introduced the [[AO Fulvue]] frame!
+			- This *full-view* frame positioned the endpieces closer to the top of the frame rather than at midpoint
+			- This paved way for the positioning of today's generic ophthalmic glasses
 - # #Photographs
 	- Gemini 5 astronauts wearing AO [sunglasses]([[Sunglasses]]) in 1965 #1960s
 		- ![gemini5.jpg](../assets/gemini5_1744122238812_0.jpg)
@@ -177,7 +225,7 @@ alias:: [[AO]]
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
 		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/SafteyScientificAmericanCoverAug1944_1744121296637_0.jpg)
 		- ![SafetyColmascopePg2.jpeg](../assets/SafetyColmascopePg2_1744121306836_0.jpeg)
-	- 1948 [[AO Safety]] sunglasses, advertising [CALOBAR lens](https://aoeyewear.com/lens-technology/?srsltid=AfmBOoqaOxpfz2yeRF7m98PZEsL_8ehSmWDfp8z_C3iYY7vBYZuyxt72)
+	- 1948 [[AO Safety]] sunglasses, advertising [Calobar lens](https://aoeyewear.com/lens-technology/?srsltid=AfmBOoqaOxpfz2yeRF7m98PZEsL_8ehSmWDfp8z_C3iYY7vBYZuyxt72)
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
 		  ![SafetyCalSun1948PAge2.jpg](../assets/SafetyCalSun1948PAge2_1744121388471_0.jpg)
 	- 1948 AO S-1000 cover featuring [[AO Safety]] polycarbonate safety goggles
