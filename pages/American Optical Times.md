@@ -6,7 +6,7 @@ alias:: AO Times
 - > Times only refer to the centerpiece of the frames.
   >
   > At that time original buyers could choose different temples from the store they're buying AO Times in, leading to many variations of the temple combination
-- AO Times is believed to be produced during late [[1950s]] to [[1960s]]
+- AO Times is believed to be produced during late #1950s to #1960s
 - AO Times is believed to have had been AO's direct competition to [[Tart Optical Arnel]]
 - AO Times is believed to have been related to [[American Optical Modern Times]] and [[American Optical Jr. Modern Times]]
 - # Features
@@ -18,7 +18,7 @@ alias:: AO Times
 		- ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
 - # #Photographs
 	- ## Example 1
-		- [[1950s]] two-tone black/clear Times, 44-22, with golden inlaid temples
+		- Two-tone black/clear Times, 44-22, with golden inlaid temples #1950s
 		  > Note that the yellow hue is probably due to to the acetate aging
 		- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg){:height 487, :width 718}
 		- ![DSC00048.jpg](../assets/DSC00048_1743875398276_0.jpg)
