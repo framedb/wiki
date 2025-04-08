@@ -1,7 +1,7 @@
 alias:: FDR
 
 - ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
-  An amber [unmarked FDR](((67f42cb0-6598-46a7-93e0-88f69fa5605e))) and a clear grey [SRP FDR](logseq://graph/wiki?page=Styl-Rite%20Optical%20FDR) frames from #1950s
+  An amber [unmarked FDR](((67f42cb0-6598-46a7-93e0-88f69fa5605e))) and a clear grey [SRP FDR](((67f40166-14f6-41ca-a0d8-a0c32c11caad))) frames from #1950s
 - **FDR** is a common name for a popular American [eyewear frame]([[Frame]]) family from #1950s and #1960s
 - It's well known for being the classic American bold and large eyewear, with prominent 3 dot rivets
 	- It's very popular back then, and even brought back in films like [A Complete Unknown](https://en.wikipedia.org/wiki/A_Complete_Unknown), where it was worn by multiple characters who are depicted as those further up the food chain in [1960s America]([[1960s]])
