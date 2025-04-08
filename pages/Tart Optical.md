@@ -1,6 +1,7 @@
 alias:: TOE
 
 - > Note: not to be confused with the Japanese-made [[Julius Tart Optical]] and the modern American company (also called Tart Optical) - [see also: TOE reproductions](((67f185ba-d12e-4c28-9f54-54dbc51d9669)))
+- Tart Optical Enterprise was an #American frame manufacturer
 - # History
 	- Tart Optical Enterprises Inc was founded in 1948 by Julius Tart, in New York
 	- After WW2, raw material supply for eyewear manufacturing was stressed

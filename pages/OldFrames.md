@@ -12,7 +12,7 @@
 	- [[Tart Optical Arnel]]
 	- [[Styl-Rite Optical 820]]
 	- [[American Optical Times]]
-	- [[FDR]]
+	- [FDR frames]([[FDR]])
 - # Read more
 	- https://www.opticalheritagemuseum.com/
 	- https://www.dickwhitney.net/RBWAOHistoryIndex.html
