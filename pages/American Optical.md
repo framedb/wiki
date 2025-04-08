@@ -190,6 +190,7 @@ alias:: [[AO]]
 		- (1930) AO introduced the [[AO Fulvue]] frame!
 			- This *full-view* frame positioned the endpieces closer to the top of the frame rather than at midpoint
 			- This paved way for the positioning of today's generic ophthalmic glasses
+			- ![ao_fulvue.jpg](../assets/ao_fulvue_1744133363378_0.jpg)
 - # #Photographs
 	- Gemini 5 astronauts wearing AO [sunglasses]([[Sunglasses]]) in 1965 #1960s
 		- ![gemini5.jpg](../assets/gemini5_1744122238812_0.jpg)
