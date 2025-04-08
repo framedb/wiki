@@ -1,6 +1,7 @@
-# Basics
+# Index
 	- [[Manufacturers]]
 	- [[Frames]]
+	- All frame reference photos are indexed to #Photographs
 - # Popular
 	- [[American Optical]]
 	- [[Tart Optical]]
