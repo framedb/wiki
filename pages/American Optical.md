@@ -10,6 +10,9 @@ alias:: [[AO]]
 	- [[American Optical Stadium]]
 	- [[American Optical Tournament]]
 	- [[AO Safety Z87]]
+- # Misc
+	- [[American Optical Red Dot Screw]]
+	- [[American Optical Green Dot Screw]]
 - # History
 	- > See also: [Article from Optical Heritage Museum](https://www.opticalheritagemuseum.com/learn/va/aohistory)
 	- What would become American Optical Company was founded way back in 1833, starting with [silver frames]([[Silver]])
@@ -272,6 +275,8 @@ alias:: [[AO]]
 		  ![SafetyCalSun1948PAge2.jpg](../assets/SafetyCalSun1948PAge2_1744121388471_0.jpg)
 	- 1948 AO S-1000 cover featuring [[AO Safety]] polycarbonate safety goggles
 		- ![SafetyS1000Cover.jpg](../assets/SafetyS1000Cover_1744121790483_0.jpg)
+	- 1950s AO print ads featuring [[AO Red Dot Screw]]
+		- ![ao_ads_womens_reddot.jpg](../assets/ao_ads_womens_reddot_1744286382767_0.jpg)
 	- 1965 NASA recognition for AO contribution
 		- ![nasa_ao.jpg](../assets/nasa_ao_1744122419213_0.jpg) Michael Collins
 - # External resources

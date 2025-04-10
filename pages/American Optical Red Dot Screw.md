@@ -5,6 +5,8 @@ alias:: AO Red Dot Screw
 - > Not to be confused with [[American Optical Green Dot Screw]], used in [[AO Safety]] glasses
 - The earliest mention of AO Red Dot was in in 1955
 - > Although eyewear parts in the US is heavily standardized compared to in Europe, manufacturers could still slide a little innovation in there for a marketing and differentiation trick, like what Levi's did with the Arch and the Red Tab
+- We started seeing red dots popping up in later #1950s, and then it became a staple during #1960s for pricier AO models.
+- We haven't found the the red dot in any [[AO Safety frames]].
 - # Variations
 	- The most conspicuous place to determine variant of the Red Dot is most likely to be at the screw exposed head. A screw head will have some form of "driver", i.e. the place for the screwdriver to drive the screw in and out
 	- ## Round drive
@@ -15,8 +17,8 @@ alias:: AO Red Dot Screw
 	- ## Slotted drive
 		- We found this variants in use more in #1960s frames
 		- We then assume that this is the later variant
-- We started seeing red dots popping up in later #1950s, and then it became a staple during #1960s for pricier AO models.
-- We haven't found the the red dot in any [[AO Safety frames]].
+		- A NOS AO frame from #1960s [on sale on eBay](https://www.ebay.com/itm/286132140549)
+		  ![ao_frame_red_dot.webp](../assets/ao_frame_red_dot_1744285685979_0.webp)
 - # Reference text
 	- > *American Optical Company announces that it’s new red dot program will be available nationwide very soon. This innovation, according to AO, has been acclaimed in the aereas where it has already been introduced.
 	  >
