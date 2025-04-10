@@ -117,7 +117,7 @@ alias:: [[AO]]
 			- The workforce was mostly Francophone immigrants from Canada, who just immigrated to Southbridge
 		- ## AO *firsts* by 1800s
 - | Year | Event |
-  | :-: | :-: |
+  | :-- | --: |
   | 1874 | Rimless spectacles |
   | 1883 | The first lens plant |
   | 1884 | Trial frames |
@@ -237,7 +237,7 @@ alias:: [[AO]]
 - # 1963 Brochure
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]
-		- ## Brochures ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
+		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
 		  ![image.png](../assets/image_1743885587160_0.png)
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
