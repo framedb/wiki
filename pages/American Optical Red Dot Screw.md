@@ -2,6 +2,8 @@ alias:: AO Red Dot Screw
 #[[American Optical]] #1950s #1960s
 
 - AO Red Dot Screws are special red-colored hinge screws most prevalently used by [[AO]] during #1960s
+- > Not to be confused with [[American Optical Green Dot Screw]], used in [[AO Safety]] glasses
+- The earliest mention of AO Red Dot was in in 1955
 - > Although eyewear parts in the US is heavily standardized compared to in Europe, manufacturers could still slide a little innovation in there for a marketing and differentiation trick, like what Levi's did with the Arch and the Red Tab
 - # Variations
 	- The most conspicuous place to determine variant of the Red Dot is most likely to be at the screw exposed head. A screw head will have some form of "driver", i.e. the place for the screwdriver to drive the screw in and out
@@ -9,6 +11,7 @@ alias:: AO Red Dot Screw
 		- We found round red dots in older frames
 		- We then assume that this is the original version of the red dot system.
 		- It features a screw with rounded screw head and a rounded *driver*
+		- ![ao_red_dot.jpg](../assets/ao_red_dot_1744285071922_0.jpg)
 	- ## Slotted drive
 		- We found this variants in use more in #1960s frames
 		- We then assume that this is the later variant
@@ -24,3 +27,9 @@ alias:: AO Red Dot Screw
 	  > The machine also has a device for removal of the rivets if a change of temples is required.
 	  >
 	  > Only the newest AO frame will accommodate the new fastenings.  All new models being prepared by the frame division will use the red dots.*
+- # #Photographs
+	- From [eBay listing](https://www.ebay.com/itm/281975157212):
+		- ![ao_red_dot.jpg](../assets/ao_red_dot_1744285071922_0.jpg)
+		- ![ao_red_dot_close.webp](../assets/ao_red_dot_close_1744285126668_0.webp)
+		- ![ao_red_dot_bag.webp](../assets/ao_red_dot_bag_1744285109890_0.webp)
+		- ![ao_red_dot_bag_close.webp](../assets/ao_red_dot_bag_close_1744285118463_0.webp)
