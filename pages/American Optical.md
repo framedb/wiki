@@ -238,6 +238,7 @@ alias:: [[AO]]
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]
 		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
+		  id:: 67f42cb0-ec15-4e07-8295-8a4c96b3e693
 		  ![image.png](../assets/image_1743885587160_0.png)
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
