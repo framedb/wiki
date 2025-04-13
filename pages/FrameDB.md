@@ -1,4 +1,8 @@
-# Index
+- {{embed [[About]]}}
+- GitHub: https://github.com/framedb
+- Facebook Page: [oldframes.mag](https://www.facebook.com/people/oldframesmag/61575039811810/)
+- Instagram: [oldframes.mag](https://instagram.com/oldframes.mag)
+- # Index
 	- [[Manufacturers]]
 	- [[Frames]]
 	- All frame reference photos are indexed to #Photographs
