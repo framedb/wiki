@@ -1,0 +1,14 @@
+- #Frame
+- Hinge connects 2 surfaces together
+	- In vintage eyewear, they usually allowing at maximum \~90 degree of rotation
+	- In modern eyewear, springs are used in hinge, which allows >90 degree of rotation
+- # Parts
+	- ![hinge_parts.png](../assets/hinge_parts_1744577870455_0.png)
+	- Pin
+		- Holds the leaves together
+	- Leaf
+		- Can move around the pin
+		- The fastening sites
+			- Fastening devices (e.g. [[Temple rivet]]) are inserted through the leaf holes and connect both of them to the hinge
+	- Knuckles
+		- Hollow, usually round compartment that holds the pin in place
