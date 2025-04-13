@@ -3,6 +3,7 @@ alias:: [[Acetate]]
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
   > Note: We'll use *acetate* to refer to this material throughout the wiki
 - A synthesized organic plastic
+- Many names are used for the same material, including **Zylonite** (also called **Zyl**)
 - Used heavily in vintage [eyewear frames]([[Frame]]), especially post-war
 - This is because of its interesting properties and relatively low cost:
 	- It's supposed to be hypoallergenic

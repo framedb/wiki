@@ -11,5 +11,5 @@ alias:: SRO 820
 - # Features
 	- 7-barreled [hinges]([[Hinge]])
 	- Keyhole style
-	- Grain rivets
+	- [Rice rivets]([[Rice rivets]])
 - # #Photographs

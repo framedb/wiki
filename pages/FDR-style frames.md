@@ -12,12 +12,12 @@ alias:: FDR
 		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046568966_0.jpg)
-	- 3-dot front rivets
+	- [3-dot front rivets]([[Dot rivets]]) #Rivet
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045471049_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![2927EA51-7D21-49E0-9933-8924D77A5BA3.jpg](../assets/2927EA51-7D21-49E0-9933-8924D77A5BA3_1744046598081_0.jpg)
-	- Spatula temples with 3-dot rivets
+	- Spatula temples with 3-[dot rivets]([[Dot rivets]]) #Rivet #Temple
 		- Earlier models lack [steel bars inside the temples]([[Reinforcement]])
 			- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045412852_0.jpg)
