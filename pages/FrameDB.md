@@ -17,6 +17,8 @@
 	- [[Styl-Rite Optical 820]]
 	- [[American Optical Times]]
 	- [FDR frames]([[FDR]])
+	- [[Acetate]]
+	- [[Hinge]]
 - # Read more
 	- https://www.opticalheritagemuseum.com/
 	- https://www.dickwhitney.net/RBWAOHistoryIndex.html

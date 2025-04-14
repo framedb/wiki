@@ -3,7 +3,10 @@ alias:: [[Acetate]]
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
   > Note: We'll use *acetate* to refer to this material throughout the wiki
 - A synthesized organic plastic
-- Many names are used for the same material, including **Zylonite** (also called **Zyl**)
+	- First synthesized in 1865, Cellulose acetate is a synthetic organic plastic made from plant materials, which has found uses in:
+		- Photographic films
+		- Cigarette filters
+		- Eyewear frames
 - Used heavily in vintage [eyewear frames]([[Frame]]), especially post-war
 - This is because of its interesting properties and relatively low cost:
 	- It's supposed to be hypoallergenic
@@ -16,7 +19,7 @@ alias:: [[Acetate]]
 	- At the end of the 1800’s, Dupont introduced [[Zylonite]], made from nitrocellulose
 		- Harold Lloyd wore Zylonite frames in his films, and so it became popular
 		- But Zylonite was too flammable, and so was banned for eyewear frames in #1950s
-	- Cellulose butyrate replaced Zylonite
+	- Cellulose butyrate then replaced and succeeded [[Zylonite]]
 	- By the end of [[WW2]], over 50% of sales are plastic frames
 - # Frame construction (the old days)
 	- > Videos:
