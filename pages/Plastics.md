@@ -1,37 +1,43 @@
 - Plastics are organic compounds known for their plasticity
 - First documented use of plastics for frames was Spencer Optical’s Celluloid patent
-- # Timeline of plastics
+- # [[Bakelite]]
+	- Discovered: 1904
+	- Widespread use, including a lot of items in common household items and machine guns
+	- Cons:
+		- Cracks in cold weather
+- # [[Cellulose nitrate]] (Zylonite, Zyl, and nitrocellulose)
+  id:: 67fd7414-38a9-4cc5-bf67-7bfde52591b9
+	- Cheap plastics made from cotton, hence common names **flash paper**, **flash cotton**, **guncotton**, **pyroxylin**, **flash string**
+	- The Zylonite name comes from the [American Zylonite Company](https://digitalcollections.syr.edu/Documents/Detail/american-zylonite-company/288087)
+		- The American Zylonite Company manufactured and sold the compound with license from Daniel Spill's British **Xylonite** Company
+		- It was very popular, so Zylonite became household names
+	- Is very shiny
+	- Widespread use: piano keys, billiard ball, nail polish, photographic film emulsion, automobile lacquer and paint coating, and [as celluloid (i.e. for eyewear frames)](https://en.wikipedia.org/wiki/Celluloid)
+		- Now banned for eyewear use
+	- Cons:
+		- Highly flammable
+- # [[Cellulose acetate]]
+	- Actually first appeared in 1864
+	- Made from woodpulp
+	- Successor to ((67fd7414-38a9-4cc5-bf67-7bfde52591b9))
+		- > People usually confuse the acetate with nitrate or and zyl-stuff, and some FrameDB page might still contains errors. This page should be authoritative for FrameDB regarding the plastic materials
+	- Came about in frame manufacturing just in time with the rise of popularity for cat-eye  and [[Brow-line]] glasses
+	- Cons:
+		- Difficult maintenance
+- # [[Nylon]]
+	- First synthesized: 1935
+	- Very flexible if not dried out
+	- Sometimes only used in eye wires, and comes separately from the frame
+	- Cons:
+		- Very brittle if dried out
+- # [[Optyl]]
+	- Patented by [[Carrera Eyewear Company]]: 1964
+	- Brand name for an epoxy resin
+	- 30% lighter than [[Cellulose acetate]]
+- # Timeline
 	- > From https://www.eyeglasseswarehouse.com/getting-familiar-with-vintage-plastic-glasses.html?srsltid=AfmBOopk-SthESRbY6fy0-gFYTDDTmehcoS1A1xopHTiicq4B0kwIidZ
-	- [[Bakelite]]
-		- Discovered: 1904
-		- Widespread use, including a lot of items in common household items
-		- Cons:
-			- Cracks in cold weather
-	- [[Cellulose nitrate]] (Zylonite, Zyl, and nitrocellulose)
-	  id:: 67fd7414-38a9-4cc5-bf67-7bfde52591b9
-		- Cheap plastics made from cotton, hence common names **flash paper**, **flash cotton**, **guncotton**, **pyroxylin**, **flash string**
-		- The Zylonite name comes from the [American Zylonite Company](https://digitalcollections.syr.edu/Documents/Detail/american-zylonite-company/288087)
-			- The American Zylonite Company manufactured and sold the compound with license from Daniel Spill's British **Xylonite** Company
-			- It was very popular, so Zylonite became household names
-		- Is very shiny
-		- Widespread use: piano keys, billiard ball, nail polish, photographic film emulsion, automobile lacquer and paint coating, and [as celluloid (i.e. for eyewear frames)](https://en.wikipedia.org/wiki/Celluloid)
-			- Now banned for eyewear use
-		- Cons:
-			- Highly flammable
-	- [[Cellulose acetate]]
-		- Actually first appeared in 1864
-		- Made from woodpulp
-		- Successor to ((67fd7414-38a9-4cc5-bf67-7bfde52591b9))
-			- > People usually confuse the acetate with nitrate or and zyl-stuff, and some FrameDB page might still contains errors. This page should be authoritative for FrameDB regarding the plastic materials
-		- Came about in frame manufacturing just in time with the rise of popularity for cat-eye  and [[Brow-line]] glasses
-		- Cons:
-			- Difficult maintenance
-	- [[Nylon]]
-		- First synthesized: 1935
-		- Very flexible if not dried out
-		- Cons:
-			- Very brittle if dried out
-	- [[Optyl]]
-		- Patented by [[Carrera Eyewear Company]]: 1964
-		- Brand name for an epoxy resin
-		- 30% lighter than [[Cellulose acetate]]
+	- [[Bakelite]] was first used during early 1900s after being discovered in 1904
+	- [[Zylonite]] was first used around the same time as Bakelite, but it persisted longer and remained in use until [[1930s]]
+	- [[Acetate]] replaces Zylonite, and continues to dominate
+	- [[Nylon]] First synthesized in 1935 #1930s
+	- [[Optyl]] First used in 1964 by Carrera #1960s
