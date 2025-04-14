@@ -10,10 +10,13 @@ alias:: Frame
 		- The chassis includes the whole centerpiece of the eyewear, and it includes
 			- Eye wire
 				- Lens will be fixed here
-			- Bridge
+			- [[Bridge]]
 				- Connects both eye wires together
 			- Frame front
 				- The rest of the chassis
+			- [[Endpiece]]
+				- The outermost part of the chassis, usually protruding out to provide space for fastening of the hinge
+				- This is where the [front rivets]([[Rivet]]) are secured
 	- [[Temple]]
 	  id:: 67fc19f8-92ea-4e11-8dec-ddfefb3589f4
 	- [[Hinge]]

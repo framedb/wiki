@@ -1,15 +1,41 @@
 alias:: SRO 820
 #[[Styl-Rite Optical]] #Frame
 
-- ![sro-820.webp](../assets/sro-820_1744106922976_0.webp)
+- ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
 - SRO 820 is an [ophthalmic]([[Ophthalmic]]) [acetate eyewear frame]([[Acetate]]), estimated to be have been produced from late #1950s to #1960s
 - We have plenty of photographs on the 820, because it's been [Woody Allen's signature eyewear](https://en.wikipedia.org/wiki/Woody_Allen) since the #1960s
 	- ![woody_allen_820.jpg](../assets/woody_allen_820_1744286169191_0.jpg)
 - We've only seen it in black, so far
-- It seems SRO 820 is the original inspiration for TVR 523
+- It seems SRO 820 is the original inspiration for TVR 523:
 	- ![tvr-523.jpg](../assets/tvr-523_1744106904317_0.jpg)
 - # Features
+	- [[Keyhole bridge]]
+		- ![IMG_1740.jpg](../assets/IMG_1740_1744659722141_0.jpg)
+		- ![IMG_1732.jpg](../assets/IMG_1732_1744658810605_0.jpg)
 	- 7-barreled [hinges]([[Hinge]])
-	- Keyhole style
+		- ![IMG_1744.jpg](../assets/IMG_1744_1744659669988_0.jpg)
+		- ![IMG_1736.jpg](../assets/IMG_1736_1744658832535_0.jpg)
 	- [Rice rivets]([[Rice rivets]])
+		- ![IMG_1742.jpg](../assets/IMG_1742_1744659686612_0.jpg)
+		- ![IMG_1741.jpg](../assets/IMG_1741_1744659693005_0.jpg)
+	- Thick [[Spatula temples]]
+		- ![IMG_1746.jpg](../assets/IMG_1746_1744659642538_0.jpg)
+		- ![IMG_1745.jpg](../assets/IMG_1745_1744659618265_0.jpg)
 - # #Photographs
+	- ## Example 1
+		- Black SRO 820 44-24-140 #1950s
+		- ![IMG_1740.jpg](../assets/IMG_1740_1744659740760_0.jpg)
+		- ![IMG_1741.jpg](../assets/IMG_1741_1744659751157_0.jpg)
+		- ![IMG_1742.jpg](../assets/IMG_1742_1744659785066_0.jpg)
+		- ![IMG_1746.jpg](../assets/IMG_1746_1744659767023_0.jpg)
+		- ![IMG_1745.jpg](../assets/IMG_1745_1744659801049_0.jpg)
+		- ![IMG_1744.jpg](../assets/IMG_1744_1744659842067_0.jpg)
+		- ![IMG_1730.jpg](../assets/IMG_1730_1744658729893_0.jpg)
+		- ![IMG_1731.jpg](../assets/IMG_1731_1744658761510_0.jpg)
+	- ## Example 2
+		- > With original paper packaging
+		- From http://ponmegane.cocolog-nifty.com/pon/2014/01/vintage-sro-2a2.html
+		- ![image.png](../assets/image_1744659545776_0.png)
+		- ![Screenshot 2025-04-15 at 02.37.01.png](../assets/Screenshot_2025-04-15_at_02.37.01_1744659429459_0.png)
+		- ![image.png](../assets/image_1744659471994_0.png)
+		- ![image.png](../assets/image_1744659571766_0.png)

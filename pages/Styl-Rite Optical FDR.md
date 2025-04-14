@@ -13,7 +13,7 @@ alias:: SRO FDR
 		  ![gl-a9170-5.jpg](../assets/gl-a9170-5_1744103934284_0.jpg)
 	- Triple front rivets
 		- ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045154352_0.jpg)
-	- Triple temple rivets on [unreinforced]([[Reinforcement]]) spatula temple
+	- Triple temple rivets on [unreinforced]([[Reinforcement]]) [library temple]([[Library temple]])
 		- ![2E508BBE-DAB9-4ABF-874F-A8D939BEF720.jpg](../assets/2E508BBE-DAB9-4ABF-874F-A8D939BEF720_1744045212770_0.jpg)
 		- ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045239047_0.jpg)
 	- Identification markings

@@ -13,6 +13,8 @@ alias:: [[AO]]
 - # Misc
 	- [[American Optical Red Dot Screw]]
 	- [[American Optical Green Dot Screw]]
+	- Era identification from temple markings, from vintage seller [@krabeemarn](https://instagram.com/krabeemarn) #1950s #1960s #1970s
+		- ![IMG_1739.jpg](../assets/IMG_1739_1744658499984_0.jpg)
 - # History
 	- > See also: [Article from Optical Heritage Museum](https://www.opticalheritagemuseum.com/learn/va/aohistory)
 	- What would become American Optical Company was founded way back in 1833, starting with [silver frames]([[Silver]])
