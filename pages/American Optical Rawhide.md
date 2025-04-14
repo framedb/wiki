@@ -8,6 +8,8 @@ alias:: AO Rawhide
   >
   > [It also appears on 1963 brochures with no black color option](((67f42cb0-5985-41ed-91dc-930804819192))), suggesting that [the black example](((67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e))) here is produced later than 1963
 - # Features
+	- [[Keyhole bridge]]
+		- ![rawhide-12_1744055868201_0.jpg](../assets/rawhide-12_1744055868201_0_1744660125268_0.jpg)
 	- 7-barreled [hinges]([[Hinge]])
 		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
 	- [[AO Red Dot Screw]] , slotted

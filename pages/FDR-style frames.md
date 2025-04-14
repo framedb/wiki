@@ -7,6 +7,8 @@ alias:: FDR
 	- It's very popular back then, and even brought back in films like [A Complete Unknown](https://en.wikipedia.org/wiki/A_Complete_Unknown), where it was worn by multiple characters who are depicted as those further up the food chain in [1960s America]([[1960s]])
 - Modern companies like Julius Tart and Moscot still manufacture and sell this frame
 - # Features (all frames)
+	- [[Standard bridge]]
+		- ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
 	- 7-barreled [hinges]([[Hinge]])
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
