@@ -1,3 +1,4 @@
+- #Frame
 - Plastics are organic compounds known for their plasticity
 - First documented use of plastics for frames was Spencer Optical’s Celluloid patent
 - # [[Bakelite]]
