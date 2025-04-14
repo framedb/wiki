@@ -1,7 +1,7 @@
 alias:: AO Times
 #[[American Optical]] #Frame
 
-- ![DSC00068.jpg](../assets/DSC00068_1744055729380_0.jpg)
+- ![DSC00063.jpg](../assets/DSC00063_1744660955145_0.jpg)
 - AO Times is a very popular [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame
 - id:: 67f42cb0-b344-4833-a00f-97864ddd2135
   > *Times* only refer to the centerpiece of the frames.
@@ -11,6 +11,9 @@ alias:: AO Times
 - AO Times is believed to have had been AO's direct competition to [[TOE Arnel]]
 - AO Times is believed to have been related to [[AO Modern Times]] and [[AO Jr. Modern Times]]
 - # Features
+	- [[Keyhole bridge]]
+		- ![DSC00068.jpg](../assets/DSC00068_1744055729380_0.jpg)
+		- ![DSC00065.jpg](../assets/DSC00065_1744661005838_0.jpg)
 	- 7-barreled [hinges]([[Hinge]])
 		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
 		  ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
