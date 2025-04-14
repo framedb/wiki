@@ -34,7 +34,7 @@ alias:: SRO 820
 		- ![IMG_1731.jpg](../assets/IMG_1731_1744658761510_0.jpg)
 	- ## Example 2
 		- > With original paper packaging
-		- From http://ponmegane.cocolog-nifty.com/pon/2014/01/vintage-sro-2a2.html
+		- Back SRO 820 42-20 Listing from http://ponmegane.cocolog-nifty.com/pon/2014/01/vintage-sro-2a2.html
 		- ![image.png](../assets/image_1744659545776_0.png)
 		- ![Screenshot 2025-04-15 at 02.37.01.png](../assets/Screenshot_2025-04-15_at_02.37.01_1744659429459_0.png)
 		- ![image.png](../assets/image_1744659471994_0.png)
