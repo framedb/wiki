@@ -1,3 +1,3 @@
 alias:: American
 
-- American [frame]([[Frame]]) manufacturer
+- American [eyewear frame]([[Frame]]) manufacturer

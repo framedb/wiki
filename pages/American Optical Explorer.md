@@ -1,18 +1,16 @@
 type:: FrameModel
-foo-prop:: bar
-frame-manufacturer::
-frame-origin:: [[American manufacturer]] 
-frame-era::
+frame-manufacturer:: [[American Optical]] 
+frame-origin:: [[American]] 
+frame-era:: #1950s, #1960s 
 frame-material::
 
-- # [[Features]] 
+- # Features
   type:: features
-	- frame-bridge:: keyhole
+	- frame-bridge:: [[Keyhole bridge]]
 	- frame-endpiece::
 	- frame-hinge::
-	- frame-rivet:: [[Dot rivets]]
+	- frame-rivet::  dot
 		- Target
-	- frame-a
 - # Variants
 	- > Variants refer to variations in examples for the same model.
 	  >

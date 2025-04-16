@@ -1,61 +1,34 @@
 - #+BEGIN_QUERY
   {
-    :title [:b "Find by 'parent has prop type:features' whose content contains some substring"]
+    :title [:b "Find blocks by Page.type=FrameModel"]
+    :inputs [:frame-bridge "Keyhole bridge"]
     :query [
       :find (pull ?b [*])
-        :where
-        [?b :block/page ?p]
-        [?b :block/parent ?parent]
-        (property ?parent :type "features")
-        [?b :block/content ?bcontent]
-        [(clojure.string/includes? ?bcontent "frame-a")]
-    ]
-   }
-  #+END_QUERY
--
-- #+BEGIN_QUERY
-  {
-    :title [:b "Find block by Page.type=FrameModel with Feature.type=features"]
-    :query [
-      :find (pull ?b [*])
-        :where
-        [?b :block/page ?p]
-        [?b :block/parent ?parent]
-        (page-property ?p :type "FrameModel")
-        (property ?parent :type "features")
-        (property ?b :frame-rivet "Dot rivets")
-    ]
-   }
-  #+END_QUERY
--
-- #+BEGIN_QUERY
-  {
-    :title [:b "Find page by Page.type=FrameModel with Feature.type=features frame-rivet=[[Dot rivets]]"]
-    :inputs [:frame-rivet "Dot rivets"]
-    :query [
-      :find (pull ?p [*])
         :in $ ?key ?val
         :where
         [?b :block/page ?p]
         [?b :block/parent ?parent]
-        (page-property ?p :type "FrameModel")
+        (page-property ?p :frame-origin "American")
         (property ?parent :type "features")
         (property ?b ?key ?val)
     ]
    }
   #+END_QUERY
--
+	- TODO: Follow reference when checking for enum in props
+		- `"Keyhole bridge"` `"keyhole"`, [[keyhole]], and [[Keyhole bridge]] should work all the same
+		- The same goes for `American manufacturer`, `American`, [[American manufacturer]], and [[American]]
 - #+BEGIN_QUERY
   {
-    :title [:b "Find by 'content contains prop name'"]
+    :title [:b "Find features for all frame pages"]
+    :inputs [1 2]
     :query [
       :find (pull ?b [*])
+        :in $ ?key ?val
         :where
         [?b :block/page ?p]
         [?b :block/parent ?parent]
-        (property ?parent :type "features")
-        [?b :block/content ?bcontent]
-        [(clojure.string/includes? ?bcontent "frame-rivet")]
+        (page-property ?p :type "FrameModel" :frame-origin "America")
+        (property ?b :type "features")
     ]
    }
   #+END_QUERY
