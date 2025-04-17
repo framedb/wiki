@@ -7,7 +7,7 @@ frame-material::
 
 - # [[Features]] 
   type:: features
-	- frame-bridge:: keyhole
+	- frame-bridge:: [[keyhole]]
 	- frame-endpiece::
 	- frame-hinge::
 	- frame-rivet:: [[Dot rivets]]
