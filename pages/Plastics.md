@@ -1,6 +1,8 @@
-- #Frame
+tags:: #Frame
+
 - Plastics are organic compounds known for their plasticity
-- First documented use of plastics for frames was Spencer Optical’s Celluloid patent
+- *Plastic* was first used for frames as tortoise shell replacement, beginning in 1879 with Spencer Optical’s Celluloid frame patent
+- By the end of [[WW2]], over 50% of sales are plastic frames
 - # [[Bakelite]]
 	- Discovered: 1904
 	- Widespread use, including a lot of items in common household items and machine guns
@@ -9,8 +11,11 @@
 - # [[Cellulose nitrate]] (Zylonite, Zyl, and nitrocellulose)
   id:: 67fd7414-38a9-4cc5-bf67-7bfde52591b9
 	- Cheap plastics made from cotton, hence common names **flash paper**, **flash cotton**, **guncotton**, **pyroxylin**, **flash string**
+	- At the end of the 1800’s, Dupont introduced [[Zylonite]], made from nitrocellulose
+		- Harold Lloyd wore Zylonite frames in his films, and so it became popular
+		- But Zylonite was too flammable, and so was banned for eyewear frames in #1950s
 	- The Zylonite name comes from the [American Zylonite Company](https://digitalcollections.syr.edu/Documents/Detail/american-zylonite-company/288087)
-		- The American Zylonite Company manufactured and sold the compound with license from Daniel Spill's British **Xylonite** Company
+		- The American Zylonite Company manufactured and sold the compound with license from Daniel Spill's [British Xylonite Company](https://en.wikipedia.org/wiki/BX_Plastics)
 		- It was very popular, so Zylonite became household names
 	- Is very shiny
 	- Widespread use: piano keys, billiard ball, nail polish, photographic film emulsion, automobile lacquer and paint coating, and [as celluloid (i.e. for eyewear frames)](https://en.wikipedia.org/wiki/Celluloid)

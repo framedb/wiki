@@ -1,1 +1,1 @@
-alias:: Zylonite
+alias:: Zylonite, Xylonite, Zyl
