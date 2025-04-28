@@ -1,4 +1,5 @@
 tags:: #Frame
+alias:: Plastic
 
 - Plastics are organic compounds known for their plasticity
 - *Plastic* was first used for frames as tortoise shell replacement, beginning in 1879 with Spencer Optical’s Celluloid frame patent
