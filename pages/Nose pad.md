@@ -1,4 +1,5 @@
-- #Frame
+tags:: Feature
+
 - The nose pad rests on wearer's nose, and support the frontal weight of the glasses
 - The material used for nose pads are usually some form of plastics, usually [acetate]([[Acetate]])
 	- Most acetate frames come with simple nose pads

@@ -1,5 +1,14 @@
+tags:: FrameModel
 alias:: SRO 820
-#[[Styl-Rite Optical]] #Frame
+frame-manufacturer:: [[Styl-Rite Optical]] 
+frame-origin:: [[US]] 
+frame-era:: [[1950s]] [[1960s]] 
+frame-material:: [[Acetate]] 
+frame-bridge:: [[keyhole]] 
+frame-hinge:: [[7-barreled]] 
+frame-temple:: [[Spatula temples]] [[Convertible temple]]
+frame-rivet:: [[Rice rivet]] 
+frame-endpiece::
 
 - ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
 - SRO 820 is an [ophthalmic]([[Ophthalmic]]) [acetate eyewear frame]([[Acetate]]), estimated to be have been produced from late #1950s to #1960s
@@ -9,18 +18,24 @@ alias:: SRO 820
 - It seems SRO 820 is the original inspiration for TVR 523:
 	- ![tvr-523.jpg](../assets/tvr-523_1744106904317_0.jpg)
 - # Features
-	- [[Keyhole bridge]]
+  tags:: Features
+	- ## [[Bridge]]
+	  frame-bridge:: [[keyhole]]
 		- ![IMG_1740.jpg](../assets/IMG_1740_1744659722141_0.jpg)
 		- ![IMG_1732.jpg](../assets/IMG_1732_1744658810605_0.jpg)
-	- 7-barreled [hinges]([[Hinge]])
+	- ## [[Hinge]]
+	  frame-hinge:: [[7-barreled]]
 		- ![IMG_1744.jpg](../assets/IMG_1744_1744659669988_0.jpg)
 		- ![IMG_1736.jpg](../assets/IMG_1736_1744658832535_0.jpg)
-	- [Rice rivets]([[Rice rivets]])
-		- ![IMG_1742.jpg](../assets/IMG_1742_1744659686612_0.jpg)
-		- ![IMG_1741.jpg](../assets/IMG_1741_1744659693005_0.jpg)
-	- Thick [[Spatula temples]]
+	- ## [[Temple]]
+	  frame-temple:: [[Spatula temples]], [[Convertible temple]]
 		- ![IMG_1746.jpg](../assets/IMG_1746_1744659642538_0.jpg)
 		- ![IMG_1745.jpg](../assets/IMG_1745_1744659618265_0.jpg)
+	- ## [[Rivet]]
+	  frame-rivet:: [[Rice rivet]]
+		- ![IMG_1742.jpg](../assets/IMG_1742_1744659686612_0.jpg)
+	- ## [[Identification]] 
+	  frame-iden::
 - # #Photographs
 	- ## Example 1
 		- Black SRO 820 44-24-140 #1950s

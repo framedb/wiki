@@ -1,2 +1,2 @@
+tags:: FrameModel
 alias:: AO Stadium
-#[[American Optical]] #Frame

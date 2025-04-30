@@ -1,5 +1,14 @@
+tags:: FrameModel
 alias:: AO Times
-#[[American Optical]] #Frame
+frame-manufacturer:: [[AO]] 
+frame-origin:: [[US]] 
+frame-era:: [[1950s]] [[1960s]] 
+frame-material:: [[Zylonite]] [[Acetate]] 
+frame-bridge:: [[keyhole]] 
+frame-hinge:: [[7-barreled]] 
+frame-temple:: [[Skull temple]] 
+frame-rivet:: [[Diamond rivet]] 
+frame-endpiece::
 
 - ![DSC00063.jpg](../assets/DSC00063_1744660955145_0.jpg)
 - AO Times is a very popular [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame
@@ -11,22 +20,27 @@ alias:: AO Times
 - AO Times is believed to have had been AO's direct competition to [[TOE Arnel]]
 - AO Times is believed to have been related to [[AO Modern Times]] and [[AO Jr. Modern Times]]
 - # Features
-	- [[Keyhole bridge]]
+  tags:: Features
+	- Note that temples are not featured, because there're too many variations
+	- ## [[Bridge]]
+	  frame-bridge:: [[keyhole]]
 		- ![DSC00068.jpg](../assets/DSC00068_1744055729380_0.jpg)
 		- ![DSC00065.jpg](../assets/DSC00065_1744661005838_0.jpg)
-	- 7-barreled [hinges]([[Hinge]])
+	- ## [[Hinge]]
+	  frame-hinge:: [[7-barreled]]
 		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
 		  ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
 		- [Example 2](((67f7b387-3887-48f6-bbf8-1752f93c4c0e)))
 		  ![ao_times_tt_in.jpg](../assets/ao_times_tt_in_1744286848384_0.jpg)
-	- [[AO Red Dot Screw]] , round drive
-		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
-		  ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
-	- Diamond front rivet
+	- ## [[Rivet]]
+	  frame-rivet:: [[Diamond rivet]]
 		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
 		  ![DSC00061.jpg](../assets/DSC00061_1743875493563_0.jpg)
 		- [Example 2](((67f7b387-3887-48f6-bbf8-1752f93c4c0e)))
 		  ![ao_times_tt_front2.jpg](../assets/ao_times_tt_front2_1744286697746_0.jpg)
+	- [[AO Red Dot Screw]] , round drive
+		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
+		  ![DSC00049.jpg](../assets/DSC00049_1743875334836_0.jpg)
 - # #Photographs
 	- ## Example 1
 	  id:: 67f42cb0-0a67-4af5-9a26-8305758bcc2d

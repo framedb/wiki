@@ -1,28 +1,23 @@
-alias:: [[Acetate]]
+tags:: Material, Plastics
+Alias:: Acetate
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
   > Note: We'll use *acetate* to refer to this material throughout the wiki
 - A synthesized organic plastic
-	- First synthesized in 1865, Cellulose acetate is a synthetic organic plastic made from plant materials, which has found uses in:
-		- Photographic films
-		- Cigarette filters
-		- Eyewear frames
+- First synthesized in 1865, Cellulose acetate is a synthetic organic plastic made from plant materials, which has found uses in:
+	- Photographic films
+	- Cigarette filters
+	- Eyewear frames
 - Used heavily in vintage [eyewear frames]([[Frame]]), especially post-war
-- This is because of its interesting properties and relatively low cost:
+- Acetate replaced the very shiny [[Zylonite]] as the preferred plastics for eyewear after Zyl was banned for being too flammable
+- Acetate was viewed as attractive for eyewear frames because:
 	- It's supposed to be hypoallergenic
 	- It sits very soft on the skin
 	- It can be shaped when heated
 - The French and other European manufacturers probably started doing it first, which prompted [[TOE]] to pioneer its use in USA
-- # History
-	- > These new materials cost much less than metal and tortoise shells at the time, so more people bought the plastic frames
-	- *Plastic* was first used for frames as tortoise shell replacement, beginning in 1879 with Spencer Optical’s Celluloid frame patent
-	- At the end of the 1800’s, Dupont introduced [[Zylonite]], made from nitrocellulose
-		- Harold Lloyd wore Zylonite frames in his films, and so it became popular
-		- But Zylonite was too flammable, and so was banned for eyewear frames in #1950s
-	- Cellulose butyrate then replaced and succeeded [[Zylonite]]
-	- By the end of [[WW2]], over 50% of sales are plastic frames
-- # Frame construction (the old days)
-	- > Videos:
+  tags:: need-verify
+- # Construction (the classic way)
+	- ## Videos:
 		- {{video https://www.youtube.com/watch?v=TOf9rd31sQ8}}
 		- {{video https://www.youtube.com/watch?v=LVV9p2Y7QvY}}
 	- Acetate is first produced as *straight* acetate sheets
@@ -44,13 +39,36 @@ alias:: [[Acetate]]
 	- The roughly finished parts are then given final finishing touch
 - # Degradation
 	- Acetate degrades naturally, **especially in hot and humid** environments
-	- When it degrades, it'll first "sweat", that is, it loses moisture and later its shine
-	- When it sweats, it'll usually give off a vinegar scent. This is called the vinegar effect
+	- When it degrades, it'll first *sweat*, that is, it loses moisture and later its shine
+	- When it sweats, it'll usually give off a vinegar scent. This is called the vinegar effect or vinegar syndrome, and it happens to other products made by acetate too (like movie films)
 	- Degraded acetate has *dull looks*, *smells like vinegar*, and may even *shrink due to moisture loss* (much like dry-aged beef)
 		- The shrinkage is why we recommend that you always equip your frames with lenses - to help the frames hold their shapes
 - # Maintenance
 	- Because the material degrades relatively fast compared to metals, it's important to keep acetate well protected from the elements
 	- And because most vintage frames are old (from the 1950-70s), most acetate frames from that period
-	- Keep in cool, dry places, with decent air circulation
-	- Do not store vintage acetate frames in closed space like the glass cases
-	- A small amount of olive or coconut oil might be able to prevent further degradation, if applied and then washed off properly and if after the application the frames are kept properly
+	- ## Seek
+		- > It's best to choose the place based on all of these 3 factors, that is, keep your frames in a cool, dry, and breathable space
+		- ### Cool
+			- Try to keep the frames in cool place at all times
+		- ### Ventilation
+		  id:: 680fcb0c-22f8-45b4-bdee-f7cd09db713d
+			- Make sure your frames get good air flow
+		- ### Dry
+			- Always try to clean and dry your frame after wear
+		- Based on these 3 conditions, it's best to keep frames in a dry cabinet, the same type used for storing photographer's equipment. If the cabinet can also regulate the temperature then that's the best place
+	- ## Avoid
+		- ### Heat
+			- Heat accelerates acetate degradation, so avoid hot places at all cost
+			- Keeping acetate frames in car is a no-no
+			- This also applies to UV
+				- And please don't wear your vintage sunglasses directly under the sun on a hot day
+		- ### Enclosed space
+			- The fume produced during acetate sweating helps accelerates the degradation process
+			- One frame's sweat fume can trigger its neighbor's degradation too
+			- Avoid keeping multiple acetate frames together in enclosed space like a drawer
+		- ### Other chemicals
+			- Don't put your frames into acid, simple as
+	- Do not store acetate frames in closed space without ventilation, e.g. in the glass cases
+	- ## Tricks
+		- A small amount of olive or coconut oil might be able to prevent further degradation, if applied and then washed off properly and if after the application the frames are kept properly
+		  tags:: need-verify

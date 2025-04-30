@@ -1,1 +1,1 @@
-alias:: Endpieces
+alias:: Endpieces, frame-endpiece
