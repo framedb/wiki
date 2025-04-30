@@ -1,4 +1,4 @@
-# [American]([[American manufacturer]])
+# [American]([[American]])
 	- [[American Optical]] (AO)
 	- [[Styl-Rite Optical]] (SRO)
 	- [[Tart Optical]] (TOE)

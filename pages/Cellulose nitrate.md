@@ -1,2 +1,2 @@
+tags:: Material, Plastics
 alias:: Zylonite, Xylonite, Zyl
-tags:: Plastics

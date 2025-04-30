@@ -1,5 +1,5 @@
-alias:: [[Acetate]]
-Tags:: Plastics
+tags:: Material, Plastics
+Alias:: Acetate
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/Cellulose_acetate)
   > Note: We'll use *acetate* to refer to this material throughout the wiki

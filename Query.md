@@ -16,7 +16,7 @@
   #+END_QUERY
 	- TODO: Follow reference when checking for enum in props
 		- `"Keyhole bridge"` `"keyhole"`, [[keyhole]], and [[Keyhole bridge]] should work all the same
-		- The same goes for `American manufacturer`, `American`, [[American manufacturer]], and [[American]]
+		- The same goes for `American manufacturer`, `American`, [[American]], and [[American]]
 -
 - #+BEGIN_QUERY
   {

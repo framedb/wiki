@@ -1,5 +1,13 @@
-alias:: TOE Arnel
-#[[Tart Optical]] #Frame
+tags:: FrameModel
+alias:: TOE Arnel, Arnel
+frame-manufacturer:: [[Tart Optical]] 
+frame-origin:: [[American]] 
+frame-era:: [[1950s]] [[1960s]] [[1970s]] [[1980s]] 
+frame-material:: [[Acetate]]
+frame-bridge:: [[Keyhole bridge]] 
+frame-endpiece::
+frame-hinge:: [[7-barreled]] 
+frame-rivet::
 
 - Tart Arnel is an [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame best known for being staple of any vintage eyewear collections
 - Arnels sold for a very long time, allegedly from early #1950s up until #1980s, so there're many variations

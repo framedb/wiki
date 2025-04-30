@@ -1,0 +1,1 @@
+- FrameModel is a marker for a particular model of eyewear [[Frame]]

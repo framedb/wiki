@@ -1,4 +1,4 @@
-tags:: #Frame
+tags:: Material
 alias:: Plastic
 
 - Plastics are organic compounds known for their plasticity

@@ -1,8 +1,8 @@
 type:: FrameModel
 foo-prop:: bar
 frame-manufacturer::
-frame-origin:: [[American manufacturer]] 
-frame-era::
+frame-origin:: [[American]] 
+era::
 frame-material::
 
 - # [[Features]] 

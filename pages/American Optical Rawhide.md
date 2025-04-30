@@ -1,5 +1,13 @@
+tags:: FrameModel
 alias:: AO Rawhide
-#[[American Optical]] #Frame #1960s
+frame-manufacturer:: [[American Optical]] 
+frame-origin:: [[American]] 
+frame-era:: [[1960s]] 
+frame-material:: [[Acetate]]
+frame-bridge:: [[Keyhole bridge]] 
+frame-endpiece::
+frame-hinge:: [[7-barreled]] 
+frame-rivet::
 
 - ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg)
 - AO Rawhide is a children's rugged [ophthalmic]([[Ophthalmic]]) frames, with lens size ranging to from 36-42

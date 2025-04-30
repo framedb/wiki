@@ -1,7 +1,7 @@
 type:: FrameModel
 frame-manufacturer::
 frame-origin:: [[German]], [[American]] 
-frame-era::
+era::
 frame-material::
 
 - # Features

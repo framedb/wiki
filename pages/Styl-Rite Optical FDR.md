@@ -1,5 +1,13 @@
+tags:: FrameModel
 alias:: SRO FDR
-#[[Styl-Rite Optical]] #Frame
+frame-manufacturer:: [[SRO]] 
+frame-origin:: [[American]] 
+frame-era:: [[1950s]] [[1960s]] 
+frame-material:: [[Acetate]]
+frame-bridge:: [[Keyhole bridge]] 
+frame-endpiece::
+frame-hinge:: [[Standard bridge]] 
+frame-rivet::
 
 - ![18B77F01-81DC-40AA-AAC6-297CBB55CFE2.jpg](../assets/18B77F01-81DC-40AA-AAC6-297CBB55CFE2_1744104095852_0.jpg)
 - SRO, like other American manufacturers of the time, also produced [[FDR]] frames

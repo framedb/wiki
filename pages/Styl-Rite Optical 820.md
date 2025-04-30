@@ -1,5 +1,13 @@
+tags:: FrameModel
 alias:: SRO 820
-#[[Styl-Rite Optical]] #Frame
+frame-manufacturer:: [[SRO]] 
+frame-origin:: [[American]] 
+frame-era:: [[1950s]] [[1960s]] 
+frame-material:: [[Acetate]]
+frame-bridge:: [[Keyhole bridge]] 
+frame-endpiece::
+frame-hinge:: [[7-barreled]] 
+frame-rivet::
 
 - ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
 - SRO 820 is an [ophthalmic]([[Ophthalmic]]) [acetate eyewear frame]([[Acetate]]), estimated to be have been produced from late #1950s to #1960s

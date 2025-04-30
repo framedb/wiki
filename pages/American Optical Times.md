@@ -1,5 +1,13 @@
+tags:: FrameModel
 alias:: AO Times
-#[[American Optical]] #Frame
+frame-manufacturer:: [[American Optical]] 
+frame-origin:: [[American]] 
+frame-era:: [[1950s]] [[1960s]] 
+frame-material:: [[Acetate]] or [[Zylonite]] 
+frame-bridge:: [[Keyhole bridge]] 
+frame-endpiece::
+frame-hinge:: [[7-barreled]] 
+frame-rivet::
 
 - ![DSC00063.jpg](../assets/DSC00063_1744660955145_0.jpg)
 - AO Times is a very popular [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame
