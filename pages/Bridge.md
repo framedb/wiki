@@ -1,4 +1,6 @@
-- #Frame
+tags:: Feature
+alias:: frame-bridge
+
 - The bridge connects the left eye wire to the right one
 - ![nose-bridge-types-graphic.png](../assets/nose-bridge-types-graphic_1744657562299_0.png)
 - # Styles

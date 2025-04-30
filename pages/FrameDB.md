@@ -3,8 +3,9 @@
 - Facebook Page: [oldframes.mag](https://www.facebook.com/people/oldframesmag/61575039811810/)
 - Instagram: [oldframes.mag](https://instagram.com/oldframes.mag)
 - # Index
-	- [[Manufacturers]]
+	- [[Country of origins]]
 	- [[Frames]]
+	- [[Frame models]]
 	- All frame reference photos are indexed to #Photographs
 - # Popular
 	- [[American Optical]]

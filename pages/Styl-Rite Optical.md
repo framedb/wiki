@@ -1,4 +1,9 @@
-alias:: SRO
+tags:: Manufacturer
+alias:: AO
+origin:: [[US]]
+active:: false
+since::
+until:: [[1980s]]
 
 - Styl-Rite Optical is an #American manufacturer of eyewear, with quite obscure history
 - From what we know, SRO was in business in the #1950s , and it was still operational as of #1970s

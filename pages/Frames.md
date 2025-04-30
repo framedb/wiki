@@ -2,7 +2,7 @@ alias:: Frame
 
 - Frames are the main structure of a modern eyewear
 - It provides mount points for other parts, like the lenses, hinges, and other things
-- # Parts
+- # Features and parts
 	- ![frame_parts.webp](../assets/frame_parts_1744577189828_0.webp)
 	- Eyewear frames is composed of multiple parts
 	- So we're not going to list out all of these parts
@@ -26,7 +26,7 @@ alias:: Frame
 	- [[Rivet]]
 		- [[Temple rivet]]
 		- [[Hinge rivet]]
-- ## [[Frame materials]]
+- ## [[Material]]
 	- Pre-WW2 frames had historically been built using metal or organic materials. Silver, steel, gold-plated steel, tortoise shell, and animal horns were common
 	- During WW2, the American War efforts propped up many plastics factories to help build plastic parts to replace the use of metals in non-critical components and parts. Eyewear frames are also one of those use cases.
 		- > The plastics in use at the times were both organic and inorganic

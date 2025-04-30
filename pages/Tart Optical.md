@@ -1,4 +1,9 @@
-alias:: TOE
+tags:: Manufacturer
+alias:: TOE, Tart
+origin:: [[US]]
+active:: false
+since::
+until::
 
 - > Note: not to be confused with the Japanese-made [[Julius Tart Optical]] and the modern American company (also called Tart Optical) - [see also: TOE reproductions](((67f185ba-d12e-4c28-9f54-54dbc51d9669)))
 - Tart Optical Enterprise was an #American frame manufacturer
