@@ -1,5 +1,4 @@
 alias:: AO Manhattan
-#[[American Optical]] #Frame
 
 - AO Manhattan is a men's premium rugged rectangular frame
 - # Features

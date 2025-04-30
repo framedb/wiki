@@ -9,20 +9,22 @@
 	  frame-era::
 	  frame-material::
 	  frame-bridge::
-	  frame-endpiece::
 	  frame-hinge::
-	  frame-bridge::
+	  frame-temple::
 	  frame-rivet::
+	  frame-endpiece::
 	- # Features
 	  tags:: Features
 		- ## [[Bridge]]
-		  tags:: frame-bridge
-		- ## [[Temple]]
-		  tags:: frame-temple
+		  frame-bridge::
 		- ## [[Hinge]]
-		  tags:: frame-hinge
+		  frame-hinge::
+		- ## [[Temple]]
+		  frame-temple::
 		- ## [[Rivet]]
-		  tags:: frame-rivet
+		  frame-rivet::
+		- ## [[Identification]] 
+		  frame-iden::
 	- # Variants
 		- > Variants refer to variations in examples for the same model.
 		  >
@@ -30,11 +32,15 @@
 		  >
 		  > An example for a variant would be different eras (e.g. [[TOE Arnel]] from #1950s are different than the same model sold in #1980s), different combinations (e.g. with different [[Temple]] designs)
 	- # Misc
-	- # [[Photographs]]
+	- # #Photographs
 - # Manufacturer
-	- Tags:: Manufacturer
+	- tags:: Manufacturer
+	  active::
+	  since::
+	  until::
 	- # About
 	- # Frames
 	- # Misc
 	- # History
 	- # Brochures and other prints
+	- # #Photographs

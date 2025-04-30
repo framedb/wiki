@@ -1,7 +1,12 @@
-alias:: [[AO]]
+tags:: Manufacturer
+alias:: AO
+origin:: [[US]]
+active:: false
+since:: 1833
+until:: [[1990s]]
 
 - > See also: [Wikipedia](https://en.wikipedia.org/wiki/American_Optical_Company)
-- American Optical (AO) is an #American frame manufacturer with a very long history and even longer list of product portfolio, covering everything from simple eyeglasses, sunglasses, to other safety wear and precision instruments
+- American Optical (AO) is an American frame manufacturer with a very long history and even longer list of product portfolio, covering everything from simple eyeglasses, sunglasses, to other safety wear and precision instruments
 - # Frames
 	- [[American Optical Times]]
 	- [[American Optical Rawhide]]

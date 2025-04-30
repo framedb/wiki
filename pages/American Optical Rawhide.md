@@ -1,33 +1,44 @@
 tags:: FrameModel
 alias:: AO Rawhide
-frame-manufacturer:: [[American Optical]] 
-frame-origin:: [[American]] 
+frame-manufacturer:: [[AO]] 
+frame-origin:: [[US]] 
 frame-era:: [[1960s]] 
-frame-material:: [[Acetate]]
-frame-bridge:: [[Keyhole bridge]] 
-frame-endpiece::
+frame-material:: [[Acetate]] 
+frame-bridge:: [[keyhole]] 
 frame-hinge:: [[7-barreled]] 
-frame-rivet::
+frame-temple:: [[Skull temple]] 
+frame-rivet:: [[Diamond rivet]] 
+frame-endpiece::
 
-- ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg)
+- ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg){:height 314, :width 459}
+  id:: 68127b09-3946-4523-adac-5f79e84988e2
 - AO Rawhide is a children's rugged [ophthalmic]([[Ophthalmic]]) frames, with lens size ranging to from 36-42
 - What made the Rawhide so cool is the fact that it has [braced front](((67f42cb0-e6f4-4b30-a169-5584a8ea2f06))) on the bridge of the frame
 - > We believe the Rawhide was produced and sold during from #1960s onward due to its reinforced and rugged construction.
   >
   > [It also appears on 1963 brochures with no black color option](((67f42cb0-5985-41ed-91dc-930804819192))), suggesting that [the black example](((67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e))) here is produced later than 1963
 - # Features
-	- [[Keyhole bridge]]
-		- ![rawhide-12_1744055868201_0.jpg](../assets/rawhide-12_1744055868201_0_1744660125268_0.jpg)
-	- 7-barreled [hinges]([[Hinge]])
+  tags:: Features
+	- ## [[Bridge]]
+	  frame-bridge:: [[keyhole]]
+		- {{embed ((68127b09-3946-4523-adac-5f79e84988e2))}}
+	- ## [[Rivet]]
+	  frame-rivet:: [[Diamond rivet]]
+	- {{embed ((68127b09-3946-4523-adac-5f79e84988e2))}}
+	- ## [[Temple]]
+	  frame-temple:: [[Skull temple]]
+		- ![rawhide-05.jpg](../assets/rawhide-05_1743882363699_0.jpg)
+	- ## [[Hinge]]
+	  frame-hinge:: [[7-barreled]]
 		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
-	- [[AO Red Dot Screw]] , slotted
-		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
-	- ["Braced front"]([[Reinforcement]])
-	  id:: 67f42cb0-e6f4-4b30-a169-5584a8ea2f06
-		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)
-	- Screened/printed make and size
+	- ## [[Identification]]
 		- ![rawhide-09.jpg](../assets/rawhide-09_1743882290420_0.jpg)
 		- ![rawhide-10.jpg](../assets/rawhide-10_1743882407148_0.jpg)
+	- [[AO Red Dot Screw]] , slotted
+		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
+	- ["Braced front" as reinforcement]([[Reinforcement]])
+	  id:: 67f42cb0-e6f4-4b30-a169-5584a8ea2f06
+		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)
 - # #Photographs
 	- ## Example 1
 	  id:: 67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e

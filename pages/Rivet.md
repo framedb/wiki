@@ -7,5 +7,5 @@ alias:: frame-rivet
 - # Styles
 	- [[Dot rivets]]
 		- Simple, circlular rivets
-	- [[Rice rivets]]
-	- [[Diamond rivets]]
+	- [[Rice rivet]]
+	- [[Diamond rivet]]

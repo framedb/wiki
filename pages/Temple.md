@@ -1,4 +1,6 @@
-- #Frame
+tags:: Feature
+alias:: frame-temple
+
 - Temples are part of the frame
   id:: 67fc1b60-2188-40d6-ae64-63279365f560
 - They usually come in pairs

@@ -1,4 +1,6 @@
-# [American]([[American]])
+alias:: frame-origin, origin
+
+- # [American]([[American]])
 	- [[American Optical]] (AO)
 	- [[Styl-Rite Optical]] (SRO)
 	- [[Tart Optical]] (TOE)

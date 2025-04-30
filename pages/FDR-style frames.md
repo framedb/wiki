@@ -6,20 +6,26 @@ alias:: FDR
 - It's well known for being the classic American bold and large eyewear, with prominent 3 dot rivets
 	- It's very popular back then, and even brought back in films like [A Complete Unknown](https://en.wikipedia.org/wiki/A_Complete_Unknown), where it was worn by multiple characters who are depicted as those further up the food chain in [1960s America]([[1960s]])
 - Modern companies like Julius Tart and Moscot still manufacture and sell this frame
-- # Features (all frames)
-	- [[Standard bridge]]
+- # Features
+  tags:: Features
+	- ## [[Bridge]]
+	  frame-bridge:: [[Standard bridge]]
 		- ![0C321553-185E-4430-B715-2A36067614A8.jpg](../assets/0C321553-185E-4430-B715-2A36067614A8_1744047145305_0.jpg)
-	- 7-barreled [hinges]([[Hinge]])
+	- ## [[Hinge]]
+	  frame-hinge:: [[7-barreled]]
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046568966_0.jpg)
-	- [3-dot front rivets]([[Dot rivets]]) #Rivet
+	- ## [[Rivet]]
+	  frame-rivet:: [[Dot rivets]]
+		- 3-dot dot rivets are the main distinguishing feature for FDR frames
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045471049_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![2927EA51-7D21-49E0-9933-8924D77A5BA3.jpg](../assets/2927EA51-7D21-49E0-9933-8924D77A5BA3_1744046598081_0.jpg)
-	- Spatula temples with 3-[dot rivets]([[Dot rivets]]) #Rivet #Temple
+	- ## [[Temple]]
+	  frame-temple:: [[Spatula temples]] [[Skull temple]]
 		- Earlier models lack [steel bars inside the temples]([[Reinforcement]])
 			- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
 			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045412852_0.jpg)
@@ -28,7 +34,7 @@ alias:: FDR
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples
 			- Julius Tart FDR
 			  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/fdr_gc_cr_s-scaled.jpg)
-- # Unmarked FDR frames
+- # Unmarked FDR frames (missing some #Identification)
   id:: 67f42cb0-6598-46a7-93e0-88f69fa5605e
 	- We believe the FDR frames were so popular that all manufacturers rushed to produce them to capture the market share
 	- This led to many "prototypes" or unrefined, early versions among the surviving examples, usually from #1950s
