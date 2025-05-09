@@ -14,23 +14,23 @@ alias:: FDR
 	- ## [[Hinge]]
 	  frame-hinge:: [[7-barreled]]
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
-		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045376749_0.jpg)
+		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/25E5BBB8-A425-4E34-97DF-9A2604654E15_1744045185516_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
-		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046568966_0.jpg)
+		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046416492_0.jpg)
 	- ## [[Rivet]]
 	  frame-rivet:: [[Dot rivets]]
 		- 3-dot dot rivets are the main distinguishing feature for FDR frames
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
-		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045471049_0.jpg)
+		  ![43882B5F-D99F-4F27-B1EE-99BE0862A040.jpg](../assets/43882B5F-D99F-4F27-B1EE-99BE0862A040_1744045017610_0.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![2927EA51-7D21-49E0-9933-8924D77A5BA3.jpg](../assets/2927EA51-7D21-49E0-9933-8924D77A5BA3_1744046598081_0.jpg)
 	- ## [[Temple]]
 	  frame-temple:: [[Spatula temples]] [[Skull temple]]
 		- Earlier models lack [steel bars inside the temples]([[Reinforcement]])
 			- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
-			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045412852_0.jpg)
+			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/358D7460-1922-4E98-9E0E-8C28FF7D2DAE_1744045239047_0.jpg)
 			- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
-			  ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/7A3E8F20-966D-489A-89D1-04F686A7A63A_1744046692344_0.jpg)
+			  ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/7A3E8F20-966D-489A-89D1-04F686A7A63A_1744046502930_0.jpg)
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples
 			- Julius Tart FDR
 			  ![](https://www.juliustartoptical.com/wp-content/uploads/2021/07/fdr_gc_cr_s-scaled.jpg)
@@ -57,7 +57,7 @@ alias:: FDR
 		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/680FA62C-CDD0-498A-9BF9-7675342F7589_1744046352658_0.jpg){:height 487, :width 718}
 		- ![756AA21C-90D3-4A80-9B68-80361B8139F2.jpg](../assets/756AA21C-90D3-4A80-9B68-80361B8139F2_1744046373745_0.jpg)
 		- We can use the typeface or recognize some patterns to trace manufacturer, but that's all we got and we've not been able to discern where this example came from
-		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046477370_0.jpg)
+		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
 		- ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/94FBF57B-0AD1-44D2-B542-ECBC5D078554_1744046416492_0.jpg)
 		- ![083C775A-B615-433F-9F27-85A2EBBD359A.jpg](../assets/083C775A-B615-433F-9F27-85A2EBBD359A_1744046432038_0.jpg)
 		- ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/7A3E8F20-966D-489A-89D1-04F686A7A63A_1744046502930_0.jpg)
@@ -72,7 +72,7 @@ alias:: FDR
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/37BD49BA-6B96-45A5-9CDC-E01772CA941D_1744046302144_0.jpg)
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744046006243_0.jpg)
 		- [[Hinge]] screws
-			- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/C1FC92C6-442C-451F-BA87-DA7325DD8569_1744141945169_0.jpg)
+			- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/C1FC92C6-442C-451F-BA87-DA7325DD8569_1744141847711_0.jpg)
 			  ![083C775A-B615-433F-9F27-85A2EBBD359A.jpg](../assets/083C775A-B615-433F-9F27-85A2EBBD359A_1744046432038_0.jpg)
 		- ![CAFD2DCC-79DE-429C-905B-45635165C6B6.jpg](../assets/CAFD2DCC-79DE-429C-905B-45635165C6B6_1744047457870_0.jpg)
 		- ![29E48DE3-74AA-4A68-9584-B1BA98702081.jpg](../assets/29E48DE3-74AA-4A68-9584-B1BA98702081_1744047205062_0.jpg)
@@ -112,5 +112,5 @@ alias:: FDR
 	- Worn by John Mayer some time in 2010s
 		- ![IMG_1683.jpg](../assets/IMG_1683_1744109252652_0.jpg)
 	- Worn by [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow) (likely a Moscot unfaithful reproduction)
-		- ![RollingStone_VILDA1.webp](../assets/RollingStone_VILDA1_1744107899948_0.webp)
+		- ![RollingStone_VILDA1.webp](../assets/fdr_on_rollingstones_mag_0.webp)
 		- ![rachel_maddow.webp](../assets/rachel_maddow_1744107818332_0.webp)

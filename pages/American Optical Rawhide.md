@@ -10,7 +10,7 @@ frame-temple:: [[Skull temple]]
 frame-rivet:: [[Diamond rivet]] 
 frame-endpiece::
 
-- ![rawhide-12.jpg](../assets/rawhide-12_1744055868201_0.jpg){:height 314, :width 459}
+- ![rawhide-12.jpg](../assets/ao_rawhide_11_0.jpg)
   id:: 68127b09-3946-4523-adac-5f79e84988e2
 - AO Rawhide is a children's rugged [ophthalmic]([[Ophthalmic]]) frames, with lens size ranging to from 36-42
 - What made the Rawhide so cool is the fact that it has [braced front](((67f42cb0-e6f4-4b30-a169-5584a8ea2f06))) on the bridge of the frame
@@ -27,26 +27,26 @@ frame-endpiece::
 	- {{embed ((68127b09-3946-4523-adac-5f79e84988e2))}}
 	- ## [[Temple]]
 	  frame-temple:: [[Skull temple]]
-		- ![rawhide-05.jpg](../assets/rawhide-05_1743882363699_0.jpg)
+		- ![rawhide-05.jpg](../assets/ao_rawhide_5_0.jpg)
 	- ## [[Hinge]]
 	  frame-hinge:: [[7-barreled]]
-		- ![rawhide-08.jpg](../assets/rawhide-08_1743882216012_0.jpg)
+		- ![rawhide-08.jpg](../assets/ao_rawhide_7_0.jpg)
 	- ## [[Identification]]
-		- ![rawhide-09.jpg](../assets/rawhide-09_1743882290420_0.jpg)
-		- ![rawhide-10.jpg](../assets/rawhide-10_1743882407148_0.jpg)
+		- ![rawhide-09.jpg](../assets/ao_rawhide_8_0.jpg)
+		- ![rawhide-10.jpg](../assets/ao_rawhide_9_0.jpg)
 	- [[AO Red Dot Screw]] , slotted
-		- ![rawhide-04.jpg](../assets/rawhide-04_1743882151805_0.jpg)
+		- ![rawhide-04.jpg](../assets/ao_rawhide_4_0.jpg)
 	- ["Braced front" as reinforcement]([[Reinforcement]])
 	  id:: 67f42cb0-e6f4-4b30-a169-5584a8ea2f06
-		- ![rawhide-03.jpg](../assets/rawhide-03_1743882230632_0.jpg)
+		- ![rawhide-03.jpg](../assets/ao_rawhide_3_0.jpg)
 - # #Photographs
 	- ## Example 1
 	  id:: 67f42cb0-7c0d-4022-a1ed-aefaf3b80f7e
 		- A black Rawhide, with size 42-22-135
-		- ![rawhide-12.jpg](../assets/rawhide-12_1743882449644_0.jpg)
-		- ![rawhide-11.jpg](../assets/rawhide-11_1743882459855_0.jpg)
-		- ![rawhide-01.jpg](../assets/rawhide-01_1743882352068_0.jpg)
-		- ![rawhide-02.jpg](../assets/rawhide-02_1743882357973_0.jpg)
-		- ![rawhide-05.jpg](../assets/rawhide-05_1743882363699_0.jpg)
-		- ![rawhide-07.jpg](../assets/rawhide-07_1743882372868_0.jpg)
+		- ![rawhide-12.jpg](../assets/ao_rawhide_11_0.jpg)
+		- ![rawhide-11.jpg](../assets/ao_rawhide_10_0.jpg)
+		- ![rawhide-01.jpg](../assets/ao_rawhide_1_0.jpg)
+		- ![rawhide-02.jpg](../assets/ao_rawhide_2_0.jpg)
+		- ![rawhide-05.jpg](../assets/ao_rawhide_5_0.jpg)
+		- ![rawhide-07.jpg](../assets/ao_rawhide_6_0.jpg)
 		-
