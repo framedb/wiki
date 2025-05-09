@@ -1,6 +1,6 @@
 tags:: FrameModel
 alias:: AO Times
-frame-manufacturer:: [[AO]] 
+frame-manufacturer:: [[American Optical]] 
 frame-origin:: [[US]] 
 frame-era:: [[1950s]] [[1960s]] 
 frame-material:: [[Zylonite]] [[Acetate]] 

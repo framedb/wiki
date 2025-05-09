@@ -45,7 +45,7 @@ until:: [[1990s]]
 			- Executive Bifocal Safety lens
 			- Invented Calobar and Cruxite absorbtive glass
 	- ## AO logo history
-- | Introduction | Logo |
+  | Introduction | Logo |
   | :-: | :-: |
   |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_1744127543746_0.jpg) |
   |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_1744127644940_0.jpg) |
