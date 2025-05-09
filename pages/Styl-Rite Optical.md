@@ -1,5 +1,5 @@
 tags:: Manufacturer
-alias:: AO
+alias:: SRO
 origin:: [[US]]
 active:: false
 since::
