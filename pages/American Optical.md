@@ -247,21 +247,21 @@ until:: [[1990s]]
 - # 1963 Brochure
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]
-		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/ao_red_dot_ads_0.png)
+		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/ao_reddot_ads_0.png)
 		  id:: 67f42cb0-ec15-4e07-8295-8a4c96b3e693
-		  ![image.png](../assets/image_1743885587160_0.png)
+		  ![image.png](../assets/ao_reddot_print_0.png)
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
-		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
+		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/ao_rawhide_catalog1_0.jpg)
 		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
 		- ![image.png](../assets/image_1743886030541_0.png)
 		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_ads_manhattan_1_0.png)
 	- [[American Optical Modern Times]]
-		- ![image.png](../assets/image_1743885234469_0.png)
+		- ![image.png](../assets/ao_moderntimes_catalog.png)
 	- [[American Optical Jr. Modern Times]]
-		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
-		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
+		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/ao_rawhide_catalog2_0.jpg)
+		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/ao_jrmoderntimes_catalog_0.jpg)
 	- [[American Optical Cataract Men's]]
 		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog_0.png)
 	- [[American Optical Jaguar]]

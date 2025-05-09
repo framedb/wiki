@@ -13,7 +13,7 @@ alias:: AO Red Dot Screw
 		- We found round red dots in older frames
 		- We then assume that this is the original version of the red dot system.
 		- It features a screw with rounded screw head and a rounded *driver*
-		- ![ao_red_dot.jpg](../assets/ao_red_dot_1744285071922_0.jpg)
+		- ![ao_red_dot.jpg](../assets/ao_reddot_screws_0.jpg)
 	- ## Slotted drive
 		- We found this variants in use more in #1960s frames
 		- We then assume that this is the later variant
@@ -31,7 +31,7 @@ alias:: AO Red Dot Screw
 	  > Only the newest AO frame will accommodate the new fastenings.  All new models being prepared by the frame division will use the red dots.*
 - # #Photographs
 	- From [eBay listing](https://www.ebay.com/itm/281975157212):
-		- ![ao_red_dot.jpg](../assets/ao_red_dot_1744285071922_0.jpg)
-		- ![ao_red_dot_close.webp](../assets/ao_red_dot_close_1744285126668_0.webp)
-		- ![ao_red_dot_bag.webp](../assets/ao_red_dot_bag_1744285109890_0.webp)
-		- ![ao_red_dot_bag_close.webp](../assets/ao_red_dot_bag_close_1744285118463_0.webp)
+		- ![ao_red_dot.jpg](../assets/ao_reddot_screws_0.jpg)
+		- ![ao_red_dot_close.webp](../assets/ao_reddot_screws2_0.webp)
+		- ![ao_red_dot_bag.webp](../assets/ao_reddot_packaging_0.webp)
+		- ![ao_red_dot_bag_close.webp](../assets/ao_reddot_bag_closeup_0.webp)
