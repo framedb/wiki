@@ -10,7 +10,7 @@ frame-temple:: [[Spatula temples]] [[Convertible temple]]
 frame-rivet:: [[Rice rivet]] 
 frame-endpiece::
 
-- ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
+- ![IMG_1740.jpg](../assets/sro_820_1_front_0.jpg)
 - SRO 820 is an [ophthalmic]([[Ophthalmic]]) [acetate eyewear frame]([[Acetate]]), estimated to be have been produced from late #1950s to #1960s
 - We have plenty of photographs on the 820, because it's been [Woody Allen's signature eyewear](https://en.wikipedia.org/wiki/Woody_Allen) since the #1960s
 	- ![woody_allen_820.jpg](../assets/woody_allen_820_1744286169191_0.jpg)
@@ -21,36 +21,36 @@ frame-endpiece::
   tags:: Features
 	- ## [[Bridge]]
 	  frame-bridge:: [[keyhole]]
-		- ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
-		- ![IMG_1732.jpg](../assets/IMG_1732_1744658810605_0.jpg)
+		- ![sro_820_1_front_0.jpg](../assets/sro_820_1_front_0.jpg)
+		- ![sro_820_1_front_shitty3_0.jpg](../assets/sro_820_1_front_shitty3_0.jpg)
 	- ## [[Hinge]]
 	  frame-hinge:: [[7-barreled]]
-		- ![IMG_1744.jpg](../assets/IMG_1744_1744659669988_0.jpg)
-		- ![IMG_1736.jpg](../assets/IMG_1736_1744658832535_0.jpg)
+		- ![sro_820_1_rear_0.jpg](../assets/sro_820_1_rear_0.jpg)
+		- ![sro_820_1_front_shitty4_0.jpg](../assets/sro_820_1_front_shitty4_0.jpg)
 	- ## [[Temple]]
 	  frame-temple:: [[Spatula temples]], [[Convertible temple]]
-		- ![IMG_1746.jpg](../assets/IMG_1746_1744659642538_0.jpg)
-		- ![IMG_1745.jpg](../assets/IMG_1745_1744659618265_0.jpg)
+		- ![sro_820_1_side_0.jpg](../assets/sro_820_1_side_0.jpg)
+		- ![sro_820_1_temples_0.jpg](../assets/sro_820_1_temples_0.jpg)
 	- ## [[Rivet]]
 	  frame-rivet:: [[Rice rivet]]
-		- ![IMG_1742.jpg](../assets/IMG_1742_1744659686612_0.jpg)
+		- ![sro_820_1_front_r_0.jpg](../assets/sro_820_1_front_r_0.jpg)
 	- ## [[Identification]] 
 	  frame-iden::
 - # #Photographs
 	- ## Example 1
 		- Black SRO 820 44-24-140 #1950s
-		- ![IMG_1740.jpg](../assets/IMG_1740_1744659740760_0.jpg)
-		- ![IMG_1741.jpg](../assets/IMG_1741_1744659751157_0.jpg)
-		- ![IMG_1742.jpg](../assets/IMG_1742_1744659785066_0.jpg)
-		- ![IMG_1746.jpg](../assets/IMG_1746_1744659767023_0.jpg)
-		- ![IMG_1745.jpg](../assets/IMG_1745_1744659801049_0.jpg)
-		- ![IMG_1744.jpg](../assets/IMG_1744_1744659842067_0.jpg)
-		- ![IMG_1730.jpg](../assets/IMG_1730_1744658729893_0.jpg)
-		- ![IMG_1731.jpg](../assets/IMG_1731_1744658761510_0.jpg)
+		- ![sro_820_1_front_0.jpg](../assets/sro_820_1_front_0.jpg)
+		- ![sro_820_1_front_l_0.jpg](../assets/sro_820_1_front_l_0.jpg)
+		- ![sro_820_1_front_r_0.jpg](../assets/sro_820_1_front_r_0.jpg)
+		- ![sro_820_1_side_0.jpg](../assets/sro_820_1_side_0.jpg)
+		- ![sro_820_1_temples_0.jpg](../assets/sro_820_1_temples_0.jpg)
+		- ![sro_820_1_rear_0.jpg](../assets/sro_820_1_rear_0.jpg)
+		- ![sro_820_1_front_shitty_0.jpg](../assets/sro_820_1_front_shitty_0.jpg)
+		- ![sro_820_1_front_shitty2_0.jpg](../assets/sro_820_1_front_shitty2_0.jpg)
 	- ## Example 2
 		- > With original paper packaging
 		- Back SRO 820 42-20 Listing from http://ponmegane.cocolog-nifty.com/pon/2014/01/vintage-sro-2a2.html
-		- ![image.png](../assets/image_1744659545776_0.png)
-		- ![Screenshot 2025-04-15 at 02.37.01.png](../assets/sro_820_set_0.png)
-		- ![image.png](../assets/image_1744659471994_0.png)
-		- ![image.png](../assets/image_1744659571766_0.png)
+		- ![sro_820_set_0.png](../assets/sro_820_set_full_0.png)
+		- ![sro_820_set_0.png](../assets/sro_820_set_0.png)
+		- ![sro_820_set_rear_0.png](../assets/sro_820_set_rear_0.png)
+		- ![sro_820_set_packaging_0.png](../assets/sro_820_set_packaging_0.png)

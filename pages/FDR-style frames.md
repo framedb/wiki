@@ -80,8 +80,8 @@ alias:: FDR
 		- ![045DACF7-062B-424E-BCA8-2CB523F93888.jpg](../assets/fdr_comparison_focus_0.jpg)
 	- [Courtesy of a Thai Facebook group: ชุมชนแว่นวินเทจ](https://www.facebook.com/groups/1761255333918207)
 		- Julius Tart reproduction in honey yellow, and unmarked vintage unreinforced FDR-style frames.
-			- ![IMG_1603.jpg](../assets/IMG_1603_1743872462476_0.jpg)
-			- ![IMG_1602.jpg](../assets/IMG_1602_1743872452601_0.jpg)
+			- ![IMG_1603.jpg](../assets/fdr_comparison_oldnew-2_0.jpg)
+			- ![IMG_1602.jpg](../assets/fdr_comparison_oldnew_0.jpg)
 - # #InTheWild
 	- Worn by [Cary Grant](https://en.wikipedia.org/wiki/Cary_Grant), allegedly 1959
 		- ![cary_grant.jpg](../assets/cary_grant_1744108114124_0.jpg)
@@ -97,20 +97,20 @@ alias:: FDR
 		- ![Stanley_Tucci_2017_Berlinale.jpg](../assets/Stanley_Tucci_2017_Berlinale_1744109147378_0.jpg)
 		-
 	- Worn by [Yusuf Lateef](https://en.wikipedia.org/wiki/Yusef_Lateef) on many occasions
-		- ![IMG_1680.jpg](../assets/IMG_1680_1744109010987_0.jpg)
+		- ![IMG_1680.jpg](../assets/fdr_lateef_1_0.jpg)
 		- ![lateef_eastern_sounds.jpeg](../assets/lateef_eastern_sounds_1744108860041_0.jpeg)
-		- ![IMG_1684.jpg](../assets/IMG_1684_1744108940041_0.jpg)
-		- ![IMG_1681.jpg](../assets/IMG_1681_1744109001670_0.jpg)
+		- ![IMG_1684.jpg](../assets/fdr_lateef_3_0.jpg)
+		- ![IMG_1681.jpg](../assets/fdr_lateef_2_0.jpg)
 		-
 	- Worn by [Gary Oldman](https://en.wikipedia.org/wiki/Gary_Oldman) in 2010s-2020s
-		- ![IMG_1120.jpg](../assets/IMG_1120_1743872326550_0.jpg)
-		- ![IMG_1121.jpg](../assets/IMG_1121_1743872337875_0.jpg)
-		- ![IMG_1119.jpg](../assets/IMG_1119_1743872320387_0.jpg)
-		- ![IMG_1118.jpg](../assets/IMG_1118_1743872307629_0.jpg)
+		- ![IMG_1120.jpg](../assets/fdr_garyoldman_3_0.jpg)
+		- ![IMG_1121.jpg](../assets/fdr_garyoldman_4_0.jpg)
+		- ![IMG_1119.jpg](../assets/fdr_garyoldman_2_0.jpg)
+		- ![IMG_1118.jpg](../assets/fdr_garyoldman_1_0.jpg)
 	- Worn by Tom Hank for SNL 2016
 		- ![tomhank_snl2016.jpeg](../assets/tomhank_snl2016_1744108622860_0.jpeg)
 	- Worn by John Mayer some time in 2010s
-		- ![IMG_1683.jpg](../assets/IMG_1683_1744109252652_0.jpg)
+		- ![IMG_1683.jpg](../assets/fdr_mayer_1_0.jpg)
 	- Worn by [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow) (likely a Moscot unfaithful reproduction)
 		- ![RollingStone_VILDA1.webp](../assets/fdr_rollingstonesmag_0.webp)
 		- ![rachel_maddow.webp](../assets/rachel_maddow_1744107818332_0.webp)

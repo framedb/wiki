@@ -19,10 +19,10 @@ frame-rivet::
 	- In newer examples, e.g. from #1970s or #1980s, Arnels might feature ornately finished reinforcement steel bar in the temples
 - # Photographs
 	- 2x Vintage Arnels (blackwood and black, i.e. top and bottom), vs 1x Julius Tart reproduction (middle)
-		- ![IMG_1609.jpg](../assets/IMG_1609_1743875251883_0.jpg)
+		- ![tart_arnel_comparison_oldnew_0.jpg](../assets/tart_arnel_comparison_oldnew_0.jpg)
 	- [Courtesy of Gig-Lamps](https://www.gig-lamps.com/home/1950s-1960s-tart-optical-arnel-2tone-blackxclear-size44-20/):
 	  > 1950s-60s two-tone black/clear with stamped temples
-		- ![gl-a5469-1.jpg](../assets/tart_arnel_giglamps_clearblackwood-1_0.jpg)
-		- ![gl-a5469-6.jpg](../assets/tart_arnel_giglamps_clearblackwood-4_0.jpg)
-		- ![gl-a5469-3.jpg](../assets/tart_arnel_giglamps_clearblackwood-2_0.jpg)
-		- ![gl-a5469-5.jpg](../assets/tart_arnel_giglamps_clearblackwood-3_0.jpg)
+		- ![tart_arnel_giglamps_clearblackwood-1_0.jpg](../assets/tart_arnel_giglamps_clearblackwood-1_0.jpg)
+		- ![tart_arnel_giglamps_clearblackwood-4_0.jpg](../assets/tart_arnel_giglamps_clearblackwood-4_0.jpg)
+		- ![tart_arnel_giglamps_clearblackwood-2_0.jpg](../assets/tart_arnel_giglamps_clearblackwood-2_0.jpg)
+		- ![tart_arnel_giglamps_clearblackwood-3_0.jpg](../assets/tart_arnel_giglamps_clearblackwood-3_0.jpg)

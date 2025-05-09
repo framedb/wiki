@@ -19,7 +19,7 @@ until:: [[1990s]]
 	- [[American Optical Red Dot Screw]]
 	- [[American Optical Green Dot Screw]]
 	- Era identification from temple markings, from vintage seller [@krabeemarn](https://instagram.com/krabeemarn) #1950s #1960s #1970s
-		- ![IMG_1739.jpg](../assets/IMG_1739_1744658499984_0.jpg)
+		- ![IMG_1739.jpg](../assets/ao_temple-logo_0.jpg)
 - # History
 	- > See also: [Article from Optical Heritage Museum](https://www.opticalheritagemuseum.com/learn/va/aohistory)
 	- What would become American Optical Company was founded way back in 1833, starting with [silver frames]([[Silver]])
@@ -253,9 +253,9 @@ until:: [[1990s]]
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
 		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/ao_rawhide_catalog1_0.jpg)
-		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
+		- ![image.png](../assets/ao_rawhide_ads_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
-		- ![image.png](../assets/image_1743886030541_0.png)
+		- ![image.png](../assets/ao_manhattan_catalog_0.png)
 		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_ads_manhattan_1_0.png)
 	- [[American Optical Modern Times]]
 		- ![image.png](../assets/ao_moderntimes_catalog.png)
@@ -265,7 +265,7 @@ until:: [[1990s]]
 	- [[American Optical Cataract Men's]]
 		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog_0.png)
 	- [[American Optical Jaguar]]
-		- ![image.png](../assets/image_1743885985583_0.png)
+		- ![image.png](../assets/ao_jaguar_catalog_0.png)
 - # Brochures and other prints
 	- 1916 [[AO Safety]] brochure
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
