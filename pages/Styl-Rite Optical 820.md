@@ -21,7 +21,7 @@ frame-endpiece::
   tags:: Features
 	- ## [[Bridge]]
 	  frame-bridge:: [[keyhole]]
-		- ![IMG_1740.jpg](../assets/IMG_1740_1744659722141_0.jpg)
+		- ![IMG_1740.jpg](../assets/IMG_1740_1744659275207_0.jpg)
 		- ![IMG_1732.jpg](../assets/IMG_1732_1744658810605_0.jpg)
 	- ## [[Hinge]]
 	  frame-hinge:: [[7-barreled]]
