@@ -247,7 +247,7 @@ until:: [[1990s]]
 - # 1963 Brochure
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]
-		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/Screenshot_2025-04-06_at_03.39.15_1743885560726_0.png)
+		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/ao_red_dot_ads_0.png)
 		  id:: 67f42cb0-ec15-4e07-8295-8a4c96b3e693
 		  ![image.png](../assets/image_1743885587160_0.png)
 	- [[American Optical Rawhide]]
@@ -256,14 +256,14 @@ until:: [[1990s]]
 		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
 		- ![image.png](../assets/image_1743886030541_0.png)
-		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_manhattan_ad1_0.png)
+		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_ads_manhattan_1_0.png)
 	- [[American Optical Modern Times]]
 		- ![image.png](../assets/image_1743885234469_0.png)
 	- [[American Optical Jr. Modern Times]]
 		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
 		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
 	- [[American Optical Cataract Men's]]
-		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/Screenshot_2025-04-06_at_03.35.40_1743885387084_0.png)
+		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog.png)
 	- [[American Optical Jaguar]]
 		- ![image.png](../assets/image_1743885985583_0.png)
 - # Brochures and other prints
@@ -272,7 +272,7 @@ until:: [[1990s]]
 		  ![Safety1916Cat10.jpeg](../assets/Safety1916Cat10_1744121032338_0.jpeg)
 	- 1943 [[AO Safety]] lenses weathering tests
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		  ![AOSalesStudyGuide1943ODWWesReed.jpg](../assets/AOSalesStudyGuide1943ODWWesReed_1744121545449_0.jpg)
+		  ![AOSalesStudyGuide1943ODWWesReed.jpg](../assets/ao_prints_sales_study_0.jpg)
 	- 1944 [[AO Safety]] products on the front page of *Scientific American*
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
 		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/SafteyScientificAmericanCoverAug1944_1744121296637_0.jpg)

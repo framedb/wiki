@@ -51,6 +51,6 @@ frame-endpiece::
 		- > With original paper packaging
 		- Back SRO 820 42-20 Listing from http://ponmegane.cocolog-nifty.com/pon/2014/01/vintage-sro-2a2.html
 		- ![image.png](../assets/image_1744659545776_0.png)
-		- ![Screenshot 2025-04-15 at 02.37.01.png](../assets/Screenshot_2025-04-15_at_02.37.01_1744659429459_0.png)
+		- ![Screenshot 2025-04-15 at 02.37.01.png](../assets/sro_820_set_0.png)
 		- ![image.png](../assets/image_1744659471994_0.png)
 		- ![image.png](../assets/image_1744659571766_0.png)
