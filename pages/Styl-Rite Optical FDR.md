@@ -10,7 +10,7 @@ frame-hinge:: [[Standard bridge]]
 frame-rivet:: [[Dot rivets]] 
 frame-endpiece::
 
-- ![18B77F01-81DC-40AA-AAC6-297CBB55CFE2.jpg](../assets/18B77F01-81DC-40AA-AAC6-297CBB55CFE2_1744104095852_0.jpg)
+- ![sro_fdr_1_front_0.jpg](../assets/sro_fdr_1_front_0.jpg)
   id:: 68127b0a-0515-4964-b032-91dd8ac1e500
 - SRO, like other American manufacturers of the time, also produced [[FDR]] frames
 - > Note: We only have come across a total of 1 example of FDR frames from SRO. [Its temples are not reinforced]([[Reinforcement]]), suggesting it's from #1950s
