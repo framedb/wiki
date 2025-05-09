@@ -84,21 +84,21 @@ alias:: FDR
 			- ![IMG_1602.jpg](../assets/fdr_comparison_oldnew_0.jpg)
 - # #InTheWild
 	- Worn by [Cary Grant](https://en.wikipedia.org/wiki/Cary_Grant), allegedly 1959
-		- ![cary_grant.jpg](../assets/cary_grant_1744108114124_0.jpg)
+		- ![cary_grant.jpg](../assets/fdr_grant_1.jpg)
 	- Worn by [Kurt Russell](https://en.wikipedia.org/wiki/Kurt_Russell) in [Big Trouble in Little China (1986)](https://en.wikipedia.org/wiki/Big_Trouble_in_Little_China)
-		- ![kurt_russell.jpg](../assets/kurt_russell_1744108392961_0.jpg)
+		- ![kurt_russell.jpg](../assets/fdr_russel_1_0.jpg)
 	- Worn by [Gene Hackman](https://en.wikipedia.org/wiki/Gene_Hackman) in [Enemy of the State (1998)](https://en.wikipedia.org/wiki/Enemy_of_the_State_(film))
-		- ![MV5BZjcyZTNhNTgtYzMwNS00OTliLWFkNWItNzQzYjg2NGNjYjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg](../assets/MV5BZjcyZTNhNTgtYzMwNS00OTliLWFkNWItNzQzYjg2NGNjYjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_1744107687865_0.jpg)
-		- ![gene-hackman-enemy-of-the-state.webp](../assets/gene-hackman-enemy-of-the-state_1744107710260_0.webp)
+		- ![MV5BZjcyZTNhNTgtYzMwNS00OTliLWFkNWItNzQzYjg2NGNjYjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg](../assets/fdr_hackman_1_0.jpg)
+		- ![gene-hackman-enemy-of-the-state.webp](../assets/fdr_hackman_2_0.webp)
 	- Worn by [Stanley Tucci](https://en.wikipedia.org/wiki/Stanley_Tucci) (likely Moscot reproductions)
 		- https://moscot.com/cdn/shop/articles/STANLEY_TUCCI.jpg?v=1693414703
 		- https://cdn.britannica.com/13/221313-050-6B41FF38/Stanley-tucci-2019.jpg
 		- https://cdn.britannica.com/19/249419-050-30F05ED6/Stanley-Tucci-2017.jpg
-		- ![Stanley_Tucci_2017_Berlinale.jpg](../assets/Stanley_Tucci_2017_Berlinale_1744109147378_0.jpg)
+		- ![Stanley_Tucci_2017_Berlinale.jpg](../assets/fdr_tucci_1_0.jpg)
 		-
 	- Worn by [Yusuf Lateef](https://en.wikipedia.org/wiki/Yusef_Lateef) on many occasions
 		- ![IMG_1680.jpg](../assets/fdr_lateef_1_0.jpg)
-		- ![lateef_eastern_sounds.jpeg](../assets/lateef_eastern_sounds_1744108860041_0.jpeg)
+		- ![lateef_eastern_sounds.jpeg](../assets/fdr_lateef_4_0.jpg)
 		- ![IMG_1684.jpg](../assets/fdr_lateef_3_0.jpg)
 		- ![IMG_1681.jpg](../assets/fdr_lateef_2_0.jpg)
 		-
@@ -108,9 +108,9 @@ alias:: FDR
 		- ![IMG_1119.jpg](../assets/fdr_garyoldman_2_0.jpg)
 		- ![IMG_1118.jpg](../assets/fdr_garyoldman_1_0.jpg)
 	- Worn by Tom Hank for SNL 2016
-		- ![tomhank_snl2016.jpeg](../assets/tomhank_snl2016_1744108622860_0.jpeg)
+		- ![tomhank_snl2016.jpeg](../assets/fdr_tomhank_1_0.jpg)
 	- Worn by John Mayer some time in 2010s
 		- ![IMG_1683.jpg](../assets/fdr_mayer_1_0.jpg)
 	- Worn by [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow) (likely a Moscot unfaithful reproduction)
 		- ![RollingStone_VILDA1.webp](../assets/fdr_rollingstonesmag_0.webp)
-		- ![rachel_maddow.webp](../assets/rachel_maddow_1744107818332_0.webp)
+		- ![rachel_maddow.webp](../assets/fdr_maddow_1_0.webp)

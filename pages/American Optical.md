@@ -100,7 +100,7 @@ until:: [[1990s]]
 		- **1872**: Wells bought Central Mills for a new factory
 			- This was around the time Southbridge was pivoting from a textile mill town to optical manufacturing town
 			- Located at Main and Mechanic Street near the [Old Spec Shop](((67f536cf-b236-409b-845e-803b836a546b)))
-			- ![ao_1870s.jpg](../assets/ao_1870s_1744125076436_0.jpg)
+			- ![ao_1870s.jpg](../assets/ao_factory_1870s_0.jpg)
 		- > During this time, AO only produced frames. Lenses were still bought from [European cottage industry](https://en.wiktionary.org/wiki/cottage_industry)
 		  >
 		  > For some context - lens customers around this time would first need to try on pre-made *spherical lenses* and choose what served them best.
@@ -224,8 +224,8 @@ until:: [[1990s]]
 			- Mobile Optical Units  as forward/field repair unit
 				- MOUs allowed the fielded army to repair spectacles very close to the frontline
 				- Conceived 1941, rolling out of Southbridge 1942
-				- ![ww2_mobile_optic_unit.jpg](../assets/ww2_mobile_optic_unit_1744136400690_0.jpg)
-				- ![mobile_optic_unit_interior.jpg](../assets/mobile_optic_unit_interior_1744136385157_0.jpg)
+				- ![ww2_mobile_optic_unit.jpg](../assets/ao_ww2_mobileunit_1_0.jpg)
+				- ![mobile_optic_unit_interior.jpg](../assets/ao_ww2_mobileunit_2_0.jpg)
 			- AO Monoplex Plastic Artificial Eyes
 				- Glass prosthetics eyes were in shortage
 				- But glass eyes are bad because it could shatter
@@ -269,23 +269,23 @@ until:: [[1990s]]
 - # Brochures and other prints
 	- 1916 [[AO Safety]] brochure
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		  ![Safety1916Cat10.jpeg](../assets/Safety1916Cat10_1744121032338_0.jpeg)
+		  ![Safety1916Cat10.jpeg](../assets/ao_safety_catalog_1916_0.jpeg)
 	- 1943 [[AO Safety]] lenses weathering tests
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
 		  ![AOSalesStudyGuide1943ODWWesReed.jpg](../assets/ao_prints_sales_study_0.jpg)
 	- 1944 [[AO Safety]] products on the front page of *Scientific American*
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/SafteyScientificAmericanCoverAug1944_1744121296637_0.jpg)
-		- ![SafetyColmascopePg2.jpeg](../assets/SafetyColmascopePg2_1744121306836_0.jpeg)
+		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/ao_scientificamerican_print_1944_0.jpg)
+		- ![SafetyColmascopePg2.jpeg](../assets/ao_safety_colmascope_catalog_0.jpeg)
 	- 1948 [[AO Safety]] sunglasses, advertising [Calobar lens](https://aoeyewear.com/lens-technology/?srsltid=AfmBOoqaOxpfz2yeRF7m98PZEsL_8ehSmWDfp8z_C3iYY7vBYZuyxt72)
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		  ![SafetyCalSun1948PAge2.jpg](../assets/SafetyCalSun1948PAge2_1744121388471_0.jpg)
+		  ![SafetyCalSun1948PAge2.jpg](../assets/ao_safety_calsun_ads_1948_0.jpg)
 	- 1948 AO S-1000 cover featuring [[AO Safety]] polycarbonate safety goggles
-		- ![SafetyS1000Cover.jpg](../assets/SafetyS1000Cover_1744121790483_0.jpg)
+		- ![SafetyS1000Cover.jpg](../assets/ao_safety_s1000_0.jpg)
 	- 1950s AO print ads featuring [[AO Red Dot Screw]]
 		- ![ao_ads_womens_reddot.jpg](../assets/ao_ads_womens_reddot_1744286382767_0.jpg)
 	- 1965 NASA recognition for AO contribution
-		- ![nasa_ao.jpg](../assets/nasa_ao_1744122419213_0.jpg) Michael Collins
+		- ![nasa_ao.jpg](../assets/ao_nasa_0.jpg) Michael Collins
 - # External resources
 	- > These resources are not compiled into the Wiki, and may be stale
 	- [[AO workers and factories]]

@@ -13,10 +13,10 @@ frame-endpiece::
 - ![IMG_1740.jpg](../assets/sro_820_1_front_0.jpg)
 - SRO 820 is an [ophthalmic]([[Ophthalmic]]) [acetate eyewear frame]([[Acetate]]), estimated to be have been produced from late #1950s to #1960s
 - We have plenty of photographs on the 820, because it's been [Woody Allen's signature eyewear](https://en.wikipedia.org/wiki/Woody_Allen) since the #1960s
-	- ![woody_allen_820.jpg](../assets/woody_allen_820_1744286169191_0.jpg)
+	- ![woody_allen_820.jpg](../assets/sro_820_woodyallen_1_0.jpg)
 - We've only seen it in black, so far
 - It seems SRO 820 is the original inspiration for TVR 523:
-	- ![tvr-523.jpg](../assets/tvr-523_1744106904317_0.jpg)
+	- ![tvr-523.jpg](../assets/tvr-523_0.jpg)
 - # Features
   tags:: Features
 	- ## [[Bridge]]

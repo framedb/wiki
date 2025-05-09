@@ -18,7 +18,7 @@ alias:: AO Red Dot Screw
 		- We found this variants in use more in #1960s frames
 		- We then assume that this is the later variant
 		- A NOS AO frame from #1960s [on sale on eBay](https://www.ebay.com/itm/286132140549)
-		  ![ao_frame_red_dot.webp](../assets/ao_frame_red_dot_1744285685979_0.webp)
+		  ![ao_frame_red_dot.webp](../assets/ao_reddot_example_0.webp)
 - # Reference text
 	- > *American Optical Company announces that it’s new red dot program will be available nationwide very soon. This innovation, according to AO, has been acclaimed in the aereas where it has already been introduced.
 	  >
