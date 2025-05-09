@@ -19,7 +19,7 @@ until:: [[1990s]]
 	- [[American Optical Red Dot Screw]]
 	- [[American Optical Green Dot Screw]]
 	- Era identification from temple markings, from vintage seller [@krabeemarn](https://instagram.com/krabeemarn) #1950s #1960s #1970s
-		- ![IMG_1739.jpg](../assets/IMG_1739_1744658499984_0.jpg)
+		- ![IMG_1739.jpg](../assets/ao_temple-logo_0.jpg)
 - # History
 	- > See also: [Article from Optical Heritage Museum](https://www.opticalheritagemuseum.com/learn/va/aohistory)
 	- What would become American Optical Company was founded way back in 1833, starting with [silver frames]([[Silver]])
@@ -45,18 +45,18 @@ until:: [[1990s]]
 			- Executive Bifocal Safety lens
 			- Invented Calobar and Cruxite absorbtive glass
 	- ## AO logo history
-  | Introduction | Logo |
-  | :-: | :-: |
-  |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_1744127543746_0.jpg) |
-  |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_1744127644940_0.jpg) |
-  |     1911      |  ![ao_logo_1911.jpg](../assets/ao_logo_1911_1744127691646_0.jpg) |
-  |     1929     |  ![ao_logo_1929.jpg](../assets/ao_logo_1929_1744127790665_0.jpg) |
-  |     1943     |  ![ao_logo_1943.jpg](../assets/ao_logo_1943_1744127819898_0.jpg) |
-  |     1959     |  ![ao_logo_1959.jpg](../assets/ao_logo_1959_1744127877271_0.jpg) |
+  | Introduction |                               Logo                                |
+  |:------------:|:-----------------------------------------------------------------:|
+  |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_1744127543746_0.jpg)  |
+  |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_1744127644940_0.jpg)  |
+  |     1911     |  ![ao_logo_1911.jpg](../assets/ao_logo_1911_1744127691646_0.jpg)  |
+  |     1929     |  ![ao_logo_1929.jpg](../assets/ao_logo_1929_1744127790665_0.jpg)  |
+  |     1943     |  ![ao_logo_1943.jpg](../assets/ao_logo_1943_1744127819898_0.jpg)  |
+  |     1959     |  ![ao_logo_1959.jpg](../assets/ao_logo_1959_1744127877271_0.jpg)  |
   |     1965     | ![ao_logo_1965a.jpg](../assets/ao_logo_1965a_1744127909070_0.jpg) |
-  |     1973     |  ![ao_logo_1973.jpg](../assets/ao_logo_1973_1744127943408_0.jpg) |
-  |     1983     |  ![ao_logo_1983.jpg](../assets/ao_logo_1983_1744127977437_0.jpg) |
-  |     1995     |  ![ao_logo_1995.jpg](../assets/ao_logo_1995_1744128115310_0.jpg) |
+  |     1973     |  ![ao_logo_1973.jpg](../assets/ao_logo_1973_1744127943408_0.jpg)  |
+  |     1983     |  ![ao_logo_1983.jpg](../assets/ao_logo_1983_1744127977437_0.jpg)  |
+  |     1995     |  ![ao_logo_1995.jpg](../assets/ao_logo_1995_1744128115310_0.jpg)  |
 	- ## Full history: 1800s
 	  id:: 67f532be-a5bc-4b28-bf31-fb1530cd220f
 		- > Summarized from [The American Optical Company: A History](https://www.opticalheritagemuseum.com/learn/va/aohistory) by Diane Matuck
@@ -100,7 +100,7 @@ until:: [[1990s]]
 		- **1872**: Wells bought Central Mills for a new factory
 			- This was around the time Southbridge was pivoting from a textile mill town to optical manufacturing town
 			- Located at Main and Mechanic Street near the [Old Spec Shop](((67f536cf-b236-409b-845e-803b836a546b)))
-			- ![ao_1870s.jpg](../assets/ao_1870s_1744125076436_0.jpg)
+			- ![ao_1870s.jpg](../assets/ao_factory_1870s_0.jpg)
 		- > During this time, AO only produced frames. Lenses were still bought from [European cottage industry](https://en.wiktionary.org/wiki/cottage_industry)
 		  >
 		  > For some context - lens customers around this time would first need to try on pre-made *spherical lenses* and choose what served them best.
@@ -126,19 +126,19 @@ until:: [[1990s]]
 		- **1893**: AO became the world's largest, with 2 millions frames produced and 800 employees
 			- The workforce was mostly Francophone immigrants from Canada, who just immigrated to Southbridge
 		- ## AO *firsts* by 1800s
-- | Year | Event |
-  | :-- | --: |
-  | 1874 | Rimless spectacles |
-  | 1883 | The first lens plant |
-  | 1884 | Trial frames |
-  | 1891 | Automatic lens edgers and gold-filled spectacles |
-  | 1895 | Eyeglass chains |
-  | 1898 | Eyeglass cases |
-  | 1900 | Toric lenses |
+- | Year |                                            Event
+--|:-----|------------------------------------------------:
+  | 1874 |                               Rimless spectacles
+  | 1883 |                             The first lens plant
+  | 1884 |                                     Trial frames
+  | 1891 | Automatic lens edgers and gold-filled spectacles
+  | 1895 |                                  Eyeglass chains
+  | 1898 |                                   Eyeglass cases
+  | 1900 |                                     Toric lenses
 	- ## Full history: 1900s (WIP)
 	  id:: 67f54216-e289-4f00-8898-15427ef99b53
 		- > Note: Between 1911-1927, the trademark `Wellsworth` was used and became some what better known compared to AO. This led AO to try to bring more attention to its marketing names
-		  ![ao_logo_1911_1744127691646_0.jpg](../assets/ao_logo_1911_1744127691646_0_1744128268105_0.jpg)
+		  ![ao_logo_1911_1744127691646_0.jpg](../assets/ao_logo_1911_1744127691646_0.jpg)
 		- **1905**: International division established in London
 			- AO later expanded overseas to [Canada]([[AO Canada]]), Brazil, and Germany
 			- AO also expanded US operations to New York, Chicago, and San Francisco
@@ -224,8 +224,8 @@ until:: [[1990s]]
 			- Mobile Optical Units  as forward/field repair unit
 				- MOUs allowed the fielded army to repair spectacles very close to the frontline
 				- Conceived 1941, rolling out of Southbridge 1942
-				- ![ww2_mobile_optic_unit.jpg](../assets/ww2_mobile_optic_unit_1744136400690_0.jpg)
-				- ![mobile_optic_unit_interior.jpg](../assets/mobile_optic_unit_interior_1744136385157_0.jpg)
+				- ![ww2_mobile_optic_unit.jpg](../assets/ao_ww2_mobileunit_1_0.jpg)
+				- ![mobile_optic_unit_interior.jpg](../assets/ao_ww2_mobileunit_2_0.jpg)
 			- AO Monoplex Plastic Artificial Eyes
 				- Glass prosthetics eyes were in shortage
 				- But glass eyes are bad because it could shatter
@@ -247,45 +247,45 @@ until:: [[1990s]]
 - # 1963 Brochure
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]
-		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/ao_red_dot_ads_0.png)
+		- ![Screenshot 2025-04-06 at 03.39.15.png](../assets/ao_reddot_ads_0.png)
 		  id:: 67f42cb0-ec15-4e07-8295-8a4c96b3e693
-		  ![image.png](../assets/image_1743885587160_0.png)
+		  ![image.png](../assets/ao_reddot_print_0.png)
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
-		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU_1743870013562_0.jpg)
-		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
+		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/ao_rawhide_catalog1_0.jpg)
+		- ![image.png](../assets/ao_rawhide_ads_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
-		- ![image.png](../assets/image_1743886030541_0.png)
+		- ![image.png](../assets/ao_manhattan_catalog_0.png)
 		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_ads_manhattan_1_0.png)
 	- [[American Optical Modern Times]]
-		- ![image.png](../assets/image_1743885234469_0.png)
+		- ![image.png](../assets/ao_moderntimes_catalog.png)
 	- [[American Optical Jr. Modern Times]]
-		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
-		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
+		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/ao_rawhide_catalog2_0.jpg)
+		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/ao_jrmoderntimes_catalog_0.jpg)
 	- [[American Optical Cataract Men's]]
 		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog_0.png)
 	- [[American Optical Jaguar]]
-		- ![image.png](../assets/image_1743885985583_0.png)
+		- ![image.png](../assets/ao_jaguar_catalog_0.png)
 - # Brochures and other prints
 	- 1916 [[AO Safety]] brochure
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		  ![Safety1916Cat10.jpeg](../assets/Safety1916Cat10_1744121032338_0.jpeg)
+		  ![Safety1916Cat10.jpeg](../assets/ao_safety_catalog_1916_0.jpeg)
 	- 1943 [[AO Safety]] lenses weathering tests
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
 		  ![AOSalesStudyGuide1943ODWWesReed.jpg](../assets/ao_prints_sales_study_0.jpg)
 	- 1944 [[AO Safety]] products on the front page of *Scientific American*
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/SafteyScientificAmericanCoverAug1944_1744121296637_0.jpg)
-		- ![SafetyColmascopePg2.jpeg](../assets/SafetyColmascopePg2_1744121306836_0.jpeg)
+		- ![SafteyScientificAmericanCoverAug1944.jpg](../assets/ao_scientificamerican_print_1944_0.jpg)
+		- ![SafetyColmascopePg2.jpeg](../assets/ao_safety_colmascope_catalog_0.jpeg)
 	- 1948 [[AO Safety]] sunglasses, advertising [Calobar lens](https://aoeyewear.com/lens-technology/?srsltid=AfmBOoqaOxpfz2yeRF7m98PZEsL_8ehSmWDfp8z_C3iYY7vBYZuyxt72)
 		- Courtesy of [Dick Whitney](https://www.dickwhitney.net/AOHistorySafety.html)
-		  ![SafetyCalSun1948PAge2.jpg](../assets/SafetyCalSun1948PAge2_1744121388471_0.jpg)
+		  ![SafetyCalSun1948PAge2.jpg](../assets/ao_safety_calsun_ads_1948_0.jpg)
 	- 1948 AO S-1000 cover featuring [[AO Safety]] polycarbonate safety goggles
-		- ![SafetyS1000Cover.jpg](../assets/SafetyS1000Cover_1744121790483_0.jpg)
+		- ![SafetyS1000Cover.jpg](../assets/ao_safety_s1000_0.jpg)
 	- 1950s AO print ads featuring [[AO Red Dot Screw]]
 		- ![ao_ads_womens_reddot.jpg](../assets/ao_ads_womens_reddot_1744286382767_0.jpg)
 	- 1965 NASA recognition for AO contribution
-		- ![nasa_ao.jpg](../assets/nasa_ao_1744122419213_0.jpg) Michael Collins
+		- ![nasa_ao.jpg](../assets/ao_nasa_0.jpg) Michael Collins
 - # External resources
 	- > These resources are not compiled into the Wiki, and may be stale
 	- [[AO workers and factories]]
