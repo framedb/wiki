@@ -10,7 +10,7 @@ frame-temple:: [[Skull temple]]
 frame-rivet:: [[Diamond rivet]] 
 frame-endpiece::
 
-- ![DSC00063.jpg](../assets/DSC00063_1744660955145_0.jpg)
+- ![DSC00063.jpg](../assets/DSC00063_1743875357044_0.jpg)
 - AO Times is a very popular [acetate]([[Acetate]]) [ophthalmic]([[Ophthalmic]]) frame
 - id:: 67f42cb0-b344-4833-a00f-97864ddd2135
   > *Times* only refer to the centerpiece of the frames.
@@ -31,7 +31,7 @@ frame-endpiece::
 		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))
 		  ![DSC00050.jpg](../assets/DSC00050_1743875313047_0.jpg)
 		- [Example 2](((67f7b387-3887-48f6-bbf8-1752f93c4c0e)))
-		  ![ao_times_tt_in.jpg](../assets/ao_times_tt_in_1744286848384_0.jpg)
+		  ![ao_times_tt_in.jpg](../assets/ao_times_tt_in_1744286798568_0.jpg)
 	- ## [[Rivet]]
 	  frame-rivet:: [[Diamond rivet]]
 		- [Example 1](((67f42cb0-0a67-4af5-9a26-8305758bcc2d)))

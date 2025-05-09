@@ -15,7 +15,7 @@
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden ["assets-extra"]
+ :hidden ["assets-extra" "wiki-cli"]
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.

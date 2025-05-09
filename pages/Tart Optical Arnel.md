@@ -22,7 +22,7 @@ frame-rivet::
 		- ![IMG_1609.jpg](../assets/IMG_1609_1743875251883_0.jpg)
 	- [Courtesy of Gig-Lamps](https://www.gig-lamps.com/home/1950s-1960s-tart-optical-arnel-2tone-blackxclear-size44-20/):
 	  > 1950s-60s two-tone black/clear with stamped temples
-		- ![gl-a5469-1.jpg](../assets/gl-a5469-1_1743874771464_0.jpg)
+		- ![gl-a5469-1.jpg](../assets/tart_arnel_giglamps-1_0.jpg)
 		- ![gl-a5469-6.jpg](../assets/gl-a5469-6_1743874845506_0.jpg)
 		- ![gl-a5469-3.jpg](../assets/gl-a5469-3_1743874777444_0.jpg)
 		- ![gl-a5469-5.jpg](../assets/gl-a5469-5_1743874785305_0.jpg)
