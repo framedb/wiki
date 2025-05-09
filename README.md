@@ -18,3 +18,25 @@ on all files easily with:
 ```shell
 git config --local core.hooksPath .githooks/
 ```
+
+## wiki-cli
+
+FrameDB Wiki also provides a simple Go CLI program `wiki-cli`.
+
+wiki-cli provides tools for some tedious tasks, like renaming asset files.
+
+To use wiki-cli, build the executable first (or use scripts `build-cli.sh`):
+
+```sh
+cd ./wiki-cli          # cd into /wiki-cli for go.mod
+go build ./cmd/main.go # Build executable /wiki-cli/main
+cp main ../cli         # Copy executable to /cli
+cd ..
+```
+
+Then you can just run it to do stuff:
+
+```sh
+# Rename an asset as well as its references with subcommand `rename-asset`
+./cli rename-asset 'some_old_name.png' 'new_name.png'
+```

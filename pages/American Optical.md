@@ -256,7 +256,7 @@ until:: [[1990s]]
 		- ![image.png](../assets/image_1743885899891_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
 		- ![image.png](../assets/image_1743886030541_0.png)
-		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/Screenshot_2025-04-06_at_03.34.44_1743885297763_0.png)
+		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_manhattan_ad1_0.png)
 	- [[American Optical Modern Times]]
 		- ![image.png](../assets/image_1743885234469_0.png)
 	- [[American Optical Jr. Modern Times]]
