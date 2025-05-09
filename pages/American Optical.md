@@ -263,7 +263,7 @@ until:: [[1990s]]
 		- ![att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A.jpg](../assets/att.yCTI5Hj3srZ_ztJj-Eq98GP1C9nu18HPTXjsAuQSY2A_1743870036204_0.jpg)
 		- ![att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE.jpg](../assets/att.cxx-3DddabFhZO_x_k3L_h42GBlbH6pWpclwFUiO6LE_1743869929018_0.jpg)
 	- [[American Optical Cataract Men's]]
-		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog.png)
+		- ![Screenshot 2025-04-06 at 03.35.40.png](../assets/ao_cataract_catalog_0.png)
 	- [[American Optical Jaguar]]
 		- ![image.png](../assets/image_1743885985583_0.png)
 - # Brochures and other prints

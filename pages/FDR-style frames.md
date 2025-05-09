@@ -112,5 +112,5 @@ alias:: FDR
 	- Worn by John Mayer some time in 2010s
 		- ![IMG_1683.jpg](../assets/IMG_1683_1744109252652_0.jpg)
 	- Worn by [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow) (likely a Moscot unfaithful reproduction)
-		- ![RollingStone_VILDA1.webp](../assets/RollingStone_VILDA1_1744107899948_0.webp)
+		- ![RollingStone_VILDA1.webp](../assets/fdr_on_rollingstones_mag_0.webp)
 		- ![rachel_maddow.webp](../assets/rachel_maddow_1744107818332_0.webp)
