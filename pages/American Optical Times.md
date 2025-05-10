@@ -46,7 +46,7 @@ frame-endpiece::
 	  id:: 67f42cb0-0a67-4af5-9a26-8305758bcc2d
 		- Two-tone black/clear Times, 44-22, with golden inlaid temples #1950s
 		  > Note that the yellow hue is probably due to to the acetate aging
-		- ![DSC00063.jpg](../assets/ao_times_1_front1_0.jpg){:height 487, :width 718}
+		- ![DSC00063.jpg](../assets/ao_times_1_front1_0.jpg)
 		- ![DSC00048.jpg](../assets/ao_times_1_rear_0.jpg)
 		- This particular example just happens to have golden print ![DSC00046.jpg](../assets/ao_times_1_logo_0.jpg)
 	- ## Example 2 (from [gig-lamps](https://www.gig-lamps.com/home/1960s-american-optical-times-2tone-black-size-44-22/))

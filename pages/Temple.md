@@ -42,7 +42,7 @@ alias:: frame-temple
 - # Styles
 	- Unlike [temple types](((67fc1d47-967d-46f7-8cc5-9e6312a71c43))) which are easily categorized, styles are informal ways of classifying temples based on its appearance
 	- ## [[Spatula temples]]
-		- ![spatula.webp](../assets/spatula_1744657795700_0.webp)
+		- ![spatula.webp](../assets/info_spatula_0.webp)
 		- Spatula temples are named after the kitchenware: spatula
 		- It generally fashions enlarged temple tips (compared to the rest of the temple)
 		- These enlarged temple tips might be bent to a degree, thus making them a subtype of ((67fc1e62-0e5a-41b8-bedf-bde0271589e7))

@@ -3,7 +3,7 @@ alias:: Frame
 - Frames are the main structure of a modern eyewear
 - It provides mount points for other parts, like the lenses, hinges, and other things
 - # Features and parts
-	- ![frame_parts.webp](../assets/frame_parts_1744577189828_0.webp)
+	- ![frame_parts.webp](../assets/info_frame_parts_0.webp)
 	- Eyewear frames is composed of multiple parts
 	- So we're not going to list out all of these parts
 	- Chassis

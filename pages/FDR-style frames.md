@@ -54,7 +54,7 @@ alias:: FDR
 	- ## Example 1
 	  id:: 67f40714-2a17-4fd0-a09b-c9f2a08612b2
 		- [Unmarked](((67f42cb0-6598-46a7-93e0-88f69fa5605e))) amber FDR with `USA 6` stamped on the temple, possibly from #1950s because its temples are not [reinforced]([[Reinforcement]])
-		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/fdr_amber_front_0.jpg){:height 487, :width 718}
+		- ![680FA62C-CDD0-498A-9BF9-7675342F7589.jpg](../assets/fdr_amber_front_0.jpg)
 		- ![756AA21C-90D3-4A80-9B68-80361B8139F2.jpg](../assets/fdr_amber_rear2_0.jpg)
 		- We can use the typeface or recognize some patterns to trace manufacturer, but that's all we got and we've not been able to discern where this example came from
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/fdr_amber_marking_0.jpg)
