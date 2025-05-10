@@ -176,6 +176,12 @@ func (c *cmdCleanup) run() error {
 func hasRef(root string, b []byte) (bool, error) {
 	referenced := false
 	err := filepath.Walk(root, func(path string, info fs.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if info.IsDir() {
+			return nil
+		}
 		data, err := os.ReadFile(path)
 		if err != nil {
 			return err
