@@ -47,16 +47,16 @@ until:: [[1990s]]
 	- ## AO logo history
   | Introduction |                               Logo                                |
   |:------------:|:-----------------------------------------------------------------:|
-  |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_1744127543746_0.jpg)  |
-  |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_1744127644940_0.jpg)  |
-  |     1911     |  ![ao_logo_1911.jpg](../assets/ao_logo_1911_1744127691646_0.jpg)  |
-  |     1929     |  ![ao_logo_1929.jpg](../assets/ao_logo_1929_1744127790665_0.jpg)  |
-  |     1943     |  ![ao_logo_1943.jpg](../assets/ao_logo_1943_1744127819898_0.jpg)  |
-  |     1959     |  ![ao_logo_1959.jpg](../assets/ao_logo_1959_1744127877271_0.jpg)  |
-  |     1965     | ![ao_logo_1965a.jpg](../assets/ao_logo_1965a_1744127909070_0.jpg) |
-  |     1973     |  ![ao_logo_1973.jpg](../assets/ao_logo_1973_1744127943408_0.jpg)  |
-  |     1983     |  ![ao_logo_1983.jpg](../assets/ao_logo_1983_1744127977437_0.jpg)  |
-  |     1995     |  ![ao_logo_1995.jpg](../assets/ao_logo_1995_1744128115310_0.jpg)  |
+  |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_0.jpg)  |
+  |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_0.jpg)  |
+  |     1911     |  ![ao_logo_1911.jpg](../assets/ao_logo_1911_0.jpg)  |
+  |     1929     |  ![ao_logo_1929.jpg](../assets/ao_logo_1929_0.jpg)  |
+  |     1943     |  ![ao_logo_1943.jpg](../assets/ao_logo_1943_0.jpg)  |
+  |     1959     |  ![ao_logo_1959.jpg](../assets/ao_logo_1959_0.jpg)  |
+  |     1965     | ![ao_logo_1965a.jpg](../assets/ao_logo_1965_0.jpg) |
+  |     1973     |  ![ao_logo_1973.jpg](../assets/ao_logo_1973_0.jpg)  |
+  |     1983     |  ![ao_logo_1983.jpg](../assets/ao_logo_1983_0.jpg)  |
+  |     1995     |  ![ao_logo_1995.jpg](../assets/ao_logo_1995_0.jpg)  |
 	- ## Full history: 1800s
 	  id:: 67f532be-a5bc-4b28-bf31-fb1530cd220f
 		- > Summarized from [The American Optical Company: A History](https://www.opticalheritagemuseum.com/learn/va/aohistory) by Diane Matuck
@@ -120,7 +120,7 @@ until:: [[1990s]]
 			- Channing Wells
 			  ![channing_wells.jpg](../assets/channing_wells_1744126310539_0.jpg)
 			- Albert Wells
-			  ![albert_wells.jpg](../assets/albert_wells_1744126333161_0.jpg)
+			  ![albert_wells.jpg](../assets/albert_wells_0.jpg)
 			- Cheney Wells
 			  ![cheney_wells.jpg](../assets/cheney_wells_1744126353755_0.jpg)
 		- **1893**: AO became the world's largest, with 2 millions frames produced and 800 employees
@@ -138,7 +138,7 @@ until:: [[1990s]]
 	- ## Full history: 1900s (WIP)
 	  id:: 67f54216-e289-4f00-8898-15427ef99b53
 		- > Note: Between 1911-1927, the trademark `Wellsworth` was used and became some what better known compared to AO. This led AO to try to bring more attention to its marketing names
-		  ![ao_logo_1911_1744127691646_0.jpg](../assets/ao_logo_1911_1744127691646_0.jpg)
+		  ![ao_logo_1911_0.jpg](../assets/ao_logo_1911_0.jpg)
 		- **1905**: International division established in London
 			- AO later expanded overseas to [Canada]([[AO Canada]]), Brazil, and Germany
 			- AO also expanded US operations to New York, Chicago, and San Francisco
@@ -166,7 +166,7 @@ until:: [[1990s]]
 			- AO might possibly just want to compete with B&L Punktal lens
 			- In 1925, AO successfully introduced Tillyer's corrected curve lens
 			- AO later hired Anna Estelle Glancy (math god) to Tillyer with his calculations
-			  ![anna_glancy.jpg](../assets/anna_glancy_1744129781600_0.jpg)
+			  ![anna_glancy.jpg](../assets/anna_glancy_0.jpg)
 			- Tillyer would go on to claim 165 US patents and 32 Canadian patents, while Glancy was credited with a patent for the first progressive lens design in 1924
 			- Tillyer worked during [[WW1]] designing scopes and gunsights for US military, working on optical components of many war machines like the submarine telescopes, tank telescopes, and bomber's bomb site telescopes
 			- Tillyer later contributed his glass formulations to the Manhattan project in [[WW2]]
@@ -178,7 +178,7 @@ until:: [[1990s]]
 		- **1920s**: Post-war developments
 			- **1920**: AO patented the [Lensometer](https://www.opticalheritagemuseum.com/explore/feature/lensometer), a mechanical optical device used to determine the lens's spherical and cylindrical power
 				- 1921 AO Lensometer
-				  ![ao_lensometer_1921.jpg](../assets/ao_lensometer_1921_1744130976404_0.jpg)
+				  ![ao_lensometer_1921.jpg](../assets/ao_lensometer_1921_0.jpg)
 			- AO introduced *Nokrome* and *Cruxite* glass, Polaroid lenses combined with Calobar glass as a superior sunglass lens
 			- **1925**: The influential **Tillyer's Lens** is introduced
 				- The lens enlarged the area of the prescription optical power of a lens
@@ -198,14 +198,14 @@ until:: [[1990s]]
 				- AO also recruited execs of the acquired companies to join the company
 				- After the acquisitions, AO now has operations in both wholesale and retail, as well as expanded manufacturing capabilities, even expanding into new market like telescopes
 				- After the acquisitions, AO now operated more like a network of branch offices scattered across the country
-				  ![ao_locations.jpg](../assets/ao_locations_1744135976361_0.jpg)
+				  ![ao_locations.jpg](../assets/ao_locations_0.jpg)
 			- **1926**: AO began offering [[Zylonite]] frame in [[AO Windsor]] model in black, wine and demi amber
 				- ![ao_zylonite_1926.jpg](../assets/ao_zylonite_1926_1744132904957_0.jpg)
 		- **1930**: AO introduced the [[AO Fulvue]] frame!
 		  id:: 67f55aae-cb64-451c-8bca-1bf213a7df3b
 			- This *full-view* frame positioned the endpieces closer to the top of the frame rather than at midpoint
 			- This paved way for the positioning of today's generic ophthalmic glasses
-			- ![ao_fulvue.jpg](../assets/ao_fulvue_1744133363378_0.jpg)
+			- ![ao_fulvue.jpg](../assets/ao_fulvue_0.jpg)
 			- During this period, a monopolistic conspiracy was suspected in AO
 				- In addition to super popular Ful Vue, AO was also asked by 2 other designers to collect royalty on their behalf
 					- Bay State Optical -> Rimway frame
@@ -283,7 +283,7 @@ until:: [[1990s]]
 	- 1948 AO S-1000 cover featuring [[AO Safety]] polycarbonate safety goggles
 		- ![SafetyS1000Cover.jpg](../assets/ao_safety_s1000_0.jpg)
 	- 1950s AO print ads featuring [[AO Red Dot Screw]]
-		- ![ao_ads_womens_reddot.jpg](../assets/ao_ads_womens_reddot_1744286382767_0.jpg)
+		- ![ao_ads_womens_reddot.jpg](../assets/ao_reddot_womens_ads_0.jpg)
 	- 1965 NASA recognition for AO contribution
 		- ![nasa_ao.jpg](../assets/ao_nasa_0.jpg) Michael Collins
 - # External resources
