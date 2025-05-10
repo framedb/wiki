@@ -38,5 +38,8 @@ Then you can just run it to do stuff:
 
 ```sh
 # Rename an asset as well as its references with subcommand `rename-asset`
-./cli rename-asset 'some_old_name.png' 'new_name.png'
+./cli rename 'some_old_name.png' 'new_name.png'
+
+# Or renames from a JSON map file
+./cli renames 'some_replacements.json'
 ```

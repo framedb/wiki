@@ -2,7 +2,7 @@ tags:: Feature
 alias:: frame-bridge
 
 - The bridge connects the left eye wire to the right one
-- ![nose-bridge-types-graphic.png](../assets/nose-bridge-types-graphic_1744657562299_0.png)
+- ![nose-bridge-types-graphic.png](../assets/info_nosebridge-types_0.png)
 - # Styles
 	- [[Keyhole bridge]]
 		- First used because it gives *increased nasal cutaway*
