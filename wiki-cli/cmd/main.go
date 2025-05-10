@@ -14,7 +14,7 @@ type cli struct {
 }
 
 type cmdRenameAsset struct {
-	Force bool   `arg:"force" help:"Ignore warning such as mismatch file extensions"`
+	Force bool   `arg:"-f,--force" help:"Ignore warning such as mismatch file extensions"`
 	Old   string `arg:"required,positional" help:"Old asset filename"`
 	New   string `arg:"required,positional" help:"New asset filename"`
 }
