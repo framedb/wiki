@@ -63,18 +63,18 @@ until:: [[1990s]]
 		  >
 		  > See also: [Very detailed AO history by former worker]([[AO event logs]])
 		- **1826**: **William Beecher** set up a watch and jewelry shop in **Southbridge, Massachusetts**
-			- ![beecher.jpg](../assets/beecher_1744122708385_0.jpg)
+			- ![beecher.jpg](../assets/william_beecher_0.jpg)
 		- **1833**: Proto-AO was established in Beecher's shop upstairs workspace
 			- Beecher had seen British spectacles, and knew he could do better
 			- [Early Beecher spectacles were made with silver]([[Silver]]), reflecting Beecher's legacy as a jeweler
-				- ![beecher_silver.jpg](../assets/beecher_silver_1744122848498_0.jpg)
+				- ![beecher_silver.jpg](../assets/william_beecher_silver_frame_0.jpg)
 			- Beecher had hired 7 workers, who were able to put out 1 pair per day per worker
 		- **1839**:  Beecher sold jewelry shop to apprentice **Robert Cole**, and moved proto-AO to new factory
 			- Beecher sold the jewelry business (to focus more on AO) to Robert Cole, his first apprentice jeweler.
-			  ![robert_cole.jpg](../assets/robert_cole_1744126388524_0.jpg)
+			  ![robert_cole.jpg](../assets/robert_cole_0.jpg)
 			- Beecher then moved his spectacle business to the first factory **the Old Spec Shop** on lower Main Street, also in Southbridge, Massachusetts
 			  id:: 67f536cf-b236-409b-845e-803b836a546b
-			  ![beecher_1st_factory.jpg](../assets/beecher_1st_factory_1744123255895_0.jpg)
+			  ![beecher_1st_factory.jpg](../assets/ao_williambeecher_1st_factory_0.jpg)
 		- **1840**: Beecher sold proto-AO to Ammidown
 			- The business was sold to **Holdridge Ammidown** and **Jairus Putney**, and later became **Ammidown & Son**, then **Ammidown & Co**
 			- Though Beecher remained briefly after the sales to teach Ammidown’s son Lucius
@@ -87,7 +87,7 @@ until:: [[1990s]]
 		- **1862**: Beecher retired, and their company became **Robert Cole & Co**
 		- **1864**: **George Washington Wells** joined Cole, and excelled at metal frame-making
 			- Wells later went on to apply his knowledge to other industries, earning him multiple patents
-			- ![george_wells.jpg](../assets/george_wells_1744126431810_0.jpg)
+			- ![george_wells.jpg](../assets/wells_george_0.jpg)
 		- **1864-1869**: Wells bought another Southbridge-based frame making company from Henry Ammidown and Charles Edmonds
 			- Cole tried to convince Wells to join Cole as partner, but that failed
 			- Cole wanted Wells because he was very innovative - innovating new machines to help with productions one after the other
@@ -118,11 +118,11 @@ until:: [[1990s]]
 		- **1890**: Cole retired as president, with Wells replacing him
 			- Wells was later joined by his sons Channing, Albert, and Cheney in the 1890’s
 			- Channing Wells
-			  ![channing_wells.jpg](../assets/channing_wells_1744126310539_0.jpg)
+			  ![channing_wells.jpg](../assets/wells_channing_0.jpg)
 			- Albert Wells
 			  ![albert_wells.jpg](../assets/albert_wells_0.jpg)
 			- Cheney Wells
-			  ![cheney_wells.jpg](../assets/cheney_wells_1744126353755_0.jpg)
+			  ![cheney_wells.jpg](../assets/wells_channey_0.jpg)
 		- **1893**: AO became the world's largest, with 2 millions frames produced and 800 employees
 			- The workforce was mostly Francophone immigrants from Canada, who just immigrated to Southbridge
 		- ## AO *firsts* by 1800s
@@ -150,10 +150,10 @@ until:: [[1990s]]
 		- **1917**: The Wells bought remaining shares from the Coles, consolidating ownership into the Wells family
 		- **1910**: AO got a license to produce John Borsch’s fused *Kryptok* bifocal and one-piece *Ultex* bifocal lenses
 			- Kryptok comes from krypt (hidden) + tok (eye), which signifies its near-invisible bifocal
-			  ![kryptok.jpg](../assets/kryptok_1744127091984_0.jpg)
+			  ![kryptok.jpg](../assets/kryptok_0.jpg)
 		- **1910**: AO continued to expand, and built a new lens factory *Lensdale* behind the main plant
 			- Lensdale was the largest US concrete building at the time
-			- ![ao_plant_1912.jpg](../assets/ao_plant_1912_1744127190133_0.jpg)
+			- ![ao_plant_1912.jpg](../assets/ao_factory_1912_0.jpg)
 		- [[WW1]] developments
 			- 1/3 of staff was called up to serve
 			- 100-350 staff was sick because of the Spanish Flu (1918)
@@ -161,7 +161,7 @@ until:: [[1990s]]
 			- These shipments are meant to be used by troopers, pilots, mobile bases, field hospitals
 		- **1916**: AO hired **Edgar Tillyer** from the Bureau of Standards as R&D head
 			- Edgar Tillyer
-			  ![edgar_tillyer.jpg](../assets/edgar_tillyer_1744129464672_0.jpg)
+			  ![edgar_tillyer.jpg](../assets/edgar_tillyer_0.jpg)
 			- This was around the time [[B&L]] started selling *corrected curve lens* **Punktal**, which was very popular
 			- AO might possibly just want to compete with B&L Punktal lens
 			- In 1925, AO successfully introduced Tillyer's corrected curve lens
@@ -174,7 +174,7 @@ until:: [[1990s]]
 			- This new Calobar lens **blocks both infrared and UV light**, becoming de facto standard [sunglass]([[Sunglasses]]) for the armed forces prior to [[WW2]]
 		- **1917**: AO patented the [Windsor]([[American Optical Windsor]]) frame
 			- An influential round frame, frequently infringed upon
-			- ![ao_windsor_1930s.webp](../assets/ao_windsor_1930s_1744131387436_0.webp)
+			- ![ao_windsor_1930s.webp](../assets/ao_windsor_1930s_0.webp)
 		- **1920s**: Post-war developments
 			- **1920**: AO patented the [Lensometer](https://www.opticalheritagemuseum.com/explore/feature/lensometer), a mechanical optical device used to determine the lens's spherical and cylindrical power
 				- 1921 AO Lensometer
@@ -194,13 +194,13 @@ until:: [[1990s]]
 					- **Spencer Lens Company** in New York
 						- The microscope maker later became AO's Scientific Instrument Division
 						- AO microscope
-						  ![ao_microscope.jpg](../assets/ao_microscope_1744132742462_0.jpg)
+						  ![ao_microscope.jpg](../assets/ao_microscope_0.jpg)
 				- AO also recruited execs of the acquired companies to join the company
 				- After the acquisitions, AO now has operations in both wholesale and retail, as well as expanded manufacturing capabilities, even expanding into new market like telescopes
 				- After the acquisitions, AO now operated more like a network of branch offices scattered across the country
 				  ![ao_locations.jpg](../assets/ao_locations_0.jpg)
 			- **1926**: AO began offering [[Zylonite]] frame in [[AO Windsor]] model in black, wine and demi amber
-				- ![ao_zylonite_1926.jpg](../assets/ao_zylonite_1926_1744132904957_0.jpg)
+				- ![ao_zylonite_1926.jpg](../assets/ao_zylonite_1926_0.jpg)
 		- **1930**: AO introduced the [[AO Fulvue]] frame!
 		  id:: 67f55aae-cb64-451c-8bca-1bf213a7df3b
 			- This *full-view* frame positioned the endpieces closer to the top of the frame rather than at midpoint
@@ -230,7 +230,7 @@ until:: [[1990s]]
 				- Glass prosthetics eyes were in shortage
 				- But glass eyes are bad because it could shatter
 				- AO initiated the *Monoplex Plastic Artificial Eye Division* with 15 artists, and supplied the demand for unbreakable artificial eyes made from methyl methacrylate
-				  ![ao_monoplex.jpg](../assets/ao_monoplex_1744136612919_0.jpg)
+				  ![ao_monoplex.jpg](../assets/ao_monoplex_0.jpg)
 		- 1940s US law suits
 			- AO was sued by the US government for monopoly
 			- The charges were in motion since [[WW2]], but was delayed because US also needed AO to be at full capacity for the war efforts
@@ -243,7 +243,7 @@ until:: [[1990s]]
 		- **1951**: AO became publicly traded on NYSE after New Deal changed the taxation landscape. The Wells family firm ownership was no more
 - # #Photographs
 	- Gemini 5 astronauts wearing AO [sunglasses]([[Sunglasses]]) in 1965 #1960s
-		- ![gemini5.jpg](../assets/gemini5_1744122238812_0.jpg)
+		- ![gemini5.jpg](../assets/ao_sunglasses_nasa_gemini5_0.jpg)
 - # 1963 Brochure
 	- > Brochures here are captured from PDF scans, from [Dick Whitney](https://dickwhitney.net)
 	- [[American Optical Red Dot Screw]]

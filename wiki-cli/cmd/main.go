@@ -15,6 +15,7 @@ import (
 type cli struct {
 	RenameAsset  *cmdRenameAsset  `arg:"subcommand:rename" help:"Rename 1 asset file and replace all references to the asset with the new filename"`
 	RenameAssets *cmdRenameAssets `arg:"subcommand:renames" help:"Read a JSON replacement map from file and rename those assets as well as references to the asset with the new filenames"`
+	CleanUp      *struct{}        `arg:"subcommand:cleanup"`
 }
 
 type cmdRenameAsset struct {
@@ -27,6 +28,8 @@ type cmdRenameAssets struct {
 	Force bool   `arg:"-f,--force" help:"Ignore warning such as mismatch file extensions"`
 	Path  string `arg:"required,positional" help:"Path to replacement map in JSON"`
 }
+
+type cmdCleanup struct{}
 
 const basePath = "./assets"
 
@@ -100,6 +103,10 @@ func (c *cmdRenameAssets) run() error {
 	}
 
 	return nil
+}
+
+func (c *cmdCleanup) run() error {
+	panic("not implemented")
 }
 
 func renameWithReference(old, new string) error {
