@@ -1,12 +1,16 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"io/fs"
+	"log/slog"
 	"os"
 	"path/filepath"
 	"sort"
+	"time"
 
 	"github.com/alexflint/go-arg"
 	"github.com/soyart/far"
@@ -15,7 +19,7 @@ import (
 type cli struct {
 	RenameAsset  *cmdRenameAsset  `arg:"subcommand:rename" help:"Rename 1 asset file and replace all references to the asset with the new filename"`
 	RenameAssets *cmdRenameAssets `arg:"subcommand:renames" help:"Read a JSON replacement map from file and rename those assets as well as references to the asset with the new filenames"`
-	CleanUp      *struct{}        `arg:"subcommand:cleanup"`
+	CleanUp      *cmdCleanup      `arg:"subcommand:cleanup"`
 }
 
 type cmdRenameAsset struct {
@@ -31,7 +35,11 @@ type cmdRenameAssets struct {
 
 type cmdCleanup struct{}
 
-const basePath = "./assets"
+const (
+	pathAssets   = "./assets"
+	pathJournals = "./journals"
+	pathPages    = "./pages"
+)
 
 func main() {
 	c := cli{}
@@ -43,6 +51,8 @@ func main() {
 		err = c.RenameAsset.run()
 	case c.RenameAssets != nil:
 		err = c.RenameAssets.run()
+	case c.CleanUp != nil:
+		err = c.CleanUp.run()
 	default:
 		err = errors.New("unmatched subcommand")
 	}
@@ -106,12 +116,85 @@ func (c *cmdRenameAssets) run() error {
 }
 
 func (c *cmdCleanup) run() error {
-	panic("not implemented")
+	start := time.Now()
+	slog.Info("starting cleanup", slog.Time("start", start))
+
+	fnames := []string{}
+	err := filepath.Walk(pathAssets, func(path string, info fs.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if info.IsDir() {
+			return nil
+		}
+		fnames = append(fnames, filepath.Base(path))
+		return nil
+	})
+	if err != nil {
+		return nil
+	}
+
+	slog.Info("gathered file list", slog.Duration("dur since start", time.Since(start)))
+	startCleanup := time.Now()
+
+	for i, fname := range fnames {
+		slog.Debug("checking %s", fname, slog.Int("index", i))
+		b := []byte(fname)
+
+		referenced, err := hasRef(pathPages, b)
+		if err != nil {
+			return fmt.Errorf("failed to search for '%s' in pages", fname)
+		}
+		if referenced {
+			continue
+		}
+		referenced, err = hasRef(pathJournals, b)
+		if err != nil {
+			return fmt.Errorf("failed to search for '%s' in journals", fname)
+		}
+		if referenced {
+			continue
+		}
+
+		path := filepath.Join(pathAssets, fname)
+		slog.Info("removing file", slog.String("fname", fname), slog.String("path", path))
+		err = os.Remove(path)
+		if err != nil {
+			return fmt.Errorf("failed to remove unreferenced file '%s': %w", path, err)
+		}
+		slog.Info("removing done", slog.String("fname", fname), slog.String("path", path))
+	}
+
+	slog.Info("done",
+		slog.Duration("dur since start", time.Since(start)),
+		slog.Duration("dur since startCleanup", time.Since(startCleanup)),
+	)
+
+	return nil
+}
+
+func hasRef(root string, b []byte) (bool, error) {
+	referenced := false
+	err := filepath.Walk(root, func(path string, info fs.FileInfo, err error) error {
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return err
+		}
+		if bytes.Contains(data, b) {
+			referenced = true
+			return filepath.SkipAll
+		}
+		return nil
+	})
+	if err != nil {
+		return false, nil
+	}
+	return referenced, nil
 }
 
 func renameWithReference(old, new string) error {
-	pathOld := filepath.Join(basePath, old)
-	pathNew := filepath.Join(basePath, new)
+	pathOld := filepath.Join(pathAssets, old)
+	pathNew := filepath.Join(pathAssets, new)
 
 	statOld, err := os.Stat(pathOld)
 	if err != nil {
@@ -132,11 +215,11 @@ func renameWithReference(old, new string) error {
 	if err != nil {
 		return fmt.Errorf("failed to copy data to '%s': %w", pathNew, err)
 	}
-	err = far.FindAndReplace("pages", old, new)
+	err = far.FindAndReplace(pathPages, old, new)
 	if err != nil {
 		return fmt.Errorf("failed to find and replace in pages: %w", err)
 	}
-	err = far.FindAndReplace("journals", old, new)
+	err = far.FindAndReplace(pathJournals, old, new)
 	if err != nil {
 		return fmt.Errorf("failed to find and replace in journals: %w", err)
 	}
