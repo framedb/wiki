@@ -42,4 +42,7 @@ Then you can just run it to do stuff:
 
 # Or renames from a JSON map file
 ./cli renames 'some_replacements.json'
+
+# Clean all unreferenced assets
+./cli cleanup
 ```
