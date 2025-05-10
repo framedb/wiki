@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"bytes"
 	"encoding/json"
 	"errors"
@@ -157,12 +158,26 @@ func (c *cmdCleanup) run() error {
 		}
 
 		path := filepath.Join(pathAssets, fname)
-		slog.Info("removing file", slog.String("fname", fname), slog.String("path", path))
+		remove := promptYesNo(fmt.Sprintf("Remove file '%s'?", path))
+		if !remove {
+			slog.Info("skipping removing file",
+				slog.String("fname", fname),
+				slog.String("path", path),
+			)
+			continue
+		}
+		slog.Info("removing file",
+			slog.String("fname", fname),
+			slog.String("path", path),
+		)
 		err = os.Remove(path)
 		if err != nil {
 			return fmt.Errorf("failed to remove unreferenced file '%s': %w", path, err)
 		}
-		slog.Info("removing done", slog.String("fname", fname), slog.String("path", path))
+		slog.Info("removing done",
+			slog.String("fname", fname),
+			slog.String("path", path),
+		)
 	}
 
 	slog.Info("done",
@@ -171,6 +186,26 @@ func (c *cmdCleanup) run() error {
 	)
 
 	return nil
+}
+
+func promptYesNo(prompt string) bool {
+	scanner := bufio.NewScanner(os.Stdin)
+	printPrompt := func() { fmt.Printf("%s [y/N]: ", prompt) }
+	printPrompt()
+	for scanner.Scan() {
+		printPrompt()
+		text := scanner.Text()
+		if text == "" {
+			continue
+		}
+		switch text[0] {
+		case 'y', 'Y':
+			return true
+		case 'n', 'N':
+			return false
+		}
+	}
+	return false
 }
 
 func hasRef(root string, b []byte) (bool, error) {
