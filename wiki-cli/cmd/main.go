@@ -14,14 +14,16 @@ type cli struct {
 }
 
 type cmdRenameAsset struct {
-	Old string `arg:"required,positional" help:"Old asset filename"`
-	New string `arg:"required,positional" help:"New asset filename"`
+	Force bool   `arg:"force" help:"Ignore warning such as mismatch file extensions"`
+	Old   string `arg:"required,positional" help:"Old asset filename"`
+	New   string `arg:"required,positional" help:"New asset filename"`
 }
+
+const basePath = "./assets"
 
 func main() {
 	c := cli{}
 	arg.MustParse(&c)
-
 	switch {
 	case c.RenameAsset != nil:
 		err := c.RenameAsset.run()
@@ -32,7 +34,11 @@ func main() {
 }
 
 func (c *cmdRenameAsset) run() error {
-	const basePath = "./assets"
+	extOld, extNew := filepath.Ext(c.Old), filepath.Ext(c.New)
+	if extOld != extNew && !c.Force {
+		return fmt.Errorf("mismatch extension '%s' vs '%s' from src '%s' and dst '%s'", extOld, extNew, c.Old, c.New)
+	}
+
 	pathOld := filepath.Join(basePath, c.Old)
 	pathNew := filepath.Join(basePath, c.New)
 
