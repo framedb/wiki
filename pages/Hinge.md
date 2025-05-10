@@ -5,7 +5,7 @@ alias:: frame-hinge
 	- In vintage eyewear, they usually allowing at maximum \~90 degree of rotation
 	- In modern eyewear, springs are used in hinge, which allows >90 degree of rotation
 - # Parts
-	- ![hinge_parts.png](../assets/hinge_parts_1744577870455_0.png)
+	- ![hinge_parts.png](../assets/info_hinge_parts_0.png)
 	- Pin
 		- Holds the leaves together
 	- Leaf

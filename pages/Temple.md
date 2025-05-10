@@ -16,7 +16,7 @@ alias:: frame-temple
 				- [[Steel]]
 				- Titanum
 			- A #1920s frame with springy cable temples
-			  ![szemuveg-1920.jpeg](../assets/szemuveg-1920_1744575634994_0.jpeg)
+			  ![szemuveg-1920.jpeg](../assets/szemuveg-1920_0.jpeg)
 		- Some non-cable [metal temple]([[Metal]]) is also adjustable by simply bending the part
 		- [Acetate temple]([[Acetate]]) can be shaped when applied with heat, like with [[AO Flexi-Fit]]
 - # Types
@@ -42,7 +42,7 @@ alias:: frame-temple
 - # Styles
 	- Unlike [temple types](((67fc1d47-967d-46f7-8cc5-9e6312a71c43))) which are easily categorized, styles are informal ways of classifying temples based on its appearance
 	- ## [[Spatula temples]]
-		- ![spatula.webp](../assets/spatula_1744657795700_0.webp)
+		- ![spatula.webp](../assets/spatula_0.webp)
 		- Spatula temples are named after the kitchenware: spatula
 		- It generally fashions enlarged temple tips (compared to the rest of the temple)
 		- These enlarged temple tips might be bent to a degree, thus making them a subtype of ((67fc1e62-0e5a-41b8-bedf-bde0271589e7))
