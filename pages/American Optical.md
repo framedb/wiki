@@ -150,7 +150,7 @@ until:: [[1990s]]
 		- **1917**: The Wells bought remaining shares from the Coles, consolidating ownership into the Wells family
 		- **1910**: AO got a license to produce John Borsch’s fused *Kryptok* bifocal and one-piece *Ultex* bifocal lenses
 			- Kryptok comes from krypt (hidden) + tok (eye), which signifies its near-invisible bifocal
-			  ![kryptok.jpg](../assets/kryptok_0.jpg)
+			  ![kryptok.jpg](../assets/kryptok_bifocal_0.jpg)
 		- **1910**: AO continued to expand, and built a new lens factory *Lensdale* behind the main plant
 			- Lensdale was the largest US concrete building at the time
 			- ![ao_plant_1912.jpg](../assets/ao_factory_1912_0.jpg)
@@ -256,7 +256,7 @@ until:: [[1990s]]
 		- ![image.png](../assets/ao_rawhide_ads_0.png){:height 967, :width 718}
 	- [[American Optical Manhattan]]
 		- ![image.png](../assets/ao_manhattan_catalog_0.png)
-		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_ads_manhattan_1_0.png)
+		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_manhattan_ads_0.png)
 	- [[American Optical Modern Times]]
 		- ![image.png](../assets/ao_moderntimes_catalog.png)
 	- [[American Optical Jr. Modern Times]]
