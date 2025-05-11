@@ -9,6 +9,7 @@ frame-endpiece::
 frame-hinge:: [[7-barreled]] 
 frame-rivet::
 
+- AO Explorer is a [[Ophthalmic]] frame
 - # Features
   tags:: Features
 	- ## [[Bridge]]
