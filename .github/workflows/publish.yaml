@@ -41,7 +41,7 @@ jobs:
           path: www
 
   publish-to-branch:
-    if: ${{ contains(fromJson('["master", "contrib/build-on-every-push"]'), github.ref_name) }}
+    if: ${{ contains(fromJson('["master"]'), github.ref_name) }}
     name: Publish SPA to branch
     needs: build
     runs-on: ubuntu-latest
@@ -64,7 +64,6 @@ jobs:
           force_orphan: true
 
   deploy:
-    if: ${{ contains(fromJson('["master", "contrib/build-on-every-push"]'), github.ref_name) }}
     name: Deploy SPA from branch
     needs: publish-to-branch
     uses: ./.github/workflows/deploy_branch.yaml
