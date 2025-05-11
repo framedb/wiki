@@ -3,8 +3,6 @@ name: publish
 on:
     workflow_dispatch:
     push:
-      branches:
-        - master
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -14,8 +12,11 @@ permissions:
 
 jobs:
   build:
-    name: build and write site spa files to www
+    name: Build SPA
     runs-on: ubuntu-latest
+    outputs:
+      artifact-id: ${{ steps.upload.outputs.artifact-id }}
+
     steps:
       - name: checkout
         uses: actions/checkout@v4
@@ -32,6 +33,28 @@ jobs:
         # with:
         #   theme_mode: dark
 
+      - id: upload
+        name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: static-spa
+          path: www
+
+  publish-to-branch:
+    if: ${{ contains(fromJson('["master", "contrib/build-on-every-push"]'), github.ref_name) }}
+    name: Publish SPA to branch
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      # Download artifact and place it inside www.
+      # If path="./", then the whole artifact is unpacked at
+      # root of the workspace and might lead to data leaks
+      - name: Download pre-built zip artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: static-spa
+          path: www
+
       - name: Deploy to branch publish
         uses: peaceiris/actions-gh-pages@364c31d33bb99327c77b3a5438a83a357a6729ad # v3.4.0
         with:
@@ -41,8 +64,9 @@ jobs:
           force_orphan: true
 
   deploy:
-    name: Deploy from branch
-    needs: build
+    if: ${{ contains(fromJson('["master", "contrib/build-on-every-push"]'), github.ref_name) }}
+    name: Deploy SPA from branch
+    needs: publish-to-branch
     uses: ./.github/workflows/deploy_branch.yaml
     with:
       branch_name: publish
