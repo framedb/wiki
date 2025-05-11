@@ -14,7 +14,7 @@ alias:: FDR
 	- ## [[Hinge]]
 	  frame-hinge:: [[7-barreled]]
 		- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
-		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/sro_fdr_1_hinge_l_0.jpg)
+		  ![25E5BBB8-A425-4E34-97DF-9A2604654E15.jpg](../assets/sro_fdr_clear_44-24_1_hinge_l.jpg)
 		- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 		  ![94FBF57B-0AD1-44D2-B542-ECBC5D078554.jpg](../assets/fdr_amber_rear1_0.jpg)
 	- ## [[Rivet]]
@@ -28,7 +28,7 @@ alias:: FDR
 	  frame-temple:: [[Spatula temples]] [[Skull temple]]
 		- Earlier models lack [steel bars inside the temples]([[Reinforcement]])
 			- [SRO Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad)))
-			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/sro_fdr_1_sideprofile3_0.jpg)
+			  ![358D7460-1922-4E98-9E0E-8C28FF7D2DAE.jpg](../assets/sro_fdr_clear_44-24_1_side-3.jpg)
 			- [Unmarked Example 1](((67f40714-2a17-4fd0-a09b-c9f2a08612b2))):
 			  ![7A3E8F20-966D-489A-89D1-04F686A7A63A.jpg](../assets/fdr_amber_sideprofile_0.jpg)
 		- Later frames (i.e. from [[1960s]]) and the reproductions (e.g. [Julius Tart](https://www.juliustartoptical.com/fdr24.html)) usually come with [reinforced]([[Reinforcement]]) temples
@@ -47,7 +47,7 @@ alias:: FDR
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/fdr_amber_marking_0.jpg)
 		- **Anti-examples**: these examples are *not unmarked*! They are both marked with [[SRO]]:
 		  [SRO FDR Example 1](((67f40166-14f6-41ca-a0d8-a0c32c11caad))): with cursive logogram `Styl-Rite`
-		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_1_logo_0.jpg)
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_clear_44-24_1_logo.jpg)
 		  [SRO FDR Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))): marked with initials `SRO` - this one's typeface just looks just like the [unmarked example above](((67f42cb0-6ea6-4d0e-9fb3-ff2877eeaddc)))
 		  ![gl-a9170-6.jpg](../assets/sro_fdr_amber-2_0.jpg)
 - # #Photographs
@@ -70,9 +70,9 @@ alias:: FDR
 		- Temple differences
 		  ![1398358A-9FAD-4A88-907D-6B36ED056808.jpg](../assets/fdr_comparison_logo_0.jpg)
 		  ![37BD49BA-6B96-45A5-9CDC-E01772CA941D.jpg](../assets/fdr_amber_marking_0.jpg)
-		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_1_logo_0.jpg)
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_clear_44-24_1_logo.jpg)
 		- [[Hinge]] screws
-			- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/sro_fdr_1_screw_0.jpg)
+			- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/sro_fdr_clear_44-24_1_screw.jpg)
 			  ![083C775A-B615-433F-9F27-85A2EBBD359A.jpg](../assets/fdr_amber_hinge_0.jpg)
 		- ![CAFD2DCC-79DE-429C-905B-45635165C6B6.jpg](../assets/fdr_comparison_front_0.jpg)
 		- ![29E48DE3-74AA-4A68-9584-B1BA98702081.jpg](../assets/fdr_comparison_casual_0.jpg)
