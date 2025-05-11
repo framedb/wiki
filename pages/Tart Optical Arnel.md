@@ -22,7 +22,7 @@ frame-rivet::
 		- ![tart_arnel_comparison_oldnew_0.jpg](../assets/tart_arnel_comparison_oldnew_0.jpg)
 	- [Courtesy of Gig-Lamps](https://www.gig-lamps.com/home/1950s-1960s-tart-optical-arnel-2tone-blackxclear-size44-20/):
 	  > 1950s-60s two-tone black/clear with stamped temples
-		- ![tart_arnel_clear-blackwood_44-20_1_giglamps_1.jpg](../assets/tart_arnel_clear-blackwood_44-20_1_giglamps_1.jpg)
-		- ![tart_arnel_clear-blackwood_44-20_1_giglamps_4.jpg](../assets/tart_arnel_clear-blackwood_44-20_1_giglamps_4.jpg)
-		- ![tart_arnel_clear-blackwood_44-20_1_giglamps_2.jpg](../assets/tart_arnel_clear-blackwood_44-20_1_giglamps_2.jpg)
-		- ![tart_arnel_clear-blackwood_44-20_1_giglamps_3.jpg](../assets/tart_arnel_clear-blackwood_44-20_1_giglamps_3.jpg)
+		- ![tart_arnel_clearblackwood_44-20_1_giglamps_1.jpg](../assets/tart_arnel_clearblackwood_44-20_1_giglamps_1.jpg)
+		- ![tart_arnel_clearblackwood_44-20_1_giglamps_4.jpg](../assets/tart_arnel_clearblackwood_44-20_1_giglamps_4.jpg)
+		- ![tart_arnel_clearblackwood_44-20_1_giglamps_2.jpg](../assets/tart_arnel_clearblackwood_44-20_1_giglamps_2.jpg)
+		- ![tart_arnel_clearblackwood_44-20_1_giglamps_3.jpg](../assets/tart_arnel_clearblackwood_44-20_1_giglamps_3.jpg)
