@@ -34,7 +34,7 @@ jobs:
         #   theme_mode: dark
 
       - id: upload
-        name: Upload artifact
+        name: upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: static-spa
@@ -49,13 +49,13 @@ jobs:
       # Download artifact and place it inside www.
       # If path="./", then the whole artifact is unpacked at
       # root of the workspace and might lead to data leaks
-      - name: Download pre-built zip artifact
+      - name: download pre-built zip artifact
         uses: actions/download-artifact@v4
         with:
           name: static-spa
           path: www
 
-      - name: Deploy to branch publish
+      - name: deploy to branch publish
         uses: peaceiris/actions-gh-pages@364c31d33bb99327c77b3a5438a83a357a6729ad # v3.4.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
