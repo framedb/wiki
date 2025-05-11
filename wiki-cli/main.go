@@ -232,7 +232,7 @@ func hasRef(root string, b []byte) (bool, error) {
 		return nil
 	})
 	if err != nil {
-		return false, nil
+		return false, err
 	}
 	return referenced, nil
 }
