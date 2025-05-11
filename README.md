@@ -3,7 +3,9 @@
 FrameDB Wiki is a Logseq graph containing information and references
 about vintage eyewear, for collectors.
 
-See also: [soyart.github.io/logsex](https://soyart.github.io/logsex)
+It is based on [logsex](https://github.com/soyart/logsex),
+and will regularly be rebased on top of logsex. Branch master
+is actually just logsex.
 
 ## Scripts and Git hooks
 
@@ -23,15 +25,13 @@ git config --local core.hooksPath .githooks/
 
 FrameDB Wiki also provides a simple Go CLI program `wiki-cli`.
 
-wiki-cli provides tools for some tedious tasks, like renaming asset files.
-
 To use wiki-cli, build the executable first (or use scripts `build-cli.sh`):
 
 ```sh
-cd ./wiki-cli          # cd into /wiki-cli for go.mod
-go build ./cmd/main.go # Build executable /wiki-cli/main
-cp main ../cli         # Copy executable to /cli
-cd ..
+cd ./wiki-cli      # cd into /wiki-cli for go.mod
+go build ./main.go # Build executable
+cp main ../cli     # Copy executable to /cli
+cd ..              # cd back into previous pwd
 ```
 
 Then you can just run it to do stuff:
