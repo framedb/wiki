@@ -96,6 +96,10 @@ func (c *cmdRenameAssets) run() error {
 		if extK != extV && !c.Force {
 			return fmt.Errorf("mismatch extension '%s' vs '%s' from src '%s' and dst '%s'", extK, extV, old, new)
 		}
+		_, err := os.Stat(old)
+		if err != nil {
+			return fmt.Errorf("failed to stat old filename '%s': %w", old, err)
+		}
 
 		s[i] = [2]string{old, new}
 		i++
