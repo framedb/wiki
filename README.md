@@ -3,23 +3,18 @@
 FrameDB Wiki is a Logseq graph containing information and references
 about vintage eyewear, for collectors.
 
-It is based on [logsex](https://github.com/soyart/logsex),
+## Powered by logsex
+
+FrameDB is based on [logsex](https://github.com/soyart/logsex),
 and will regularly be rebased on top of logsex. Branch master
 is actually just logsex.
 
-## Scripts and Git hooks
+GitHub Actions workflow from logsex is used to build Logseq SPA,
+which then gets published to branch [`publish`](https://github.com/framedb/wiki/tree/publish).
+This branch is then deployed to GitHub Pages.
 
-logsex provides a set of shell scripts to work with Logseq documents.
-
-For example, `remove-collapsed.sh` quickly remove occurrences of `collapsed::`
-tag in Markdown documents. This prevents needless changes from our togglings.
-
-We can also enable a pre-commit Git hook that will run `remove-collasped.sh`
-on all files easily with:
-
-```shell
-git config --local core.hooksPath .githooks/
-```
+The entire FrameDB Wiki can be [obtained solely from branch `publish`](https://github.com/framedb/wiki/tree/publish),
+enabling it to be hosted anywhere easily.
 
 ## wiki-cli
 
@@ -46,3 +41,21 @@ Then you can just run it to do stuff:
 # Clean all unreferenced assets
 ./cli cleanup
 ```
+
+## Scripts and Git hooks
+
+logsex provides a set of shell scripts to work with Logseq documents.
+
+For example, `remove-collapsed.sh` quickly remove occurrences of `collapsed::`
+tag in Markdown documents. This prevents needless changes from our togglings.
+
+We can also enable a pre-commit Git hook that will run `remove-collasped.sh`
+on all files easily with:
+
+```shell
+git config --local core.hooksPath .githooks/
+```
+
+## Copyright and content policy
+
+See: [FrameDB Content Policy](https://github.com/framedb/wiki/tree/publish)
