@@ -20,7 +20,7 @@ import (
 type cli struct {
 	RenameAsset  *cmdRenameAsset  `arg:"subcommand:rename" help:"Rename 1 asset file and replace all references to the asset with the new filename"`
 	RenameAssets *cmdRenameAssets `arg:"subcommand:renames" help:"Read a JSON replacement map from file and rename those assets as well as references to the asset with the new filenames"`
-	CleanUp      *cmdCleanup      `arg:"subcommand:cleanup"`
+	CleanUp      *cmdCleanup      `arg:"subcommand:cleanup" help:"Remove assets without references (prompt before deletion)"`
 }
 
 type cmdRenameAsset struct {
@@ -45,22 +45,24 @@ const (
 func main() {
 	c := cli{}
 	arg.MustParse(&c)
-
-	var err error
-	switch {
-	case c.RenameAsset != nil:
-		err = c.RenameAsset.run()
-	case c.RenameAssets != nil:
-		err = c.RenameAssets.run()
-	case c.CleanUp != nil:
-		err = c.CleanUp.run()
-	default:
-		err = errors.New("unmatched subcommand")
-	}
-
-	if err != nil {
+	if err := run(&c); err != nil {
 		panic(err)
 	}
+}
+
+func run(c *cli) error {
+	switch {
+	case c.RenameAsset != nil:
+		return c.RenameAsset.run()
+
+	case c.RenameAssets != nil:
+		return c.RenameAssets.run()
+
+	case c.CleanUp != nil:
+		return c.CleanUp.run()
+	}
+
+	return errors.New("unmatched subcommand")
 }
 
 func (c *cmdRenameAsset) run() error {
