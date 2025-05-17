@@ -46,7 +46,7 @@ frame-endpiece::
 		- Note the yellowish hue in the acetate due to [acetate degradation]([[Acetate]])
 		- ![18B77F01-81DC-40AA-AAC6-297CBB55CFE2.jpg](../assets/sro_fdr_clear_44-24_1_front.jpg)
 		- SRO-stamped temple
-		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/6C558761-0263-44A1-9082-FA312F29FC29_1744044806790_0.jpg)
+		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_clear_44-24_1_logo.jpg)
 		- ![684D0675-1688-43FB-B0FF-62946800A1C7.jpg](../assets/sro_fdr_clear_44-24_1_rear.jpg)
 		- ![C1FC92C6-442C-451F-BA87-DA7325DD8569.jpg](../assets/sro_fdr_clear_44-24_1_screw.jpg)
 		- ![2A324FDC-53F0-442E-850A-409907DE0C65.jpg](../assets/sro_fdr_clear_44-24_1_side-1.jpg)
