@@ -1,0 +1,25 @@
+- {{embed [[About]]}}
+- GitHub: https://github.com/framedb
+- Facebook Page: [oldframes.mag](https://www.facebook.com/people/oldframesmag/61575039811810/)
+- Instagram: [oldframes.mag](https://instagram.com/oldframes.mag)
+- # Index
+	- [[Country of origins]]
+	- [[Frames]]
+	- [[Frame models]]
+	- All frame reference photos are indexed to #Photographs
+- # Popular
+	- [[American Optical]]
+		- [AO history 1800s](((67f532be-a5bc-4b28-bf31-fb1530cd220f)))
+		- [AO history 1900s](((67f54216-e289-4f00-8898-15427ef99b53)))
+	- [[Tart Optical]]
+	- [[Styl-Rite Optical]]
+	- [[Acetate]]
+	- [[Tart Optical Arnel]]
+	- [[Styl-Rite Optical 820]]
+	- [[American Optical Times]]
+	- [FDR frames]([[FDR]])
+	- [[Acetate]]
+	- [[Hinge]]
+- # Read more
+	- https://www.opticalheritagemuseum.com/
+	- https://www.dickwhitney.net/RBWAOHistoryIndex.html

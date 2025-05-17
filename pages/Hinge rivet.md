@@ -1,0 +1,3 @@
+- #Frame #Hinge #Rivet
+- Hinge rivets fastens the hinge to the temple
+- On #FrameDB, the other side of hinge rivets is called [[Temple rivet]]

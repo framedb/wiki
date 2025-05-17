@@ -41,7 +41,7 @@ jobs:
           path: www
 
   publish-to-branch:
-    if: ${{ contains(fromJson('["master"]'), github.ref_name) }}
+    if: ${{ contains(fromJson('["master", "dev"]'), github.ref_name) }}
     name: Publish SPA to branch
     needs: build
     runs-on: ubuntu-latest

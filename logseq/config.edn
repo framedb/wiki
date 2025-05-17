@@ -15,7 +15,7 @@
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden []
+ :hidden ["assets-extra" "wiki-cli"]
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -133,6 +133,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+ :default-home {:page "FrameDB"}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -299,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["framemodel" "framedb" "about" "framedbs" "photographs" "american optical" "styl-rite optical" "tart optical" "fdr-style frames" "american optical rawhide" "american optical times" "styl-rite optical 820" "styl-rite optical fdr" "tart optical arnel" "cellulose acetate" "american optical red dot screw"]
 
  ;; Set flashcards interval.
  ;; Expected value:

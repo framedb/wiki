@@ -1,0 +1,5 @@
+- [FrameDB Wiki](https://github.com/framedb/wiki) is an open-source wiki based on Logseq for vintage eyewear information
+- The main point is to consolidate all information in a knowledge base where everything can be indexed and retrieved easily, enabling cross references
+- We focus mostly on vintage [American and German/Austrian glasses]([[Country of origins]]), mostly from #1950s onwards
+- We do not claim to be anywhere near authoritative, and please feel free to correct any mistakes
+- Wanna help? Feel free to [contribute to FrameDB]([[Contribution]])
