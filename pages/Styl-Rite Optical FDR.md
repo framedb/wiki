@@ -38,7 +38,7 @@ frame-endpiece::
 		  ![6C558761-0263-44A1-9082-FA312F29FC29.jpg](../assets/sro_fdr_clear_44-24_1_logo.jpg)
 		- [Example 2](((67f41c8a-6a02-479c-a7fc-bb8c6e884539))):
 		  id:: 67f41d3e-d5be-4fcb-8a6e-18c45d91ddd4
-		  ![gl-a9170-6.jpg](../assets/sro_fdr_amber-2_0.jpg){:height 726, :width 718}
+		  ![gl-a9170-6.jpg](../assets/sro_fdr_amber-2_0.jpg)
 - # #Photographs
 	- ## Example 1
 	  id:: 67f40166-14f6-41ca-a0d8-a0c32c11caad

@@ -45,18 +45,18 @@ until:: [[1990s]]
 			- Executive Bifocal Safety lens
 			- Invented Calobar and Cruxite absorbtive glass
 	- ## AO logo history
-  | Introduction |                               Logo                                |
-  |:------------:|:-----------------------------------------------------------------:|
-  |     1885     |  ![ao_logo_1885.jpg](../assets/ao_logo_1885_0.jpg)  |
-  |     1889     |  ![ao_logo_1889.jpg](../assets/ao_logo_1889_0.jpg)  |
-  |     1911     |  ![ao_logo_1911.jpg](../assets/ao_logo_1911_0.jpg)  |
-  |     1929     |  ![ao_logo_1929.jpg](../assets/ao_logo_1929_0.jpg)  |
-  |     1943     |  ![ao_logo_1943.jpg](../assets/ao_logo_1943_0.jpg)  |
-  |     1959     |  ![ao_logo_1959.jpg](../assets/ao_logo_1959_0.jpg)  |
-  |     1965     | ![ao_logo_1965a.jpg](../assets/ao_logo_1965_0.jpg) |
-  |     1973     |  ![ao_logo_1973.jpg](../assets/ao_logo_1973_0.jpg)  |
-  |     1983     |  ![ao_logo_1983.jpg](../assets/ao_logo_1983_0.jpg)  |
-  |     1995     |  ![ao_logo_1995.jpg](../assets/ao_logo_1995_0.jpg)  |
+	  | Introduction |                        Logo                        |
+	  |:------------:|:--------------------------------------------------:|
+	  |     1885     | ![ao_logo_1885.jpg](../assets/ao_logo_1885_0.jpg)  |
+	  |     1889     | ![ao_logo_1889.jpg](../assets/ao_logo_1889_0.jpg)  |
+	  |     1911     | ![ao_logo_1911.jpg](../assets/ao_logo_1911_0.jpg)  |
+	  |     1929     | ![ao_logo_1929.jpg](../assets/ao_logo_1929_0.jpg)  |
+	  |     1943     | ![ao_logo_1943.jpg](../assets/ao_logo_1943_0.jpg)  |
+	  |     1959     | ![ao_logo_1959.jpg](../assets/ao_logo_1959_0.jpg)  |
+	  |     1965     | ![ao_logo_1965a.jpg](../assets/ao_logo_1965_0.jpg) |
+	  |     1973     | ![ao_logo_1973.jpg](../assets/ao_logo_1973_0.jpg)  |
+	  |     1983     | ![ao_logo_1983.jpg](../assets/ao_logo_1983_0.jpg)  |
+	  |     1995     | ![ao_logo_1995.jpg](../assets/ao_logo_1995_0.jpg)  |
 	- ## Full history: 1800s
 	  id:: 67f532be-a5bc-4b28-bf31-fb1530cd220f
 		- > Summarized from [The American Optical Company: A History](https://www.opticalheritagemuseum.com/learn/va/aohistory) by Diane Matuck
@@ -126,15 +126,14 @@ until:: [[1990s]]
 		- **1893**: AO became the world's largest, with 2 millions frames produced and 800 employees
 			- The workforce was mostly Francophone immigrants from Canada, who just immigrated to Southbridge
 		- ## AO *firsts* by 1800s
-- | Year |                                            Event
---|:-----|------------------------------------------------:
-  | 1874 |                               Rimless spectacles
-  | 1883 |                             The first lens plant
-  | 1884 |                                     Trial frames
-  | 1891 | Automatic lens edgers and gold-filled spectacles
-  | 1895 |                                  Eyeglass chains
-  | 1898 |                                   Eyeglass cases
-  | 1900 |                                     Toric lenses
+- | Year | Event |
+  | 1874 | Rimless spectacles |
+  | 1883 | The first lens plant |
+  | 1884 | Trial frames |
+  | 1891 | Automatic lens edgers and gold-filled spectacles |
+  | 1895 | Eyeglass chains |
+  | 1898 | Eyeglass cases |
+  | 1900 | Toric lenses |
 	- ## Full history: 1900s (WIP)
 	  id:: 67f54216-e289-4f00-8898-15427ef99b53
 		- > Note: Between 1911-1927, the trademark `Wellsworth` was used and became some what better known compared to AO. This led AO to try to bring more attention to its marketing names
@@ -253,7 +252,7 @@ until:: [[1990s]]
 	- [[American Optical Rawhide]]
 	  id:: 67f42cb0-5985-41ed-91dc-930804819192
 		- ![att.FjSkxE93RwGswhLKCBc2dMt_3Q2MW0F2RdRDD3FRnuU.jpg](../assets/ao_rawhide_catalog1_0.jpg)
-		- ![image.png](../assets/ao_rawhide_ads_0.png){:height 967, :width 718}
+		- ![image.png](../assets/ao_rawhide_ads_0.png)
 	- [[American Optical Manhattan]]
 		- ![image.png](../assets/ao_manhattan_catalog_0.png)
 		- ![Screenshot 2025-04-06 at 03.34.44.png](../assets/ao_manhattan_ads_0.png)
