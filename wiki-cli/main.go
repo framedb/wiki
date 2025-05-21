@@ -138,7 +138,7 @@ func (c *cmdCleanup) run() error {
 		return nil
 	})
 	if err != nil {
-		return nil
+		return fmt.Errorf("failed to gather file list at %s: %w", pathAssets, err)
 	}
 
 	slog.Info("gathered file list", slog.Duration("dur since start", time.Since(start)))
