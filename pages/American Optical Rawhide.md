@@ -1,18 +1,19 @@
 tags:: FrameModel
 alias:: AO Rawhide
-frame-manufacturer:: [[AO]] 
-frame-origin:: [[US]] 
-frame-era:: [[1960s]] 
-frame-material:: [[Acetate]] 
-frame-bridge:: [[keyhole]] 
-frame-hinge:: [[7-barreled]] 
-frame-temple:: [[Skull temple]] 
-frame-rivet:: [[Diamond rivet]] 
+frame-manufacturer:: [[American Optical]]
+frame-origin:: [[US]]
+frame-era:: [[1960s]]
+frame-material:: [[Zylonite]] 
+frame-bridge:: [[keyhole]]
+frame-hinge:: [[7-barreled]]
+frame-temple:: [[Skull temple]]
+frame-rivet:: [[Diamond rivet]]
 frame-endpiece::
 
 - ![rawhide-12.jpg](../assets/ao_rawhide_black_42-22_1_11.jpg)
   id:: 68127b09-3946-4523-adac-5f79e84988e2
 - AO Rawhide is a children's rugged [ophthalmic]([[Ophthalmic]]) frames, with lens size ranging to from 36-42
+	- See also: [AO Rawhide 1963 brochure](((67f42cb0-5985-41ed-91dc-930804819192)))
 - What made the Rawhide so cool is the fact that it has [braced front](((67f42cb0-e6f4-4b30-a169-5584a8ea2f06))) on the bridge of the frame
 - > We believe the Rawhide was produced and sold during from #1960s onward due to its reinforced and rugged construction.
   >

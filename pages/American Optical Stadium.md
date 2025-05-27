@@ -2,7 +2,7 @@ tags:: FrameModel
 alias:: AO Stadium
 frame-manufacturer:: [[American Optical]]
 frame-origin:: [[USA]]
-frame-era:: #1960s #1970s
+frame-era:: [[1960s]] [[1970s]]
 frame-material:: [[Acetate]]
 frame-bridge:: [[Keyhole]]
 frame-hinge:: [[7-barreled]]
