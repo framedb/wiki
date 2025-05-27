@@ -1,0 +1,2 @@
+- All references to photographs in FrameDB
+- See also: [[Content Policy]]

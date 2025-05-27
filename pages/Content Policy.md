@@ -1,0 +1,10 @@
+- Most of the media here, especially reference photographs, is ours
+- But there're still some 3rd-party images in use in #FrameDB
+- We firmly believe these usage falls under fair use
+- FrameDB is not monetized, most of the subject entities (i.e. the manufacturers) are also defunct, and we have very little to no interest in the reproduction eyewear world
+- ## 3rd-party images
+	- We try our best to use our own photos, but sometimes we'll have to borrow some photos from the Internet
+	- Our default policy for borrowed Internet content is to reference them as links
+	- But if we feel that an image is too significant/important to lose, or if its access is in jeopardy (i.e. it sits behind a paywall, login wall, etc.), then we'll download the image and include it in our wiki
+	- When that happens, we also try our best to give everything a clear credit/source identification. We only downloaded to preserve, not to steal credits
+		- An example of this would be this image which has both [link](((67f41d09-50fe-48c4-a916-aa8b57386dcf))) and [downloaded](((67f41d3e-d5be-4fcb-8a6e-18c45d91ddd4))) versions
