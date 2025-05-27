@@ -1,2 +1,2 @@
 tags:: Feature, Bridge
-alias:: keyhole
+alias:: keyhole, Keyhole
